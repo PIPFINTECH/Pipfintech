@@ -1,0 +1,1001 @@
+ADDRESS_ID,ADDRESS_TYPE,BUILDING_NUMBER,BLOCK_NAME,ADDRESS_LINE1,ADDRESS_LINE2,STREET_NAME,CITY_NAME,STATE_NAME,POSTAL_CODE,COUNTRY_CODE,ROW_CREATED_TIMESTAMP,ROW_UPDATED_TIMESTAMP
+63323991102,Home_Res,8,1 Kedzie Plaza,99751 Rieder Drive,Way,Kon'kovo,Nizhnekamsk,Bashkortostan,634000,RU,6/23/2000 21:29,7/11/2017 19:01
+51492313004,Other_Nat,7,9180 Burning Wood Pass,7 Aberg Way,Junction,Prospekt Vernadskogo,Mirnyy,Mari EL,211000,RU,4/22/2014 4:48,4/29/2017 1:08
+81414342009,Home_Citzn,8,122 Randy Pass,38928 Stuart Parkway,Lane,Timirjazevskoe,Elektrostal,Buryat,496000,RU,8/7/2014 1:35,7/3/2019 6:19
+16235324402,Home_Res,404,7 Badeau Trail,655 Stang Lane,Crossing,Caricyno,Kostroma,Buryat,946000,RU,12/23/2013 3:24,5/25/2017 15:03
+56317339806,Home_Citzn,33,615 Killdeer Court,144 Luster Drive,Terrace,Levoberezhnoe,Dinskaya,Buryat,941000,RU,1/24/2007 4:56,6/29/2018 11:27
+77122956406,Home_Res,7855,516 Grayhawk Way,24555 Sommers Center,Crossing,Ostankinskoe,Nizhneudinsk,Tuva,667000,RU,6/22/2008 21:24,3/9/2020 20:53
+75387904003,Work_Nat,4,1128 Northridge Park,55169 Monica Lane,Parkway,Sokolinaja Gora,Otradnaya,Sakha,978000,RU,9/6/2016 9:49,1/4/2019 12:49
+25434330007,Gaurdian_Nat,3,28394 Independence Pass,2 Sunbrook Terrace,Drive,Fili Davydkovo,Zimovniki,Altai,258000,RU,5/2/2009 10:32,3/22/2017 7:36
+12396710803,Work_Nat,365,923 Springview Lane,96967 Bonner Lane,Park,Ramenki,Kislovodsk,Ingushetia,946000,RU,9/6/2002 20:13,8/31/2019 15:15
+69411045101,Home_Res,41519,8 Amoth Way,6655 Bluestem Parkway,Court,Vostochnoe,Nesterov,Mordovia,166750,RU,10/23/2003 2:33,9/19/2017 13:32
+93482060404,Work_Non-Nat,3,1893 Chinook Junction,89356 Reindahl Drive,Way,Ajeroport,Rodniki,Chuvash,823000,RU,3/12/2014 6:47,9/20/2020 10:15
+47745447001,Home_Res,41616,17 Charing Cross Junction,26 Nevada Way,Lane,Mar'ina Roshha,Zernograd,Buryat,385000,RU,11/7/2011 2:25,9/29/2019 19:22
+1738768809,Home_Citzn,4367,6 Leroy Junction,1 Pierstorff Court,Trail,Teplyj Stan,Alagir,Khakass,258000,RU,7/27/2005 20:53,3/6/2017 18:05
+63972567900,Gaurdian_Nat,2,450 Eastlawn Court,30 Dawn Point,Avenue,Poselenie Kievskij,Urus-Martan,Mari EL,211000,RU,12/18/2010 16:06,1/24/2018 21:45
+16289788408,Gaurdian_Nat,926,5 Springview Road,4894 Scott Avenue,Lane,Krylatskoe,Pokrovskoye,Komi,369000,RU,8/6/2011 22:05,4/13/2019 23:44
+67721347405,Other_Nat,75,9884 Clyde Gallagher Pass,5774 Manufacturers Street,Point,Danilovskoe,Noyabrsk,Komi,118000,RU,5/1/2007 10:10,12/21/2017 9:56
+62505144409,Work_Non-Nat,3,36283 Orin Hill,01 Ilene Lane,Point,Jakimanka,Tayga,Altai,496000,RU,3/23/2008 6:17,1/1/2020 19:07
+42971632303,Home_Citzn,3,5683 Glacier Hill Court,9 Thompson Road,Parkway,Chertanovo Severnoe,Primorsko-Akhtarsk,Tatarstan,895000,RU,8/6/2012 17:40,6/12/2019 23:36
+6928140403,Work_Non-Nat,49305,8216 Carioca Avenue,04365 Blue Bill Park Plaza,Parkway,Caricyno,Buy,Dagestan,153000,RU,2/20/2020 3:32,1/28/2020 23:39
+69419775704,Home_Citzn,5769,3 Hollow Ridge Junction,7474 Village Green Avenue,Junction,Gagarinskoe,Shadrinsk,Adygey,333000,RU,10/26/2005 0:58,12/16/2019 3:11
+3641447500,Other_Nat,51731,5 La Follette Point,31 Lakewood Parkway,Place,Troickij okrug,Noginsk,Altai,160000,RU,10/24/2010 16:25,5/30/2020 10:03
+6691742809,Gaurdian_Nat,714,54 Nova Court,8964 Grover Center,Court,Jakimanka,Yakutsk,Ingushetia,946000,RU,8/8/2005 4:36,8/14/2019 17:25
+4490957602,Other_Non-Nat,15,6721 Superior Trail,4 Ridge Oak Point,Center,Molzhaninovskoe,Osinniki,Mordovia,857000,RU,1/29/2003 12:17,12/5/2018 0:14
+84711688102,Other_Non-Nat,24,83245 Warner Pass,35476 Emmet Plaza,Junction,Severnoe,Slavgorod,Sakha,338000,RU,11/23/2012 1:29,7/4/2020 3:49
+23868587007,Gaurdian_Non-Nat,2925,814 Arapahoe Plaza,1509 5th Lane,Avenue,Vostochnoe,Krasnogorsk,North-Ossetia-Alania,338000,RU,1/23/2016 2:10,11/9/2019 17:27
+15938582005,Home_Res,28941,9767 Mockingbird Court,849 Granby Plaza,Avenue,Dorogomilovo,Kirzhach,Kabardino-Balkar,338000,RU,10/27/2001 19:18,3/31/2020 23:09
+84247715204,Home_Citzn,6,0348 Union Center,26371 Prairie Rose Pass,Park,Novokosino,Yuzhno-Sakhalinsk,Chechnya,484000,RU,8/30/2003 0:16,8/8/2018 4:55
+17802934405,Gaurdian_Nat,1946,5305 Comanche Plaza,1509 Vermont Parkway,Terrace,Butyrskoe,Petrovsk,Dagestan,741000,RU,9/4/2012 14:09,11/6/2020 20:25
+49083443503,Gaurdian_Nat,6368,61 Hoffman Parkway,45 Hollow Ridge Alley,Plaza,Poselenie Moskovskij,Gay,Chuvash,484000,RU,12/14/2007 23:54,3/16/2017 14:52
+42918957908,Home_Citzn,18081,72 Mosinee Park,916 Summit Street,Street,Vostochnoe Degunino,Makhachkala,Khakass,297000,RU,2/13/2005 2:30,10/7/2019 8:26
+59103215404,Gaurdian_Nat,7692,3263 David Drive,9358 Main Lane,Plaza,Poselenie Pervomajskoe,Argun,Kalmykia,259000,RU,5/12/2016 0:38,11/4/2019 8:26
+49400475309,Other_Nat,67014,812 Spaight Pass,0749 Ridgeview Drive,Point,Filevskij Park,Prokhladnyy,Khakass,118000,RU,5/16/2003 9:47,11/1/2017 2:18
+44035932901,Gaurdian_Non-Nat,2846,211 Cardinal Road,45401 Hanover Center,Crossing,Severnoe Medvedkovo,Krymsk,Kalmykia,879000,RU,7/1/2012 3:29,8/14/2018 17:47
+9774608403,Work_Non-Nat,25,48117 Schmedeman Hill,04 Monterey Court,Road,Nekrasovka,Yalutorovsk,Bashkortostan,521000,RU,6/18/2003 2:05,5/10/2019 3:29
+49530960405,Gaurdian_Non-Nat,823,25 Westport Parkway,023 Bashford Center,Road,Severnoe Izmajlovo,Kirovo-Chepetsk,Kalmykia,941000,RU,8/18/2003 10:25,9/5/2018 3:26
+56546898806,Other_Non-Nat,70997,130 Fuller Avenue,75619 Shopko Trail,Avenue,Donskoe,Volkhov,Buryat,248000,RU,1/16/2017 13:24,9/27/2018 14:17
+89734753407,Gaurdian_Non-Nat,33,61535 Talmadge Lane,7 Swallow Lane,Terrace,Perovo,Tyrnyauz,Karelia,484000,RU,12/25/2001 13:01,10/2/2020 6:08
+84325578101,Work_Nat,9,96503 Shelley Court,6167 Kennedy Center,Court,Severnoe Medvedkovo,Kolchugino,North-Ossetia-Alania,777000,RU,11/18/2010 18:16,8/17/2020 3:40
+79363328603,Gaurdian_Nat,6832,42 Cherokee Plaza,131 Dexter Crossing,Street,Bogorodskoe,Millerovo,Kabardino-Balkar,669000,RU,3/11/2008 1:10,7/18/2019 0:33
+9255705204,Work_Nat,239,0 Northland Trail,51246 Portage Hill,Street,Pechatniki,Kovrov,Altai,857000,RU,6/7/2017 12:02,8/20/2020 7:14
+15811063904,Gaurdian_Non-Nat,98,612 Cordelia Crossing,2341 Florence Hill,Park,Ochakovo-Matveevskoe,Protvino,Kabardino-Balkar,311000,RU,5/15/2017 4:24,4/7/2018 7:15
+72557771004,Other_Non-Nat,315,0 Meadow Vale Point,759 Nevada Trail,Circle,Moskvorech'e-Saburovo,Starominskaya,Karachay-Cherkess,941000,RU,6/20/2008 21:24,8/1/2018 11:37
+98690834407,Gaurdian_Non-Nat,204,7 Sunbrook Crossing,8 Kinsman Way,Center,Ljublino,Remontnoye,Khakass,118000,RU,4/22/2004 22:18,10/17/2020 19:33
+58131722101,Other_Nat,23131,570 International Circle,666 Quincy Parkway,Parkway,Horoshevo-Mnevniki,Parma,Altai,357000,RU,11/17/2001 19:04,4/24/2017 3:10
+44214401705,Other_Nat,527,1461 Golf Crossing,76 Jenifer Lane,Place,Basmannoe,Varygino,Karelia,555000,RU,5/24/2013 5:53,12/31/2018 23:07
+50896418907,Work_Nat,1,6000 Randy Park,1 Sunfield Hill,Alley,Krasnosel'skoe,Artëm,Sakha,841000,RU,3/20/2016 23:24,5/5/2020 22:36
+24786249400,Gaurdian_Non-Nat,3624,2 Stuart Point,9985 Buena Vista Parkway,Drive,Vojkovskoe,Vologda,Chechnya,264000,RU,1/28/2014 18:32,10/3/2018 9:10
+17532290409,Home_Citzn,243,23064 Glacier Hill Parkway,99 Sutteridge Center,Court,Babushkinskoe,Aleksandrov,Tatarstan,777000,RU,7/29/2000 7:03,8/23/2018 2:12
+75892434206,Gaurdian_Nat,99488,4606 Ridge Oak Way,12184 Montana Park,Crossing,Zapadnoe Degunino,Tula,Kalmykia,147000,RU,6/29/2011 21:05,4/12/2019 0:35
+13749275200,Home_Citzn,25,28895 Rigney Trail,06960 Harper Hill,Center,Otradnoe,Zavodoukovsk,Khakass,163000,RU,1/24/2018 21:32,1/17/2019 11:06
+63768606408,Home_Citzn,7,138 Cody Junction,365 Northview Trail,Park,Gagarinskoe,Goryachiy Klyuch,Tuva,163000,RU,11/6/2014 8:03,5/12/2020 11:17
+61062307703,Work_Nat,9,8195 Hayes Terrace,656 Fairfield Alley,Drive,Bibirevo,Bagrationovsk,Khakass,941000,RU,11/18/2011 3:03,6/9/2020 22:35
+67042682305,Gaurdian_Nat,1,908 Arrowood Park,00 Forest Run Terrace,Pass,Mitino,Sarapul,Tuva,823000,RU,12/5/2013 7:23,5/23/2018 8:39
+44077260509,Work_Nat,27831,460 Artisan Trail,08 Saint Paul Pass,Hill,Shhukino,Zainsk,Kalmykia,374000,RU,9/4/2016 6:06,1/21/2017 11:24
+73149881808,Home_Res,76,06 Chinook Avenue,620 Sullivan Alley,Pass,Vostochnoe,Volgodonsk,Ingushetia,667000,RU,3/24/2016 2:09,6/20/2018 8:17
+98628079101,Other_Nat,4,564 Troy Parkway,596 Columbus Center,Trail,Nagatinskij Zaton,Kartaly,Dagestan,333000,RU,3/8/2012 14:55,8/8/2019 2:16
+74497331808,Other_Non-Nat,1,72589 Meadow Ridge Hill,597 Thierer Junction,Road,Novokosino,Ust’-Ilimsk,Mari EL,153000,RU,8/9/2008 12:46,12/12/2018 21:24
+61199741506,Work_Nat,7,201 Roth Terrace,9424 Annamark Pass,Place,Chertanovo Severnoe,Mikhaylovka,Bashkortostan,167000,RU,10/20/2010 7:01,12/9/2019 23:03
+3303757706,Work_Non-Nat,92,6462 Hanover Alley,0959 Chive Plaza,Way,Donskoe,Safonovo,Khakass,611000,RU,8/21/2012 15:30,4/10/2019 10:53
+61407332207,Gaurdian_Nat,1,8322 Donald Avenue,945 New Castle Hill,Park,Vnukovo,Taganrog,Buryat,521000,RU,12/21/2001 12:28,3/21/2020 14:52
+31486720809,Other_Nat,6,0 Nelson Court,678 Melrose Way,Terrace,Pokrovskoe Streshnevo,Kurganinsk,Tuva,823000,RU,7/22/2016 16:46,1/3/2020 13:56
+95753823007,Work_Nat,9,745 Jenna Park,78 Boyd Crossing,Way,Poselenie Pervomajskoe,Novoaleksandrovsk,Altai,101000,RU,7/15/2007 6:45,11/2/2020 15:47
+14409090803,Home_Citzn,781,8 Morning Avenue,50 Arkansas Crossing,Court,Kapotnja,Konakovo,Mordovia,257000,RU,5/3/2020 10:13,10/23/2018 1:24
+56994246100,Work_Nat,5,042 Haas Hill,027 Derek Road,Alley,Begovoe,Cherneya,Altai,347000,RU,4/16/2014 14:32,3/2/2018 4:34
+15979882600,Work_Nat,604,7225 Sauthoff Park,18840 Hollow Ridge Drive,Trail,Jaroslavskoe,Kovrov,Bashkortostan,610000,RU,2/14/2020 12:08,10/9/2017 20:23
+17740215306,Gaurdian_Nat,8896,49 Steensland Road,5 Derek Avenue,Lane,Taganskoe,Kulebaki,Khakass,741000,RU,2/27/2011 4:52,11/21/2017 6:11
+35331597001,Gaurdian_Nat,3330,0 Thierer Road,70018 Anhalt Crossing,Crossing,Kuz'minki,Akhtubinsk,Adygey,473000,RU,11/28/2011 7:14,2/19/2018 9:34
+83239430807,Work_Nat,11115,22 Dapin Point,4 Schmedeman Parkway,Point,Severnoe Medvedkovo,Shovgenovskiy,Altai,258000,RU,6/4/2012 9:01,8/7/2019 18:45
+25754519900,Other_Non-Nat,79205,16 Hanover Way,89 Dottie Hill,Terrace,Dorogomilovo,Elektrostal,Tatarstan,589000,RU,6/29/2013 4:10,6/29/2017 19:12
+74564291101,Other_Non-Nat,5,2095 Schmedeman Terrace,97 Gulseth Point,Parkway,Arbat,Shali,Kalmykia,758000,RU,11/14/2013 8:38,12/31/2018 0:04
+47022011007,Other_Nat,41182,8928 Pond Court,1676 Elmside Circle,Trail,Ochakovo-Matveevskoe,Tara,Adygey,385000,RU,11/18/2004 22:24,5/4/2017 11:53
+30842638303,Home_Citzn,6,557 Mayfield Way,3988 Grim Parkway,Way,Arbat,Naro-Fominsk,Ingushetia,895000,RU,10/23/2002 21:02,6/27/2020 18:41
+74860180200,Gaurdian_Nat,63236,51675 Lakewood Road,9161 Glendale Drive,Pass,Zjuzino,Vyshniy Volochëk,Kabardino-Balkar,711000,RU,6/2/2012 7:09,7/29/2018 16:46
+82515886500,Other_Nat,3,62675 Bultman Alley,29347 Arrowood Place,Junction,Chertanovo Juzhnoe,Vidnoye,Kalmykia,445000,RU,3/12/2009 12:30,11/20/2018 14:37
+85260910500,Home_Res,600,1 Veith Crossing,8946 Superior Pass,Lane,Begovoe,Naberezhnyye Chelny,Ingushetia,246000,RU,5/5/2007 17:32,8/16/2019 23:16
+47237732105,Other_Non-Nat,74452,3828 Prairie Rose Court,258 Twin Pines Parkway,Circle,Mar'ina Roshha,Severobaykalsk,North-Ossetia-Alania,888000,RU,3/6/2014 3:31,10/1/2018 20:51
+24948008200,Home_Citzn,360,329 Forest Dale Pass,55215 Summit Crossing,Street,Poselenie Desjonovskoe,Kotelniki,Ingushetia,521000,RU,5/6/2008 8:27,12/21/2019 22:42
+58459486605,Gaurdian_Non-Nat,18,926 West Trail,70927 Eagle Crest Place,Plaza,Sokolinaja Gora,Volosovo,Sakha,259000,RU,7/14/2000 6:51,7/28/2017 8:44
+25088146709,Gaurdian_Non-Nat,0,6 Rowland Road,0 Larry Junction,Road,Hovrino,Timashevsk,Mordovia,159000,RU,1/30/2018 19:04,4/27/2018 0:07
+87941216201,Other_Non-Nat,18,0889 Colorado Park,0 Bluejay Street,Lane,Tekstil'shhiki,Zheleznovodsk,Kabardino-Balkar,484000,RU,7/8/2006 4:27,5/4/2019 22:12
+48750837000,Work_Non-Nat,9352,24 Thierer Lane,094 Meadow Ridge Park,Place,Ostankinskoe,Volkhov,Karachay-Cherkess,180000,RU,10/5/2015 0:13,5/18/2020 3:23
+23676803503,Gaurdian_Nat,5529,7 Calypso Crossing,81 Little Fleur Hill,Parkway,Poselenie Kokoshkino,Volgodonsk,Kalmykia,163000,RU,5/8/2010 7:08,1/20/2017 7:21
+26332099603,Other_Nat,5507,6052 Bluejay Way,29905 Delaware Plaza,Street,Izmajlovo,Vel’ye,Mordovia,424000,RU,12/16/2003 0:41,11/18/2018 23:49
+12980905407,Gaurdian_Nat,2,30630 Barnett Terrace,8 Cordelia Pass,Center,Birjulevo Zapadnoe,Borzya,Bashkortostan,359000,RU,11/30/2014 8:23,8/5/2019 17:50
+88928049208,Home_Citzn,3268,447 Judy Crossing,12657 Lillian Parkway,Crossing,Sokol'niki,Mayskiy,Karachay-Cherkess,511000,RU,9/10/2013 9:42,6/20/2020 18:47
+99636012305,Gaurdian_Nat,68,03222 Crest Line Avenue,7 Quincy Crossing,Lane,Gol'janovo,Elektrogorsk,Chechnya,445000,RU,1/7/2005 15:43,7/18/2020 18:55
+50456422305,Home_Citzn,12066,243 Shopko Place,89754 Carioca Pass,Circle,Nagatinskij Zaton,Shatura,Bashkortostan,496000,RU,4/22/2011 2:45,9/29/2017 16:46
+24645328403,Other_Non-Nat,727,83 Amoth Pass,62 Kennedy Pass,Trail,Vyhino-Zhulebino,Chusovoy,Tuva,649000,RU,11/10/2020 2:25,7/5/2019 15:37
+58290264703,Work_Nat,8563,8 Bultman Circle,5159 New Castle Trail,Road,Hovrino,Tuymazy,Altai,297000,RU,5/2/2007 8:05,3/16/2018 8:41
+48177054609,Gaurdian_Nat,4260,671 Hauk Lane,3331 Morning Crossing,Point,Severnoe,Berëzovskiy,Kalmykia,194000,RU,12/6/2002 4:43,7/15/2017 21:02
+7829362808,Other_Non-Nat,287,68463 Meadow Vale Place,495 Fremont Hill,Avenue,Poselenie Rjazanovskoe,Lytkarino,Ingushetia,334000,RU,2/2/2005 22:03,6/9/2020 10:26
+3301412306,Other_Non-Nat,4,0329 Pleasure Lane,55952 Gerald Parkway,Circle,Otradnoe,Bol’shaya Martynovka,North-Ossetia-Alania,511000,RU,8/22/2006 6:25,7/7/2019 1:43
+31735403100,Work_Nat,7,93319 Harper Crossing,3003 Dorton Center,Road,Kosino-Uhtomskoe,Serdobsk,Bashkortostan,963000,RU,12/11/2005 17:46,12/19/2020 16:51
+45251575805,Home_Citzn,3366,0153 Schlimgen Pass,0 Arizona Center,Alley,Caricyno,Varygino,Buryat,357000,RU,3/28/2003 22:00,10/10/2019 9:15
+74062997906,Gaurdian_Non-Nat,1087,5 Sachs Point,9 Monument Way,Place,Kotlovka,Kuybyshevo,North-Ossetia-Alania,841000,RU,12/25/2020 2:37,1/8/2019 17:39
+35487595201,Home_Res,5,661 Bartillon Parkway,0 Buhler Place,Crossing,Hamovniki,Kuybyshev,Adygey,374000,RU,7/9/2016 8:12,8/2/2017 7:03
+41703163004,Home_Res,6,0 Fair Oaks Junction,21890 Moulton Avenue,Road,Vojkovskoe,Nazarovo,Karelia,268000,RU,9/17/2014 4:52,9/24/2020 16:10
+29247859502,Gaurdian_Non-Nat,72016,17 Russell Lane,70 Rusk Circle,Pass,Filevskij Park,Kresty,Karachay-Cherkess,711000,RU,3/29/2004 2:11,11/1/2018 7:03
+25068219700,Work_Nat,8,74 Village Green Circle,2063 Namekagon Terrace,Plaza,Akademicheskoe,Rybinsk,Kalmykia,147000,RU,1/23/2000 6:50,5/14/2018 12:51
+79454483408,Home_Citzn,52,0485 Corscot Junction,15921 Pearson Court,Road,Kon'kovo,Gorodets,Khakass,163000,RU,12/21/2009 20:41,3/6/2020 7:05
+30603575306,Gaurdian_Non-Nat,59643,96486 Lake View Road,545 Kensington Way,Place,Caricyno,Irbit,Kabardino-Balkar,259000,RU,4/29/2020 12:03,12/29/2019 9:06
+1196022601,Gaurdian_Nat,9,30 Redwing Junction,15330 Longview Junction,Junction,Mitino,Bolgatovo,Khakass,311000,RU,12/30/2016 4:43,4/28/2020 0:00
+37129459202,Work_Nat,9798,18388 Dahle Lane,057 Sachtjen Avenue,Pass,Bibirevo,Kirishi,Chuvash,351000,RU,8/11/2012 23:33,12/7/2019 4:11
+33659570409,Work_Nat,2797,8 Debra Avenue,3485 Pawling Point,Trail,Dmitrovskoe,Noginsk,Buryat,385000,RU,11/10/2019 23:24,12/22/2019 22:41
+78165428905,Work_Non-Nat,255,92862 Mallard Crossing,40715 Butternut Park,Hill,Troparevo-Nikulino,Guryevsk,Kalmykia,180000,RU,10/26/2015 4:01,3/18/2019 22:44
+9835324000,Other_Non-Nat,48,3 Service Way,94587 Huxley Trail,Way,Severnoe Tushino,Mostishche,Chechnya,879000,RU,8/12/2017 8:08,2/21/2020 15:29
+9180481205,Home_Citzn,3,608 Ryan Junction,09 Summer Ridge Park,Junction,Poselenie Voronovskoe,Magnitogorsk,Karachay-Cherkess,180000,RU,1/10/2019 9:55,11/8/2017 17:38
+41170183209,Gaurdian_Non-Nat,9464,13710 Mcbride Street,128 Hazelcrest Parkway,Hill,Juzhnoe Tushino,Bratsk,Tatarstan,101000,RU,1/4/2019 23:21,10/19/2020 5:37
+31610809701,Gaurdian_Nat,996,7 Kensington Place,8 Veith Street,Street,Cheremushki,Ufa,North-Ossetia-Alania,857000,RU,4/19/2000 11:39,4/15/2018 8:56
+85583164202,Work_Nat,10756,71364 Clove Trail,9418 Marcy Parkway,Parkway,Presnenskoe,Anapa,Udmurt,176000,RU,9/2/2016 22:34,1/20/2017 11:13
+74148260900,Home_Res,7,3 Trailsway Parkway,56 Evergreen Place,Avenue,Poselenie Moskovskij,Novokuznetsk,Bashkortostan,264000,RU,8/3/2018 6:43,9/24/2017 0:29
+68675161104,Work_Nat,14,0744 David Circle,8 Hollow Ridge Parkway,Circle,Prospekt Vernadskogo,Yelabuga,Chuvash,558000,RU,7/16/2018 22:18,12/19/2019 11:56
+5886496600,Other_Non-Nat,7666,57 Onsgard Street,415 Maple Point,Place,Molzhaninovskoe,Uspenskoye,Bashkortostan,333000,RU,7/24/2020 17:57,8/11/2019 7:18
+42018690901,Gaurdian_Nat,312,751 Erie Road,28 Becker Trail,Avenue,Sviblovo,Nizhnekamsk,Khakass,153000,RU,7/9/2011 3:39,10/18/2020 19:24
+82992045108,Home_Res,79,489 Mendota Terrace,62 Park Meadow Pass,Parkway,Hovrino,Il’inskoye,Mordovia,674000,RU,4/15/2009 9:58,5/17/2020 7:37
+96705799405,Home_Res,4,664 Arkansas Trail,93436 Vidon Center,Place,Strogino,Leninsk-Kuznetskiy,Adygey,841000,RU,10/1/2018 8:32,10/29/2017 18:18
+23911504203,Work_Non-Nat,32663,6470 Bluestem Circle,15 Farwell Avenue,Point,Nagatinskij Zaton,Vladivostok,Sakha,852000,RU,12/15/2018 8:23,10/6/2018 23:58
+32309431407,Work_Non-Nat,61335,4 Manley Alley,5514 Victoria Road,Park,Ajeroport,Staraya Russa,Tatarstan,946000,RU,4/2/2016 3:52,12/24/2020 6:51
+13591675905,Home_Res,7081,7 Iowa Trail,4536 Tony Street,Terrace,Nagatinskij Zaton,Velikiye Luki,Chechnya,963000,RU,8/19/2013 21:46,10/4/2017 5:08
+5078297501,Work_Non-Nat,5282,2 Roxbury Place,38897 Oneill Hill,Avenue,Horoshevo-Mnevniki,Chelyabinsk,Udmurt,160000,RU,11/26/2020 20:49,12/16/2020 5:07
+23741370301,Home_Res,6550,9112 Gale Alley,52036 Atwood Alley,Terrace,Begovoe,Urus-Martan,Altai,385000,RU,11/2/2016 10:33,9/21/2020 10:44
+49765621007,Work_Non-Nat,17282,380 Holmberg Avenue,5866 Crescent Oaks Terrace,Trail,Poselenie Shhapovskoe,Ramenskoye,Mordovia,338000,RU,1/1/2006 2:01,1/24/2019 2:28
+7272324600,Gaurdian_Non-Nat,5,90 Di Loreto Drive,084 5th Trail,Park,Sokol'niki,Serov,Sakha,985000,RU,5/30/2003 1:56,11/19/2017 23:37
+12147128708,Work_Nat,55,60 Garrison Park,01 Stang Crossing,Crossing,Poselenie Rogovskoe,Yelizovo,Dagestan,228000,RU,5/30/2011 1:28,9/8/2017 16:03
+30470453005,Gaurdian_Non-Nat,2934,96150 Coleman Lane,468 Jackson Alley,Terrace,Solncevo,Nyagan,Karelia,158000,RU,6/18/2009 20:34,8/25/2019 19:31
+99366098008,Gaurdian_Non-Nat,16,8050 John Wall Point,4493 Drewry Crossing,Junction,Poselenie Voronovskoe,Kamensk-Shakhtinskiy,Karelia,777000,RU,7/15/2008 20:52,3/1/2018 6:33
+47504458207,Work_Non-Nat,577,342 Garrison Avenue,73237 Emmet Center,Circle,Chertanovo Juzhnoe,Zavodoukovsk,Ingushetia,167000,RU,4/30/2018 21:35,9/9/2017 20:12
+53908825603,Work_Nat,4243,498 Jay Point,7 Weeping Birch Circle,Road,Moskvorech'e-Saburovo,Bol’shaya Martynovka,Karelia,634000,RU,2/12/2008 23:48,3/31/2019 15:15
+6299622109,Gaurdian_Non-Nat,7521,0976 Farwell Street,9 Meadow Valley Lane,Crossing,Veshnjaki,Yanaul,Buryat,160000,RU,2/13/2017 21:59,1/11/2019 11:42
+10558608501,Gaurdian_Nat,975,89 Swallow Plaza,3 Reindahl Trail,Crossing,Gol'janovo,Rzhev,Chuvash,167000,RU,2/22/2006 22:12,5/22/2018 18:55
+53063316405,Home_Citzn,276,3852 Meadow Valley Way,033 Loftsgordon Point,Junction,Novogireevo,Svetlyy,Buryat,667000,RU,4/6/2002 17:23,6/22/2017 9:00
+83597805208,Work_Non-Nat,27,69 Fordem Way,93 Sommers Hill,Pass,Poselenie Pervomajskoe,Tomsk,Udmurt,411000,RU,4/23/2017 6:06,2/26/2018 0:07
+53833868105,Home_Citzn,82,17873 Birchwood Crossing,1 Utah Place,Hill,Lianozovo,Kropotkin,Karelia,351000,RU,3/22/2007 3:53,3/8/2017 15:25
+35693850708,Other_Non-Nat,9,296 4th Parkway,4 Prairie Rose Place,Hill,Birjulevo Vostochnoe,Sebezh,Chechnya,180000,RU,7/17/2013 4:43,11/26/2019 0:19
+68889637408,Home_Citzn,5,9 Roxbury Way,909 Eliot Park,Center,Cheremushki,Kinel,Mari EL,147000,RU,8/20/2013 16:21,3/26/2018 20:08
+71054870003,Work_Nat,7610,9978 7th Avenue,434 Luster Lane,Lane,Birjulevo Vostochnoe,Kovrov,Adygey,875000,RU,2/16/2002 8:27,4/11/2018 13:40
+22761125605,Other_Nat,44624,0 Lawn Terrace,05 Artisan Alley,Place,Poselenie Marushkinskoe,Neman,Adygey,311000,RU,3/8/2016 19:01,3/24/2019 6:21
+80672782808,Other_Nat,20445,980 Novick Hill,07928 Lerdahl Way,Parkway,Kuz'minki,Tsimlyansk,Buryat,279000,RU,3/7/2011 20:21,3/5/2020 12:34
+22337729504,Work_Nat,718,834 4th Court,26 Duke Pass,Circle,Poselenie Desjonovskoe,Bagayevskaya,Tuva,297000,RU,4/25/2006 17:14,5/12/2018 1:14
+11762256609,Work_Nat,654,94 Northview Parkway,4745 Maple Wood Parkway,Point,Kosino-Uhtomskoe,Belaya Kalitva,Buryat,166000,RU,6/20/2008 5:26,4/24/2020 14:51
+26496060601,Gaurdian_Non-Nat,612,642 Milwaukee Center,13442 Grasskamp Center,Way,Bibirevo,Kstovo,Mari EL,180000,RU,9/3/2003 8:37,4/14/2020 2:46
+81910565000,Gaurdian_Non-Nat,3416,2 Anderson Plaza,2 East Lane,Avenue,Vyhino-Zhulebino,Igra,Sakha,424000,RU,6/1/2005 2:09,12/30/2018 23:02
+77751548307,Other_Non-Nat,86,70 Laurel Plaza,4549 Sage Park,Terrace,Poselenie Kokoshkino,Otradnyy,Bashkortostan,985000,RU,1/25/2013 22:19,11/27/2020 13:09
+77408363602,Gaurdian_Non-Nat,52,9 Golf View Pass,66291 Reinke Alley,Alley,Cheremushki,Bagrationovsk,Chuvash,496000,RU,8/21/2004 20:10,3/25/2019 23:59
+48881450705,Gaurdian_Nat,55105,83246 Oxford Plaza,01359 Colorado Junction,Drive,Lianozovo,Omsk,Tuva,334000,RU,3/28/2000 2:39,3/19/2019 7:15
+85794051300,Home_Res,43,3320 Merry Point,43249 Pearson Avenue,Junction,Arbat,Volzhsk,Bashkortostan,649000,RU,7/7/2020 22:21,4/24/2017 23:22
+35359710407,Gaurdian_Nat,2696,6311 Barnett Trail,8 International Alley,Court,Ostankinskoe,Krasnoarmeysk,Chuvash,264000,RU,3/30/2019 12:58,4/24/2017 1:03
+13602855200,Home_Citzn,400,9691 Johnson Lane,57 Pepper Wood Drive,Crossing,Vojkovskoe,Gubkinskiy,Kalmykia,187000,RU,5/25/2018 19:25,9/2/2018 19:53
+5456645000,Work_Nat,424,5180 Hollow Ridge Point,93 Loftsgordon Junction,Crossing,Bibirevo,Lukino,Dagestan,311000,RU,11/18/2004 14:42,9/22/2018 10:23
+36875904307,Other_Nat,913,4878 Stuart Plaza,48505 Lien Crossing,Alley,Fili Davydkovo,Kamyshlov,Karelia,268000,RU,7/30/2013 0:59,5/7/2019 9:25
+1810333201,Gaurdian_Nat,3421,20 Graedel Hill,4 Delaware Trail,Drive,Troparevo-Nikulino,Zvony,Ingushetia,649000,RU,5/1/2000 12:51,1/23/2017 3:39
+39773628600,Other_Nat,67,84811 Northview Terrace,44 Truax Avenue,Trail,Novogireevo,Ozëry,Chuvash,159000,RU,12/15/2016 2:36,4/11/2017 1:33
+71013318900,Work_Nat,2,98 Dorton Drive,12142 Prentice Parkway,Crossing,Poselenie Pervomajskoe,Balabanovo,Komi,941000,RU,2/24/2008 8:47,4/29/2020 1:53
+85518612603,Home_Res,1610,618 South Center,22 Vidon Avenue,Center,Dorogomilovo,Starominskaya,Ingushetia,166000,RU,11/6/2017 12:21,12/20/2018 21:11
+83241306106,Work_Non-Nat,1,7848 Mifflin Trail,72 Myrtle Avenue,Alley,Mitino,Semikarakorsk,Buryat,147000,RU,7/28/2019 1:44,10/3/2019 20:26
+3356110709,Work_Nat,94387,555 Gina Pass,534 Sutteridge Court,Crossing,Nekrasovka,Baksan,Chechnya,978000,RU,8/2/2004 2:02,10/13/2020 1:50
+11229685704,Gaurdian_Non-Nat,155,7 Novick Drive,497 Rieder Plaza,Center,Tverskoe,Kokhma,Tatarstan,555000,RU,7/19/2012 8:48,11/11/2017 19:57
+40543531903,Other_Nat,921,45639 Northport Circle,6795 Dakota Circle,Plaza,Vojkovskoe,Tselina,Kabardino-Balkar,369000,RU,6/18/2003 5:02,8/25/2017 2:42
+3388016108,Work_Nat,3,18185 Debra Point,0224 Sycamore Parkway,Terrace,Poselenie Klenovskoe,Kurchatov,Kabardino-Balkar,473000,RU,4/1/2010 14:50,10/18/2020 12:01
+67106097900,Gaurdian_Nat,8902,48413 Waywood Plaza,508 Darwin Drive,Center,Rostokino,Irkutsk,Mordovia,257000,RU,12/8/2005 0:37,5/16/2019 20:47
+86113187801,Home_Citzn,4,1 Rigney Road,81497 Linden Avenue,Parkway,Beskudnikovskoe,Kuybyshevo,Karelia,511000,RU,1/21/2017 22:12,6/14/2019 6:53
+28651802102,Other_Nat,395,71 Dakota Court,6 Bartillon Street,Way,Begovoe,Gulkevichi,Tuva,963000,RU,7/24/2008 10:19,5/29/2018 13:09
+24241885702,Home_Citzn,2122,62 Laurel Parkway,93 Dryden Center,Pass,Hovrino,Kandalaksha,Karelia,297000,RU,1/28/2014 5:29,2/26/2017 2:59
+38923018803,Home_Res,3,2968 Harper Place,830 Northfield Street,Crossing,Jaroslavskoe,Artëmovskiy,Tatarstan,225000,RU,6/24/2003 5:09,6/27/2020 23:58
+82193570002,Gaurdian_Nat,79520,0 Bunker Hill Hill,37322 Iowa Street,Place,Birjulevo Vostochnoe,Kirov,Buryat,558000,RU,2/25/2003 1:28,7/30/2017 7:45
+39925752804,Other_Nat,973,39 Ryan Way,0894 Russell Point,Park,Horoshevo-Mnevniki,Aleysk,Tuva,448000,RU,1/2/2010 5:25,1/19/2017 16:57
+19276383300,Work_Nat,84,83 Sunnyside Lane,506 Hazelcrest Trail,Point,Severnoe Tushino,Gorno-Altaysk,Chechnya,385000,RU,3/29/2002 0:29,9/2/2019 2:45
+23374271503,Gaurdian_Non-Nat,73,6079 Boyd Crossing,3466 Karstens Terrace,Trail,Filevskij Park,Taganrog,Kabardino-Balkar,852000,RU,6/18/2001 6:22,6/4/2018 8:05
+46352860405,Gaurdian_Non-Nat,120,04 Susan Pass,4108 Farmco Terrace,Crossing,Chertanovo Juzhnoe,Kushchëvskaya,Bashkortostan,424000,RU,12/30/2003 9:25,10/2/2017 3:54
+18689796600,Gaurdian_Non-Nat,271,8 Waubesa Trail,4251 Hoffman Alley,Alley,Vostochnoe Degunino,Klintsy,Kalmykia,815000,RU,2/11/2001 1:48,12/20/2018 6:20
+64342278608,Home_Citzn,29,41 Fieldstone Way,77364 Merry Point,Place,Bogorodskoe,Amursk,Kalmykia,589000,RU,9/8/2013 12:07,9/26/2020 5:28
+90729935207,Work_Non-Nat,11,047 Oak Road,38 Ramsey Lane,Trail,Kosino-Uhtomskoe,Birobidzhan,Komi,347000,RU,6/18/2009 12:52,12/23/2017 5:01
+44819690400,Other_Nat,0,70608 Bunting Center,97343 Hallows Pass,Pass,Marfino,Valuyki,Ingushetia,259000,RU,5/9/2009 3:29,3/26/2019 12:59
+11420629808,Other_Non-Nat,9210,571 Graceland Alley,4 Anthes Place,Pass,Kosino-Uhtomskoe,Balabanovo,Adygey,385000,RU,10/5/2015 16:31,1/5/2018 5:58
+7257435801,Gaurdian_Non-Nat,8,9 Carpenter Avenue,6 Spaight Way,Park,Kon'kovo,Uzlovaya,Tatarstan,268000,RU,3/8/2016 12:44,3/3/2019 1:52
+86962540007,Other_Nat,6281,64454 Corry Court,8462 Sunnyside Crossing,Plaza,Mitino,Leninogorsk,Komi,369000,RU,5/15/2010 2:52,5/12/2018 23:29
+27691203807,Other_Non-Nat,167,25639 Pearson Parkway,0734 Granby Hill,Drive,Molzhaninovskoe,Petrovsk,Chechnya,311000,RU,9/30/2008 14:56,9/20/2019 11:56
+31246768400,Gaurdian_Nat,6,881 Gerald Way,45650 Mayfield Alley,Road,Lefortovo,Sharypovo,Sakha,246000,RU,4/11/2020 1:59,8/4/2017 19:36
+35065978804,Work_Non-Nat,50,60 Sloan Alley,3 Stang Alley,Junction,Zjablikovo,Sertolovo,Buryat,101000,RU,12/8/2010 14:34,1/28/2019 11:59
+41079937404,Home_Res,4,37 Comanche Terrace,384 Judy Trail,Court,Golovinskoe,Yoshkar-Ola,Khakass,741000,RU,10/1/2003 4:15,1/17/2019 10:08
+62781507000,Gaurdian_Non-Nat,80,574 1st Park,7954 Hoepker Crossing,Center,Sokol,Korolëv,Altai,823000,RU,8/4/2017 14:45,3/6/2020 0:45
+81957672507,Work_Nat,8,83317 Brentwood Circle,20806 Stoughton Point,Parkway,Vostochnoe Degunino,Nartkala,Altai,484000,RU,8/5/2019 1:57,3/14/2017 11:59
+7732223302,Gaurdian_Nat,6925,20182 Kedzie Park,919 Susan Road,Avenue,Marfino,Primorsko-Akhtarsk,Udmurt,248000,RU,4/2/2010 14:44,8/4/2018 14:02
+77241130500,Gaurdian_Nat,34667,2894 Gale Avenue,87 Meadow Ridge Avenue,Place,Ramenki,Svobodnyy,Bashkortostan,978000,RU,6/13/2020 3:51,7/30/2020 9:19
+50493304008,Gaurdian_Non-Nat,880,0 Bayside Drive,1917 Sachtjen Hill,Avenue,Juzhnoe Medvedkovo,Chistopol,Sakha,351000,RU,10/22/2006 14:49,5/13/2020 6:41
+35246601805,Gaurdian_Nat,8418,84 Claremont Center,41 Northwestern Road,Junction,Juzhnoe Butovo,Gusev,Kalmykia,741000,RU,3/9/2019 10:24,3/30/2017 2:44
+45063568209,Home_Citzn,3,3311 Cardinal Road,98 6th Point,Center,Poselenie Kokoshkino,Labinsk,Kabardino-Balkar,258000,RU,10/2/2011 9:43,7/29/2019 9:07
+82816401504,Gaurdian_Non-Nat,8,6 Pepper Wood Park,7 Stang Terrace,Park,Tverskoe,Kursk,Kalmykia,666000,RU,1/17/2002 21:26,2/18/2017 4:56
+32063389005,Home_Res,0,089 Moulton Trail,1 Emmet Drive,Plaza,Orehovo-Borisovo Severnoe,Severskaya,Ingushetia,610000,RU,10/13/2008 21:29,4/21/2017 21:49
+46355499107,Home_Citzn,396,20 Larry Crossing,0 Sherman Lane,Street,Poselenie Rjazanovskoe,Partizansk,Ingushetia,194000,RU,2/17/2008 19:20,12/28/2020 6:35
+88835934800,Home_Res,7,14765 Park Meadow Street,510 Lerdahl Parkway,Alley,Savelki,Pavlovsk,Kabardino-Balkar,741000,RU,6/4/2000 10:32,1/16/2018 22:52
+62124513308,Other_Non-Nat,2,0235 Tony Place,6 Hansons Point,Avenue,Danilovskoe,Vyksa,Chuvash,333000,RU,6/16/2005 4:31,3/15/2017 12:07
+12229278002,Other_Nat,8,271 Prairieview Junction,1 Morning Pass,Drive,Timirjazevskoe,Usol’ye-Sibirskoye,Chechnya,374000,RU,6/19/2000 6:25,5/20/2020 15:02
+28130116900,Home_Citzn,9,66 Loeprich Lane,0070 Division Plaza,Street,Brateevo,Krasnouralsk,Komi,777000,RU,3/11/2008 18:18,1/26/2019 21:10
+14970527805,Other_Non-Nat,10384,67 Maple Wood Terrace,7 Lakewood Gardens Pass,Court,Rjazanskij,Bologoye,Buryat,511000,RU,4/4/2001 14:06,3/31/2018 23:43
+75898337003,Work_Non-Nat,7,552 Claremont Park,151 Bluejay Drive,Court,Zamoskvorech'e,Groznyy,Buryat,351000,RU,8/7/2012 8:44,9/6/2017 15:48
+91271816903,Other_Nat,8924,942 Hollow Ridge Circle,45068 Donald Center,Pass,Poselenie Filimonkovskoe,Nyagan,Sakha,246000,RU,11/25/2009 20:59,3/27/2018 21:38
+57835877700,Work_Non-Nat,90446,2 Mayfield Way,6803 Sunnyside Parkway,Place,Veshnjaki,Karasuk,Karachay-Cherkess,823000,RU,4/19/2004 11:00,7/10/2019 5:07
+55667794009,Other_Non-Nat,41557,95 Melrose Avenue,3117 Village Place,Crossing,Poselenie Voskresenskoe,Nar’yan-Mar,Tuva,852000,RU,3/6/2011 15:47,3/14/2019 22:56
+52221170703,Work_Nat,2,6 Barby Plaza,163 Dorton Parkway,Lane,Izmajlovo,Sosnogorsk,Karachay-Cherkess,268000,RU,10/3/2007 5:16,6/12/2020 11:21
+38434242401,Work_Non-Nat,9,71 Bunting Alley,17 Hollow Ridge Alley,Trail,Jaroslavskoe,Neftekumsk,Tuva,496000,RU,1/8/2016 2:01,7/14/2018 11:50
+44391239307,Other_Nat,87,2 Prairieview Plaza,50 Claremont Parkway,Avenue,Poselenie Mihajlovo-Jarcevskoe,Pokrovskoye,Altai,338000,RU,5/2/2020 21:05,12/1/2020 3:46
+76630019802,Work_Non-Nat,529,3517 Express Way,756 Schlimgen Avenue,Junction,Ramenki,Topki,Buryat,758000,RU,2/16/2008 22:53,1/24/2019 12:10
+55708360200,Work_Nat,3002,3 Anzinger Place,0245 Prairie Rose Trail,Park,Rostokino,Sebezhskiy Rayon,North-Ossetia-Alania,511000,RU,1/15/2018 23:05,1/3/2019 13:49
+65758360907,Other_Non-Nat,832,6097 Little Fleur Avenue,9 Mitchell Park,Pass,Nekrasovka,Krasnokamsk,Dagestan,359000,RU,12/8/2014 1:07,1/21/2020 5:05
+68708077100,Gaurdian_Non-Nat,70,89 Washington Lane,046 Daystar Plaza,Drive,Poselenie Sosenskoe,Nizhniy Tagil,Dagestan,279000,RU,12/7/2003 22:08,9/16/2019 8:30
+50491644403,Work_Non-Nat,877,41 Darwin Place,8 Declaration Avenue,Road,Sviblovo,Zheleznovodsk,Ingushetia,875000,RU,12/8/2018 0:46,6/27/2018 2:41
+46854162600,Other_Non-Nat,48755,09 Stone Corner Drive,34945 Heffernan Park,Park,Kon'kovo,Sergiyev Posad,Kabardino-Balkar,823000,RU,8/8/2019 21:43,1/27/2018 3:59
+30401046106,Other_Non-Nat,37409,34 West Lane,78138 Kings Avenue,Lane,Poselenie Marushkinskoe,Mednogorsk,Ingushetia,424000,RU,3/9/2015 9:31,3/12/2018 8:29
+68976200303,Home_Citzn,8,451 Sachtjen Trail,355 Messerschmidt Avenue,Terrace,Arbat,Krasnyy Sulin,Karachay-Cherkess,985000,RU,6/13/2004 21:21,11/15/2017 17:01
+82422661704,Home_Citzn,25,69879 Golf View Crossing,8398 Holy Cross Court,Hill,Poselenie Rjazanovskoe,Chusovoy,Komi,337000,RU,1/24/2020 17:04,9/24/2020 0:12
+65034414600,Gaurdian_Non-Nat,93,19790 Declaration Junction,98641 Roxbury Trail,Avenue,Timirjazevskoe,Yalutorovsk,Chechnya,978000,RU,7/24/2004 9:03,6/5/2017 1:08
+60340899300,Other_Non-Nat,918,53 Briar Crest Street,9 Rowland Lane,Pass,Ivanovskoe,Kushva,Kabardino-Balkar,888000,RU,11/30/2001 4:39,5/18/2020 13:47
+4017517901,Work_Nat,14,3 Corry Place,72935 Doe Crossing Avenue,Circle,Alekseevskoe,Pavlovo,Adygey,741000,RU,11/12/2016 12:54,10/2/2020 8:49
+13971853706,Gaurdian_Nat,58430,1 Blue Bill Park Terrace,1 Dixon Way,Way,Novogireevo,Osyno,Buryat,257000,RU,4/15/2006 16:00,5/3/2018 6:52
+97285782405,Gaurdian_Nat,54995,7 Maple Wood Crossing,98714 Schmedeman Court,Drive,Gagarinskoe,Semënov,Altai,649000,RU,12/26/2009 13:04,11/14/2019 16:30
+51893637400,Home_Citzn,69011,61812 Logan Lane,895 Novick Drive,Hill,Begovoe,Veshenskaya,Udmurt,448000,RU,6/11/2006 7:53,1/18/2020 13:01
+8629835804,Other_Non-Nat,39458,1 Acker Alley,6 Charing Cross Circle,Pass,Bogorodskoe,Novoaleksandrovsk,Chechnya,101000,RU,11/2/2010 6:09,8/16/2019 22:09
+70977739807,Gaurdian_Non-Nat,3,705 Arizona Place,64380 Butternut Lane,Circle,Chertanovo Severnoe,Kingisepp,Mari EL,357000,RU,2/23/2012 9:49,1/22/2019 19:42
+37017072403,Other_Nat,8,74 Beilfuss Street,3 Hagan Parkway,Place,Poselenie Novofedorovskoe,Nizhnevartovsk,Altai,852000,RU,9/13/2004 3:04,8/1/2017 23:28
+26247455103,Home_Res,58,023 Waxwing Crossing,39983 Moland Hill,Street,Lefortovo,Krasnogorodsk,Bashkortostan,338000,RU,7/13/2005 8:26,2/11/2020 17:16
+1795986708,Other_Non-Nat,285,7 John Wall Plaza,87 Macpherson Road,Plaza,Danilovskoe,Stavropol,Karelia,761000,RU,2/17/2005 19:59,7/29/2018 15:27
+7092893607,Gaurdian_Nat,720,94393 Manufacturers Center,143 Ramsey Park,Circle,Otradnoe,Karata,Tatarstan,334000,RU,4/15/2013 11:04,3/19/2020 23:54
+14651077602,Work_Nat,70,7 Blackbird Terrace,691 Fulton Crossing,Park,Nagatino-Sadovniki,Krasnogorodsk,Kabardino-Balkar,311000,RU,8/12/2018 11:27,10/30/2017 3:54
+88781349601,Work_Non-Nat,15,1 Valley Edge Pass,55 Raven Trail,Point,Lomonosovskoe,Vladimir,Khakass,176000,RU,10/22/2016 21:23,8/19/2020 8:38
+19750368803,Gaurdian_Non-Nat,801,5 Vermont Way,78051 Barby Crossing,Lane,Poselenie Rogovskoe,Nizhnekamsk,Karachay-Cherkess,333000,RU,4/16/2016 4:49,3/31/2019 20:09
+26311451708,Work_Nat,6712,35909 Anthes Road,15 Colorado Crossing,Pass,Poselenie Kokoshkino,Starominskaya,Mari EL,484000,RU,7/13/2003 22:38,6/13/2018 15:16
+21369816401,Other_Nat,95,68573 Mayfield Terrace,97 Dryden Street,Road,Ljublino,Arkhangelsk,Udmurt,297000,RU,2/16/2011 6:00,10/12/2018 11:30
+71177073909,Work_Nat,2,28 Florence Way,1 Lien Court,Road,Meshhanskoe,Neftekumsk,Chuvash,337000,RU,4/14/2015 22:42,8/28/2017 7:20
+54534489101,Home_Res,920,780 Hauk Junction,93629 Maple Terrace,Road,Veshnjaki,Kasimov,Bashkortostan,101000,RU,2/17/2020 1:04,1/2/2021 15:35
+75492836103,Gaurdian_Non-Nat,8456,7 Killdeer Drive,52285 Katie Plaza,Lane,Juzhnoe Tushino,Okhansk,Khakass,895000,RU,11/20/2015 22:20,2/15/2017 13:40
+46561452101,Home_Res,3782,82 Barnett Road,61749 Springs Circle,Road,Danilovskoe,Ishimbay,Kalmykia,228000,RU,10/17/2006 3:07,9/4/2019 21:26
+39990474002,Home_Res,3395,73 Arizona Lane,21 Crescent Oaks Drive,Road,Juzhnoe Medvedkovo,Sovetskoye,Bashkortostan,369000,RU,3/5/2005 22:22,9/6/2020 9:41
+90126236903,Other_Nat,729,3 Pond Crossing,77 Arkansas Street,Drive,Poselenie Kokoshkino,Korolëv,Kabardino-Balkar,159000,RU,1/27/2008 8:47,4/24/2017 12:27
+30011880300,Other_Non-Nat,76,29654 Messerschmidt Hill,100 Luster Way,Pass,Metrogorodok,Yugorsk,Ingushetia,357000,RU,11/14/2005 18:16,9/26/2017 21:35
+60132363103,Home_Citzn,8178,7472 Westport Road,26 Hanson Avenue,Avenue,Poselenie Klenovskoe,Vyborg,Mordovia,357000,RU,8/17/2018 18:43,7/30/2017 19:16
+61849248707,Other_Nat,72,1 Sundown Crossing,674 Tomscot Way,Lane,Beskudnikovskoe,Meleuz,Buryat,777000,RU,9/9/2020 5:46,11/25/2017 17:38
+78871502604,Other_Non-Nat,981,2 Morning Terrace,839 Tomscot Parkway,Parkway,Orehovo-Borisovo Juzhnoe,Kizilyurt,Kabardino-Balkar,385000,RU,7/29/2016 1:36,2/21/2018 20:25
+20476838704,Gaurdian_Nat,1872,0759 Truax Point,66700 Cherokee Center,Avenue,Novokosino,Kotovsk,Tatarstan,424000,RU,12/22/2003 16:30,9/7/2019 6:07
+63540419308,Home_Res,3332,41 Donald Point,128 Cody Junction,Way,Poselenie Rogovskoe,Gusev,Udmurt,347000,RU,8/12/2015 6:49,11/23/2018 21:37
+49909302508,Home_Citzn,5,490 Cherokee Circle,8 Pierstorff Parkway,Road,Fili Davydkovo,Varygino,Dagestan,411000,RU,7/30/2001 13:18,7/15/2020 19:41
+81835742907,Gaurdian_Nat,29788,939 Mesta Place,22 Di Loreto Court,Drive,Otradnoe,Buturlinovka,Kalmykia,374000,RU,7/10/2019 12:50,7/10/2017 19:50
+55003628502,Home_Citzn,366,5921 Stoughton Plaza,79 Delladonna Avenue,Park,Poselenie Voronovskoe,Pavlovsk,Dagestan,180000,RU,9/24/2020 21:53,2/4/2017 17:29
+85843842806,Work_Nat,2,84 Hauk Place,926 Northfield Place,Park,Krasnosel'skoe,Leninsk-Kuznetskiy,Kabardino-Balkar,895000,RU,1/17/2011 10:33,12/7/2020 15:39
+51645275601,Work_Nat,2,8 Mariners Cove Terrace,7247 Hudson Hill,Court,Mar'ina Roshha,Karata,Ingushetia,777000,RU,6/12/2013 5:41,12/26/2017 20:59
+62632372807,Gaurdian_Nat,332,829 Shoshone Circle,8684 Carioca Pass,Lane,Savelovskoe,Tikhoretsk,North-Ossetia-Alania,258000,RU,3/25/2005 22:35,5/16/2018 17:57
+80196964400,Home_Res,7049,842 Old Shore Avenue,29704 Ronald Regan Crossing,Hill,Vyhino-Zhulebino,Balezino,Khakass,147000,RU,10/17/2008 23:13,6/15/2020 4:13
+52407412407,Work_Non-Nat,88,429 Forster Avenue,9089 Lukken Terrace,Junction,Akademicheskoe,Igra,Kalmykia,669000,RU,3/25/2018 7:06,8/1/2017 2:35
+83762888006,Gaurdian_Nat,89106,864 Lake View Crossing,10162 Mallory Drive,Park,Kapotnja,Divnogorsk,Chechnya,311000,RU,11/4/2003 23:16,6/4/2020 10:18
+84322638707,Other_Non-Nat,0,82923 Crowley Circle,1506 Sullivan Point,Pass,Marfino,Zavolzhye,Khakass,279000,RU,11/2/2005 18:46,10/25/2019 1:07
+51348992704,Work_Nat,0,236 Buell Lane,1247 Florence Trail,Avenue,Butyrskoe,Gelendzhik,Karelia,511000,RU,1/22/2017 7:23,1/23/2020 12:15
+63971165900,Other_Nat,73897,2616 Scofield Park,80154 Melby Terrace,Street,Presnenskoe,Zavetnoye,Chechnya,297000,RU,5/12/2000 7:31,3/11/2018 12:47
+17357395100,Gaurdian_Nat,398,74 Brown Street,201 Schmedeman Terrace,Junction,Chertanovo Juzhnoe,Protvino,Kabardino-Balkar,895000,RU,1/22/2010 22:03,10/9/2019 20:16
+95334880000,Work_Non-Nat,31,53 Red Cloud Place,9 Artisan Circle,Avenue,Kurkino,Ivanovo,Tuva,711000,RU,9/23/2008 3:47,3/5/2019 5:39
+53637501004,Home_Citzn,1131,50143 Clemons Center,115 Bellgrove Lane,Road,Dorogomilovo,Bol’shoy Kamen’,Buryat,369000,RU,8/25/2018 5:11,5/20/2019 12:10
+42228284204,Work_Nat,9113,0 Granby Terrace,16 Forster Hill,Street,Novogireevo,Perm,Adygey,264000,RU,9/6/2009 0:21,5/13/2019 18:31
+48694410200,Other_Non-Nat,87878,539 Thierer Parkway,2090 Kingsford Point,Parkway,Filevskij Park,Oktyabrskiy,Karachay-Cherkess,999000,RU,10/9/2013 23:25,7/24/2018 15:56
+75332488005,Gaurdian_Non-Nat,499,32391 Sunfield Place,980 Morrow Lane,Parkway,Brateevo,Ukhta,Kabardino-Balkar,879000,RU,7/6/2009 4:44,2/14/2020 6:17
+89871408900,Gaurdian_Nat,8,6 Marcy Junction,593 Southridge Park,Hill,Cheremushki,Sosnovyy Bor,Tatarstan,758000,RU,3/1/2004 2:01,4/21/2018 0:11
+95868129306,Other_Non-Nat,7,5857 Debs Drive,50855 Mockingbird Center,Point,Juzhnoe Medvedkovo,Kantemirovka,Dagestan,166750,RU,1/1/2013 18:53,4/17/2018 11:21
+369935900,Work_Nat,8579,87 Thompson Alley,3283 Tennessee Avenue,Pass,Juzhnoportovoe,Moskovskiy,Adygey,258000,RU,9/12/2020 21:08,12/16/2018 12:10
+87010138508,Gaurdian_Nat,131,05212 Montana Junction,37 Ryan Point,Road,Silino,Safonovo,Kalmykia,411000,RU,10/15/2017 18:32,12/27/2017 14:03
+7930801707,Other_Nat,3321,17 Nevada Hill,07454 Holy Cross Court,Drive,Vnukovo,Kulebaki,Chuvash,284000,RU,2/1/2015 3:36,3/4/2020 23:39
+91435512101,Other_Nat,73,67673 Thierer Crossing,7423 Hagan Park,Trail,Otradnoe,Kavkazskaya,Kabardino-Balkar,999000,RU,9/22/2010 14:21,6/15/2020 5:18
+13138989503,Gaurdian_Non-Nat,859,43 Dapin Road,7 Loeprich Center,Hill,Novokosino,Takhtamukay,Adygey,610000,RU,4/29/2001 22:26,1/5/2020 9:11
+91376917803,Other_Nat,82290,3 American Ash Drive,6 Victoria Drive,Junction,Novogireevo,Orël,Udmurt,634000,RU,7/1/2006 14:10,4/15/2020 14:58
+22184178004,Other_Non-Nat,5780,6 Dahle Way,851 Sheridan Plaza,Lane,Tekstil'shhiki,Remontnoye,Udmurt,163000,RU,4/7/2003 1:45,10/4/2019 3:39
+42515548706,Work_Nat,5600,974 Spenser Crossing,7 Bowman Court,Point,Orehovo-Borisovo Severnoe,Sasovo,Kalmykia,424000,RU,7/9/2008 7:21,2/7/2019 8:40
+81101430803,Gaurdian_Non-Nat,51,2944 Maywood Point,728 Golf Course Center,Avenue,Vnukovo,Sarov,Bashkortostan,259000,RU,6/25/2013 6:33,5/25/2017 9:15
+24518325303,Work_Non-Nat,1,95435 Debs Circle,06 Continental Lane,Terrace,Brateevo,Sortavala,Kalmykia,888000,RU,5/15/2003 11:03,8/21/2017 3:53
+68450022203,Home_Citzn,87678,78070 Schurz Lane,16537 Fordem Road,Park,Lomonosovskoe,Zavodoukovsk,Sakha,852000,RU,10/19/2020 18:08,6/24/2020 21:28
+92817536500,Work_Nat,1175,4 Knutson Park,792 Charing Cross Junction,Junction,Poselenie Pervomajskoe,Kingisepp,Adygey,558000,RU,10/3/2003 17:04,1/21/2020 18:05
+79843621409,Gaurdian_Non-Nat,321,2294 Rockefeller Street,312 East Road,Avenue,Poselenie Mosrentgen,Kineshma,Kalmykia,888000,RU,9/26/2000 11:20,10/3/2017 4:25
+49184941405,Other_Non-Nat,8891,31 Miller Parkway,2774 Eagan Road,Point,Danilovskoe,Svobodnyy,Chechnya,159000,RU,2/26/2001 12:26,11/22/2018 3:52
+96054528407,Gaurdian_Nat,93207,95 Lotheville Court,2883 Dawn Park,Trail,Troparevo-Nikulino,Khasavyurt,Tatarstan,424000,RU,5/30/2016 22:27,6/14/2019 7:57
+65318002400,Gaurdian_Non-Nat,188,942 Arrowood Drive,4 Autumn Leaf Junction,Center,Moskvorech'e-Saburovo,Sokol,Tuva,147000,RU,3/27/2015 6:48,12/26/2019 5:44
+84133647306,Other_Nat,8352,73488 Leroy Park,8 Fieldstone Crossing,Pass,Golovinskoe,Takhtamukay,Tuva,411000,RU,5/24/2004 15:47,12/26/2018 0:48
+94623777606,Other_Nat,0,9374 Ramsey Road,298 Holy Cross Junction,Parkway,Ljublino,Usinsk,Mari EL,228000,RU,6/5/2018 17:39,2/7/2020 9:42
+29978485800,Gaurdian_Non-Nat,0,81 Erie Point,7498 Knutson Drive,Plaza,Novokosino,Khasavyurt,Buryat,225000,RU,4/2/2003 5:53,11/24/2017 21:23
+47527433405,Gaurdian_Non-Nat,31,68848 Rutledge Circle,9090 Pennsylvania Court,Trail,Severnoe,Gagarin,Chuvash,741000,RU,9/20/2004 23:03,8/6/2018 21:30
+10877797105,Other_Non-Nat,595,4375 Eliot Avenue,8228 Gale Pass,Center,Akademicheskoe,Lyudinovo,Udmurt,211000,RU,1/16/2013 1:51,6/7/2018 13:56
+49346512009,Home_Res,73304,03 Sunbrook Avenue,022 Vermont Circle,Circle,Ajeroport,Kirov,Altai,666000,RU,12/8/2015 4:25,3/14/2019 5:36
+99095233100,Other_Nat,5389,23 Anthes Center,813 Sommers Park,Circle,Orehovo-Borisovo Juzhnoe,Tavda,Sakha,359000,RU,4/30/2006 21:50,3/2/2018 22:09
+55290768400,Work_Non-Nat,87,6490 Straubel Street,558 Eggendart Street,Parkway,Chertanovo Juzhnoe,Maykop,Mari EL,228000,RU,3/6/2002 7:52,4/2/2019 15:25
+54055976501,Gaurdian_Non-Nat,29,53 Nobel Trail,2183 David Place,Place,Zamoskvorech'e,Rodniki,Kalmykia,634000,RU,7/8/2020 13:20,9/16/2017 3:38
+69686294700,Gaurdian_Nat,6715,3666 Texas Way,553 Twin Pines Hill,Crossing,Poselenie Kievskij,Saint Petersburg,Komi,357000,RU,5/22/2004 18:21,7/5/2017 14:23
+5799672603,Work_Non-Nat,3077,23 Jenna Court,7 Farragut Lane,Plaza,Severnoe Medvedkovo,Apatity,Kabardino-Balkar,284000,RU,6/1/2009 13:37,8/25/2020 20:06
+53183613203,Work_Nat,3576,3 Sheridan Crossing,4077 Oak Valley Crossing,Hill,Poselenie Rjazanovskoe,Vorob’yëvka,Tatarstan,337000,RU,8/8/2013 19:31,2/7/2017 18:38
+42179838705,Home_Citzn,5,13 Marcy Park,6 Jay Terrace,Place,Losinoostrovskoe,Dubna,Tatarstan,259000,RU,11/2/2014 22:36,5/1/2018 20:21
+65949188206,Other_Nat,59133,0 Bay Point,69 Crowley Alley,Place,Teplyj Stan,Slavgorod,Karachay-Cherkess,978000,RU,1/17/2005 0:58,3/3/2019 6:48
+60377681405,Gaurdian_Nat,42178,15866 West Drive,9 Harper Parkway,Road,Levoberezhnoe,Yelabuga,Mordovia,978000,RU,1/7/2002 14:04,5/3/2017 12:27
+86934093502,Home_Citzn,83,6340 Mendota Street,46489 Hovde Trail,Parkway,Novogireevo,Apatity,Khakass,225000,RU,5/25/2017 20:01,5/6/2018 11:26
+56683073404,Work_Non-Nat,43,61796 Surrey Center,584 Ruskin Pass,Point,Poselenie Mihajlovo-Jarcevskoe,Kiselëvsk,Udmurt,147000,RU,2/27/2000 6:48,6/15/2018 1:40
+41266307204,Gaurdian_Non-Nat,2,41 Kinsman Park,6 Carey Avenue,Plaza,Dmitrovskoe,Yugorsk,Bashkortostan,875000,RU,1/11/2019 16:29,12/11/2017 3:54
+51318039108,Other_Nat,1,88 Armistice Place,98 Derek Hill,Parkway,Ivanovskoe,Kazanskaya,Altai,311000,RU,5/28/2008 16:53,6/16/2020 0:14
+12809014809,Home_Citzn,7,4547 Autumn Leaf Junction,2284 Golf Trail,Terrace,Vostochnoe,Tbilisskaya,Sakha,168000,RU,2/3/2006 22:42,4/13/2017 20:22
+829285205,Gaurdian_Nat,553,44559 Center Alley,09 Thackeray Pass,Way,Mozhajskoe,Cherneya,Sakha,978000,RU,8/21/2002 13:15,4/12/2019 22:21
+52252035606,Gaurdian_Non-Nat,24,3552 Arizona Crossing,64 Arizona Way,Trail,Presnenskoe,Slobodskoy,Mari EL,284000,RU,5/9/2016 9:36,9/3/2020 5:09
+51265250500,Gaurdian_Nat,1,28412 Talmadge Road,1 Brickson Park Road,Alley,Orehovo-Borisovo Juzhnoe,Moskovskiy,Ingushetia,311000,RU,7/19/2019 21:21,6/27/2019 22:01
+33252681209,Other_Non-Nat,5913,1603 Cardinal Point,179 Grim Trail,Way,Severnoe Tushino,Vorkuta,Altai,159000,RU,4/14/2009 7:58,9/21/2019 5:18
+15585428107,Home_Res,2436,1883 Bonner Parkway,1766 Waubesa Crossing,Avenue,Staroe Krjukovo,Rtishchevo,Mordovia,761000,RU,7/21/2007 10:59,8/10/2019 20:17
+28634112902,Other_Non-Nat,68,51098 Lotheville Park,2995 Havey Crossing,Terrace,Poselenie Desjonovskoe,Yuzhno-Sakhalinsk,Adygey,284000,RU,10/22/2015 23:21,7/3/2020 21:24
+1231761704,Work_Non-Nat,43,2 Goodland Circle,6 American Parkway,Way,Severnoe Butovo,Elektrostal,Chechnya,741000,RU,12/21/2007 8:01,11/18/2018 2:11
+55006586809,Home_Res,9,334 Oxford Plaza,638 Anthes Avenue,Drive,Ochakovo-Matveevskoe,Rezh,Tuva,875000,RU,9/30/2015 7:22,2/14/2020 16:33
+99396276906,Home_Res,5,6 Stuart Street,51223 Stuart Avenue,Circle,Poselenie Novofedorovskoe,Buynaksk,Karachay-Cherkess,875000,RU,3/22/2003 17:32,12/14/2019 5:13
+89942088709,Other_Non-Nat,3435,52 Golf Alley,575 Del Sol Avenue,Pass,Kosino-Uhtomskoe,Gagarin,Bashkortostan,875000,RU,12/20/2014 6:25,10/12/2017 18:06
+81159307500,Work_Non-Nat,1768,67 Mifflin Center,20 Towne Junction,Way,Chertanovo Severnoe,Rossosh,Mari EL,674000,RU,2/26/2017 15:28,12/10/2018 18:53
+64444252505,Gaurdian_Nat,32508,474 Reinke Place,35067 Nancy Place,Parkway,Juzhnoe Butovo,Snezhinsk,Ingushetia,985000,RU,1/8/2019 9:49,11/11/2018 20:10
+52886487109,Work_Nat,803,451 Brentwood Drive,7 Goodland Street,Alley,Mozhajskoe,Isilkul,Kalmykia,187000,RU,10/27/2011 21:11,10/1/2020 19:18
+65148858209,Home_Citzn,3,1 Canary Trail,736 Crowley Way,Pass,Veshnjaki,Zelenogradsk,Adygey,337000,RU,8/10/2013 14:48,9/22/2019 18:10
+17316094206,Home_Citzn,1,9203 Ohio Junction,3221 Fairview Circle,Street,Vojkovskoe,Kez,Chuvash,496000,RU,7/31/2004 9:09,2/8/2017 16:51
+5183666402,Work_Nat,36573,48160 Darwin Point,673 Mayfield Parkway,Crossing,Juzhnoe Butovo,Yakutsk,Karachay-Cherkess,258000,RU,8/2/2002 13:34,6/15/2018 0:23
+59642253104,Home_Citzn,38717,557 Roxbury Way,44 Anthes Crossing,Plaza,Nekrasovka,Kurganinsk,Mari EL,758000,RU,3/10/2002 4:36,12/3/2020 23:37
+46024500204,Other_Nat,900,96762 Tony Court,1432 Superior Avenue,Alley,Kosino-Uhtomskoe,Achkhoy-Martan,Sakha,448000,RU,6/2/2000 3:19,8/3/2017 13:56
+65807554105,Other_Non-Nat,56297,35502 Farwell Center,50575 Steensland Way,Lane,Vojkovskoe,Nizhniy Novgorod,Mari EL,448000,RU,12/15/2014 15:45,6/10/2019 20:06
+62393627806,Home_Res,4660,8670 Bay Drive,12 Marquette Road,Center,Juzhnoe Tushino,Angarsk,Tatarstan,674000,RU,6/11/2002 22:25,6/8/2019 20:25
+82912513200,Gaurdian_Nat,39,2900 John Wall Center,71692 Clove Alley,Parkway,Levoberezhnoe,Elista,Chechnya,166000,RU,9/14/2013 1:29,7/22/2019 3:53
+12440474409,Other_Nat,93391,1 Hoffman Plaza,1671 Orin Court,Point,Rostokino,Buturlinovka,Chechnya,385000,RU,10/9/2015 19:47,12/7/2017 0:26
+2122119000,Other_Non-Nat,676,1 Manufacturers Plaza,13 Scott Hill,Junction,Poselenie Filimonkovskoe,Taganrog,Chechnya,815000,RU,11/22/2020 3:35,2/3/2017 3:36
+89379572909,Gaurdian_Non-Nat,855,8 Hanover Point,22 Mallard Trail,Park,Fili Davydkovo,Strezhevoy,Chechnya,411000,RU,11/16/2012 9:15,8/27/2020 8:55
+4152900508,Other_Nat,741,7 Moose Lane,2 Blue Bill Park Road,Avenue,Jakimanka,Vladikavkaz,Karelia,297000,RU,4/9/2016 22:51,2/20/2020 20:42
+28439040201,Home_Citzn,151,6 Clyde Gallagher Road,3508 Warner Plaza,Circle,Poselenie Novofedorovskoe,Zainsk,Komi,963000,RU,2/15/2005 5:26,5/8/2018 12:03
+78004466101,Work_Nat,5,5 Pierstorff Plaza,1 Messerschmidt Way,Pass,Poselenie Kokoshkino,Kirovsk,Udmurt,258000,RU,9/19/2000 6:48,4/3/2018 21:58
+58332777001,Home_Res,65,4555 Center Court,370 Loftsgordon Trail,Parkway,Metrogorodok,Saransk,Adygey,311000,RU,12/1/2004 8:32,2/28/2020 8:31
+93561641304,Work_Nat,8,8 Armistice Drive,96610 Waxwing Plaza,Pass,Krjukovo,Chistopol,Mordovia,228000,RU,9/22/2016 7:33,3/30/2020 10:14
+25430492802,Home_Res,55,113 Oxford Parkway,894 Mitchell Pass,Center,Hamovniki,Zarechnyy,Khakass,311000,RU,7/8/2017 11:03,11/10/2017 13:13
+78525610505,Other_Non-Nat,4717,25006 Hoffman Parkway,06289 Lyons Road,Road,Horoshevo-Mnevniki,Usol’ye-Sibirskoye,Ingushetia,359000,RU,6/1/2000 19:05,1/29/2019 22:14
+71536776508,Other_Nat,3895,0 Shelley Terrace,4629 Hintze Parkway,Street,Jaroslavskoe,Ulan-Ude,Kabardino-Balkar,334000,RU,8/2/2007 19:54,1/29/2019 15:08
+1631877907,Gaurdian_Nat,39,69 Alpine Point,37 Banding Pass,Junction,Meshhanskoe,Artëmovskiy,Udmurt,163000,RU,3/24/2003 10:28,6/23/2018 8:31
+97833874909,Work_Nat,5472,3 Stoughton Crossing,78 Badeau Lane,Parkway,Donskoe,Solnechnogorsk,Adygey,194000,RU,9/3/2012 20:12,4/13/2019 14:52
+66787843106,Gaurdian_Nat,8,505 Kings Circle,07801 Sullivan Trail,Park,Sokol,Ryazan,Kabardino-Balkar,888000,RU,3/26/2016 23:40,6/15/2020 15:22
+53667366804,Work_Non-Nat,79600,864 Hudson Hill,60929 Mayfield Crossing,Alley,Kuz'minki,Novokubansk,Udmurt,558000,RU,7/12/2013 21:41,7/29/2019 8:58
+91680901002,Home_Citzn,34,8 Fair Oaks Center,231 Corben Point,Parkway,Vostochnoe,Angarsk,Khakass,761000,RU,3/30/2019 19:36,7/10/2017 18:54
+19272139509,Work_Nat,5,17 Bartillon Pass,81882 Springs Pass,Park,Timirjazevskoe,Kashary,Kalmykia,337000,RU,3/5/2007 13:07,7/17/2019 23:57
+79935525008,Gaurdian_Non-Nat,906,90354 Roth Trail,076 Goodland Trail,Court,Orehovo-Borisovo Juzhnoe,Georgiyevsk,Adygey,159000,RU,2/19/2015 23:32,3/24/2020 20:58
+56860040604,Home_Citzn,6875,180 Eastlawn Hill,78855 Morrow Court,Trail,Krasnosel'skoe,Torzhok,Buryat,777000,RU,10/19/2010 5:50,12/4/2018 13:49
+30704635205,Home_Citzn,7635,9 Summerview Plaza,57 Quincy Court,Drive,Birjulevo Vostochnoe,Elista,Dagestan,279000,RU,2/8/2012 9:55,10/11/2018 22:11
+9424994608,Gaurdian_Non-Nat,2212,9 Dawn Crossing,96 Debs Terrace,Trail,Meshhanskoe,Domodedovo,Karachay-Cherkess,496000,RU,7/18/2013 21:50,3/18/2020 13:47
+46933419607,Work_Non-Nat,94,839 Surrey Avenue,6 Packers Plaza,Place,Krylatskoe,Dobryanka,Mordovia,160000,RU,6/20/2004 5:45,3/3/2019 0:52
+40843517401,Work_Nat,4,27655 Eagan Center,52604 Donald Drive,Plaza,Poselenie Novofedorovskoe,Chebarkul,Buryat,611000,RU,9/6/2009 12:00,2/15/2020 6:34
+55884839404,Home_Res,40,73 Schurz Place,0 Clarendon Crossing,Hill,Nagatino-Sadovniki,Miass,Buryat,649000,RU,1/23/2011 13:22,8/22/2020 0:35
+35243796005,Gaurdian_Non-Nat,804,9 Dunning Center,776 Shopko Place,Drive,Kuz'minki,Dubovskoye,Mari EL,194000,RU,10/19/2018 4:57,11/11/2019 21:48
+67449064209,Home_Citzn,603,6 Laurel Place,862 Sachs Point,Street,Danilovskoe,Novovoronezh,Ingushetia,674000,RU,8/21/2008 15:33,5/9/2019 4:34
+20946329308,Gaurdian_Non-Nat,42,4 Brickson Park Drive,6006 Merrick Circle,Junction,Sokol,Zima,Mari EL,875000,RU,8/27/2020 9:53,4/24/2018 3:49
+64504612706,Home_Res,6,87847 Logan Junction,6336 New Castle Avenue,Lane,Poselenie Krasnopahorskoe,Saransk,Dagestan,852000,RU,2/14/2013 4:08,3/2/2017 0:08
+23832902406,Gaurdian_Nat,1869,3710 Columbus Place,8 Dexter Lane,Lane,Jasenevo,Pavlovskaya,Chuvash,815000,RU,2/10/2019 0:36,8/3/2019 12:28
+28007875200,Home_Citzn,44,582 Golden Leaf Alley,396 Scott Place,Junction,Poselenie Moskovskij,Rasskazovo,Adygey,823000,RU,5/5/2005 22:00,6/21/2018 7:59
+80559522408,Other_Nat,13899,36764 Delladonna Parkway,7859 Di Loreto Center,Avenue,Poselenie Novofedorovskoe,Starominskaya,Mari EL,521000,RU,10/23/2018 4:03,7/29/2019 12:25
+24123806806,Gaurdian_Non-Nat,233,6347 Ludington Avenue,91 Reinke Terrace,Court,Poselenie Moskovskij,Unecha,Kalmykia,359000,RU,5/29/2020 20:58,11/16/2018 5:43
+91841023104,Home_Res,4,0274 Fieldstone Alley,1 Towne Point,Pass,Jasenevo,Ryazan,Komi,211000,RU,7/16/2018 2:21,5/31/2018 9:05
+53755171008,Work_Nat,2466,2 Muir Alley,50911 Graceland Road,Lane,Nagatino-Sadovniki,Sredneuralsk,Kalmykia,180000,RU,11/19/2005 2:12,4/12/2020 6:31
+43702461702,Work_Nat,7142,7254 Barnett Parkway,1134 Northport Road,Junction,Zjuzino,Leninogorsk,Sakha,978000,RU,6/27/2008 2:07,2/2/2017 0:22
+96018006504,Home_Res,245,229 Farmco Place,583 Kings Court,Court,Chertanovo Severnoe,Ipatovo,Mari EL,978000,RU,1/26/2012 20:26,12/22/2019 8:29
+61591111302,Gaurdian_Nat,26,0508 Bartelt Street,6 Atwood Park,Park,Losinoostrovskoe,Verkhnyaya Pyshma,Khakass,338000,RU,4/20/2011 5:13,4/19/2020 1:48
+22860206800,Home_Citzn,42,21234 Green Ridge Lane,3413 Brentwood Place,Center,Preobrazhenskoe,Kizilyurt,Adygey,611000,RU,5/5/2003 23:12,12/2/2020 20:09
+37318059905,Home_Citzn,5154,26 Transport Junction,93 Farragut Lane,Alley,Ljublino,Morshansk,Kabardino-Balkar,649000,RU,2/3/2015 10:45,12/13/2019 10:42
+6955248208,Gaurdian_Non-Nat,24692,7691 Vidon Alley,2 Ilene Way,Way,Pokrovskoe Streshnevo,Korenovsk,Chechnya,879000,RU,3/17/2020 18:43,11/23/2018 4:30
+88963026205,Gaurdian_Non-Nat,70568,0 Dakota Avenue,10 Manufacturers Lane,Place,Juzhnoportovoe,Krasnokamsk,Altai,211000,RU,5/16/2015 6:35,11/14/2018 22:29
+23189638708,Work_Nat,691,78 Monument Way,94 Cambridge Terrace,Alley,Poselenie Mosrentgen,Kanevskaya,Ingushetia,875000,RU,7/20/2014 4:49,7/6/2018 5:36
+6775835607,Home_Res,44,23898 Merrick Way,80908 Mandrake Lane,Junction,Hamovniki,Prokhladnyy,Tatarstan,248000,RU,6/3/2003 8:49,11/22/2019 7:08
+93936404803,Work_Non-Nat,6974,31867 Burrows Trail,17 Havey Crossing,Crossing,Filevskij Park,Fryazino,Komi,166000,RU,8/1/2001 21:02,5/1/2020 1:27
+49122316300,Home_Citzn,69,143 Blue Bill Park Street,077 Bluejay Parkway,Alley,Sokolinaja Gora,Kiselëvsk,Ingushetia,187000,RU,8/19/2013 16:56,12/25/2017 6:41
+41270697803,Home_Res,22653,586 Golf Road,12 Derek Place,Court,Jakimanka,Kuybyshev,Bashkortostan,473000,RU,1/25/2016 8:13,10/20/2017 22:24
+46464160805,Work_Non-Nat,5220,0574 Killdeer Terrace,67 Rowland Terrace,Place,Novokosino,Sebezh,North-Ossetia-Alania,268000,RU,12/2/2013 3:21,8/17/2019 12:14
+84667072505,Gaurdian_Non-Nat,72594,856 Corben Drive,06486 Calypso Way,Avenue,Chertanovo Juzhnoe,Satka,Mordovia,297000,RU,11/1/2003 14:13,6/4/2017 19:10
+49286301900,Gaurdian_Nat,8,11802 Monterey Circle,7 Ilene Parkway,Pass,Poselenie Mihajlovo-Jarcevskoe,Sredneuralsk,Tatarstan,187000,RU,8/13/2006 16:22,8/25/2019 22:21
+73136541003,Other_Nat,63233,98898 Carpenter Pass,1 Stone Corner Park,Circle,Beskudnikovskoe,Rtishchevo,Ingushetia,158000,RU,8/20/2020 2:32,8/22/2019 10:48
+87061546700,Work_Non-Nat,4,77239 Shelley Junction,4297 Red Cloud Trail,Avenue,Jaroslavskoe,Korkino,Khakass,311000,RU,10/26/2010 18:44,9/8/2017 9:16
+39113362009,Other_Nat,58,8 Portage Plaza,7385 Lukken Lane,Park,Ostankinskoe,Obninsk,Altai,611000,RU,5/2/2005 9:17,7/22/2020 17:26
+60271510604,Gaurdian_Non-Nat,236,6246 Rusk Crossing,12 Ridgeview Plaza,Center,Moskvorech'e-Saburovo,Khanty-Mansiysk,Chuvash,610000,RU,6/7/2015 6:34,7/9/2018 13:22
+91627275400,Work_Non-Nat,87873,66 Bluejay Terrace,02434 4th Court,Lane,Donskoe,Artëmovskiy,Komi,147000,RU,9/19/2004 8:56,12/4/2019 2:40
+92221380704,Gaurdian_Nat,26585,29 Jenna Trail,88124 Roxbury Parkway,Lane,Mar'ina Roshha,Partizansk,Tatarstan,589000,RU,5/13/2020 6:45,5/16/2017 7:40
+84372314304,Work_Non-Nat,4082,33 Upham Plaza,07611 Fuller Court,Place,Teplyj Stan,Tyrnyauz,Khakass,158000,RU,7/5/2020 17:20,6/18/2017 8:59
+15749997307,Home_Res,488,7 Nelson Way,5766 Mitchell Road,Junction,Severnoe,Lysva,Buryat,225000,RU,6/25/2015 18:34,12/22/2019 7:52
+51316455409,Home_Res,3606,435 Onsgard Center,5730 Manufacturers Street,Avenue,Nekrasovka,Chistopol,Kabardino-Balkar,176000,RU,11/6/2020 17:34,7/12/2020 2:11
+28379659100,Other_Nat,848,00322 Dorton Point,6872 Westport Way,Street,Levoberezhnoe,Prokhladnyy,Udmurt,484000,RU,2/16/2003 19:48,5/22/2018 10:55
+10969590809,Work_Non-Nat,1,7 Upham Junction,7393 Mariners Cove Crossing,Court,Dorogomilovo,Karasuk,Karachay-Cherkess,246000,RU,11/3/2006 6:00,4/8/2020 3:42
+57711087900,Work_Nat,2,3956 Brickson Park Crossing,35 Maywood Hill,Place,Mar'ina Roshha,Shadrinsk,Karelia,180000,RU,1/4/2019 10:44,10/15/2019 20:46
+14392576309,Gaurdian_Non-Nat,569,04 1st Plaza,3232 Michigan Court,Center,Brateevo,Shuya,Komi,338000,RU,5/10/2011 15:37,3/3/2018 9:06
+44616316506,Home_Citzn,92553,85667 Del Mar Drive,32 Bonner Point,Pass,Poselenie Desjonovskoe,Vidnoye,Komi,589000,RU,11/13/2009 1:01,5/19/2019 17:20
+89234982602,Other_Nat,30,59 Mayfield Alley,47355 Old Shore Hill,Alley,Jasenevo,Izobil’nyy,Chuvash,666000,RU,7/12/2003 14:07,9/18/2020 17:45
+68553527606,Other_Non-Nat,44,5347 Butternut Park,643 Knutson Junction,Park,Gagarinskoe,Bogotol,Adygey,159000,RU,4/29/2020 21:30,11/29/2018 3:45
+41501478401,Gaurdian_Nat,364,6 Hazelcrest Avenue,73025 Weeping Birch Crossing,Terrace,Akademicheskoe,Stroitel,Mari EL,337000,RU,3/25/2005 22:10,12/21/2020 23:42
+75921184400,Gaurdian_Non-Nat,692,78 Vidon Drive,7 Vera Hill,Pass,Poselenie Kievskij,Alagir,Karelia,895000,RU,10/5/2015 22:07,12/27/2020 8:14
+48620280102,Gaurdian_Nat,8101,2645 Elmside Road,82467 Iowa Circle,Junction,Troickij okrug,Kirov,Adygey,369000,RU,5/27/2001 18:07,3/2/2017 21:24
+44671292600,Home_Res,43488,645 Kings Junction,13 Calypso Place,Avenue,Nizhegorodskoe,Severskaya,Udmurt,153000,RU,6/5/2019 11:39,8/23/2018 18:25
+20416143203,Gaurdian_Nat,15669,14 Old Shore Avenue,904 Oak Valley Court,Center,Poselenie Vnukovskoe,Sayanogorsk,Kabardino-Balkar,258000,RU,8/23/2013 16:20,4/15/2018 19:47
+3180587508,Work_Non-Nat,591,13463 Burning Wood Street,504 Reinke Street,Court,Ljublino,Novotroitsk,Altai,337000,RU,8/20/2006 17:22,12/14/2020 4:09
+85947698605,Gaurdian_Nat,7,876 Blackbird Lane,0938 Ridge Oak Terrace,Hill,Juzhnoe Butovo,Chernushka,Khakass,248000,RU,9/20/2004 20:01,1/24/2020 4:20
+1760851801,Gaurdian_Non-Nat,7,173 Magdeline Circle,31 Fieldstone Road,Trail,Sokolinaja Gora,Svetlyy,Bashkortostan,166000,RU,8/25/2002 14:39,11/12/2017 20:15
+93303208408,Other_Nat,54,458 Colorado Circle,5968 Hoard Road,Pass,Zamoskvorech'e,Nizhnevartovsk,Udmurt,761000,RU,10/5/2014 5:48,1/21/2019 0:29
+64900845809,Work_Non-Nat,26379,440 Heffernan Crossing,1 Fisk Way,Pass,Meshhanskoe,Polevskoy,Chechnya,875000,RU,3/3/2016 4:48,4/8/2017 11:30
+56183280700,Gaurdian_Non-Nat,54,7 Cardinal Way,92 Drewry Trail,Point,Krylatskoe,Alekseyevka,Karelia,610000,RU,4/30/2018 1:41,8/26/2020 12:56
+22020927703,Other_Non-Nat,697,0803 Gerald Plaza,4593 Prairieview Park,Pass,Poselenie Krasnopahorskoe,Noginsk,Komi,264000,RU,6/3/2006 17:03,1/26/2020 9:35
+13673252500,Work_Non-Nat,447,0 Daystar Park,0 Luster Place,Road,Chertanovo Juzhnoe,Parma,Tuva,351000,RU,6/10/2010 7:31,10/20/2017 6:59
+87050782307,Home_Citzn,4,3 Emmet Plaza,958 Arrowood Road,Junction,Jasenevo,Shuya,Karachay-Cherkess,168000,RU,9/20/2001 14:24,8/26/2017 7:12
+63579673806,Home_Citzn,66546,943 Springview Drive,827 Debs Center,Street,Timirjazevskoe,Pavlovo,Buryat,815000,RU,9/25/2015 4:31,12/15/2017 10:22
+20722441100,Home_Citzn,524,6785 Spaight Road,98392 Browning Parkway,Hill,Krasnosel'skoe,Vyshniy Volochëk,Bashkortostan,852000,RU,9/4/2017 21:18,5/3/2020 4:21
+83838768105,Home_Citzn,5035,16 Dixon Trail,1 Maple Crossing,Circle,Orehovo-Borisovo Severnoe,Cheboksary,Mordovia,211000,RU,6/21/2013 7:14,7/21/2019 12:13
+66818022300,Gaurdian_Nat,355,57067 Washington Court,57438 Ruskin Hill,Crossing,Staroe Krjukovo,Almetyevsk,Mari EL,228000,RU,8/18/2000 1:01,11/23/2020 9:21
+44601686805,Work_Nat,15,097 Waxwing Road,02720 Derek Parkway,Alley,Novokosino,Belebey,Ingushetia,555000,RU,10/11/2005 22:14,5/26/2019 5:19
+82975701108,Gaurdian_Nat,75,3428 Meadow Ridge Avenue,695 Northland Pass,Center,Poselenie Krasnopahorskoe,Mirnyy,Mordovia,284000,RU,12/8/2005 4:01,1/18/2019 17:08
+57882688206,Home_Citzn,584,29 Haas Alley,234 Moland Parkway,Avenue,Silino,Chikola,Sakha,823000,RU,1/29/2001 8:59,12/5/2019 15:08
+96647461108,Other_Non-Nat,863,1586 Mcguire Avenue,05 Vermont Point,Drive,Poselenie Klenovskoe,Bryansk,Tuva,297000,RU,4/25/2005 7:35,9/19/2020 12:21
+95274723609,Gaurdian_Non-Nat,95979,76 Chive Court,1 Buena Vista Drive,Crossing,Severnoe,Bor,Komi,163000,RU,7/14/2000 23:36,8/20/2020 0:37
+14239308904,Gaurdian_Non-Nat,6,441 Arkansas Way,2666 Basil Crossing,Street,Obruchevskoe,Kalininskaya,Kabardino-Balkar,166750,RU,9/15/2008 19:55,11/7/2020 16:43
+84631091807,Gaurdian_Non-Nat,88,545 Shoshone Drive,41 Lukken Lane,Park,Marfino,Zheleznogorsk,Mordovia,875000,RU,2/15/2015 5:05,11/18/2017 15:41
+86440669305,Work_Non-Nat,8,734 Blackbird Terrace,16 Sunnyside Pass,Avenue,Orehovo-Borisovo Severnoe,Yugorsk,Bashkortostan,589000,RU,5/5/2016 17:00,12/11/2018 10:30
+80618549209,Work_Non-Nat,8067,4885 Lakewood Center,244 Lyons Pass,Lane,Ramenki,Neman,Tuva,279000,RU,6/1/2001 14:44,2/24/2020 5:10
+89021207607,Home_Citzn,6,0 Kedzie Place,3 Elka Place,Drive,Orehovo-Borisovo Severnoe,Serdobsk,Adygey,424000,RU,12/25/2006 16:29,7/20/2018 15:18
+89617565901,Other_Non-Nat,762,35390 Nobel Crossing,168 Green Ridge Center,Circle,Fili Davydkovo,Vorkuta,Kabardino-Balkar,168000,RU,11/10/2016 15:56,7/16/2020 16:04
+26799891603,Work_Non-Nat,860,04 Pepper Wood Junction,9 Blue Bill Park Hill,Circle,Brateevo,Mednogorsk,Karelia,248000,RU,4/15/2017 6:26,3/23/2019 8:22
+99316866304,Gaurdian_Non-Nat,5,2 Towne Road,821 Autumn Leaf Alley,Avenue,Bibirevo,Vichuga,Chuvash,669000,RU,10/12/2014 9:26,5/6/2020 19:12
+26576947702,Gaurdian_Nat,498,17 Starling Alley,506 Mesta Road,Drive,Vyhino-Zhulebino,Anzhero-Sudzhensk,Karachay-Cherkess,351000,RU,3/14/2013 9:08,9/4/2018 9:50
+49572474102,Gaurdian_Nat,14,49901 Harper Court,9 Cherokee Drive,Lane,Kuncevo,Rostov,Sakha,158000,RU,7/17/2000 6:56,2/17/2019 7:14
+93275616305,Other_Non-Nat,89,058 6th Avenue,6 Fisk Terrace,Drive,Nizhegorodskoe,Tuymazy,Buryat,978000,RU,10/17/2009 18:59,4/3/2020 2:50
+5070200104,Home_Citzn,6292,1040 Dennis Pass,34 Westridge Street,Way,Poselenie Voronovskoe,Ust’-Ilimsk,North-Ossetia-Alania,496000,RU,7/29/2015 15:07,12/13/2019 1:18
+21410595609,Other_Non-Nat,50,96 Dunning Street,23 Monica Road,Road,Poselenie Voronovskoe,Lipetsk,Sakha,611000,RU,11/21/2001 9:28,8/12/2020 20:10
+9024395307,Other_Non-Nat,16544,492 Scofield Street,926 Hoard Pass,Way,Silino,Donetsk,Kabardino-Balkar,168000,RU,7/15/2001 19:03,7/3/2020 13:10
+62018221904,Other_Non-Nat,51,38 Dexter Hill,3592 Norway Maple Park,Plaza,Meshhanskoe,Gorodets,Kalmykia,268000,RU,3/30/2009 22:39,1/6/2020 15:06
+1382927905,Other_Non-Nat,67,0 Luster Parkway,8 Westend Plaza,Junction,Novo-Peredelkino,Ust’-Donetskiy,North-Ossetia-Alania,166750,RU,7/4/2009 18:19,12/3/2020 1:17
+2346097209,Gaurdian_Nat,435,06745 Fisk Center,9 Algoma Pass,Center,Troickij okrug,Novomoskovsk,Sakha,153000,RU,5/18/2020 20:27,10/10/2020 2:30
+18110283104,Other_Non-Nat,8,4222 Caliangt Drive,15 Northport Trail,Drive,Zamoskvorech'e,Chelyabinsk,Mordovia,297000,RU,8/22/2003 15:24,8/4/2019 18:33
+86360659902,Work_Nat,2,0 Utah Pass,888 Glacier Hill Trail,Trail,Nagatino-Sadovniki,Aleksin,Sakha,473000,RU,1/12/2001 2:04,9/30/2019 21:33
+98170474007,Gaurdian_Nat,1,19698 Manitowish Lane,189 Vernon Avenue,Center,Sokolinaja Gora,Elektrogorsk,Karachay-Cherkess,153000,RU,4/13/2014 16:46,8/17/2019 14:04
+50991434508,Work_Non-Nat,44,59825 Bonner Way,3 Mallard Alley,Parkway,Babushkinskoe,Kirovsk,Adygey,634000,RU,8/29/2006 16:45,6/30/2017 21:21
+76913487602,Home_Res,519,76 Almo Hill,65918 Dryden Crossing,Pass,Silino,Ust’-Kut,Karelia,357000,RU,1/13/2001 12:49,3/6/2017 12:09
+99683831200,Gaurdian_Non-Nat,9,63319 Del Sol Plaza,51 Stephen Circle,Parkway,Severnoe Izmajlovo,Ostrogozhsk,North-Ossetia-Alania,334000,RU,5/17/2006 5:42,12/7/2020 5:28
+75068844405,Home_Res,54,5659 Charing Cross Plaza,25888 Lunder Pass,Hill,Poselenie Rogovskoe,Zheleznogorsk-Ilimskiy,Karelia,385000,RU,6/7/2009 1:37,2/16/2017 13:04
+3267258605,Other_Non-Nat,3095,2177 Transport Park,5952 High Crossing Way,Lane,Teplyj Stan,Kingisepp,Altai,194000,RU,11/13/2012 11:59,2/14/2020 20:36
+96423315501,Work_Non-Nat,122,7329 Hollow Ridge Terrace,3758 2nd Parkway,Alley,Orehovo-Borisovo Juzhnoe,Leningradskaya,Udmurt,160000,RU,10/6/2015 6:03,6/13/2020 12:56
+94974941703,Other_Non-Nat,4024,61 Kropf Parkway,04 Carey Court,Avenue,Begovoe,Osinniki,Ingushetia,284000,RU,7/22/2020 11:50,9/13/2019 22:17
+41959169107,Gaurdian_Non-Nat,35,17 Nobel Park,93259 Independence Way,Junction,Poselenie Filimonkovskoe,Chelyabinsk,Kalmykia,424000,RU,10/15/2013 4:56,7/18/2019 21:47
+23436843509,Gaurdian_Nat,36,92667 Fremont Way,3 Helena Drive,Drive,Horoshevskoe,Kazanskaya,Udmurt,374000,RU,1/12/2016 20:08,1/3/2019 20:11
+67207516200,Home_Citzn,38494,720 Scoville Alley,743 Springview Alley,Street,Vostochnoe,Sovetsk,Chechnya,879000,RU,4/12/2006 18:03,10/31/2020 11:10
+25262552905,Work_Nat,6120,7 Hollow Ridge Pass,56050 Tennyson Way,Lane,Gol'janovo,Sergiyev Posad,Karachay-Cherkess,337000,RU,1/9/2020 18:14,9/9/2018 20:22
+52032102706,Other_Non-Nat,50360,75 Ronald Regan Trail,2 Northridge Lane,Pass,Rjazanskij,Asino,Tatarstan,946000,RU,8/28/2016 9:23,5/20/2019 3:08
+76553156004,Home_Citzn,5,20 Lake View Point,5 Mayer Avenue,Road,Poselenie Krasnopahorskoe,Chernyakhovsk,Tuva,284000,RU,9/19/2007 20:21,1/9/2019 17:45
+63809673406,Work_Non-Nat,6796,825 Blue Bill Park Pass,2309 Northridge Crossing,Parkway,Poselenie Krasnopahorskoe,Zlatoust,Altai,101000,RU,3/13/2018 7:33,11/19/2020 2:14
+17936258901,Home_Citzn,6231,29 Porter Street,59 Vernon Trail,Crossing,Poselenie Filimonkovskoe,Gukovo,Mari EL,158000,RU,10/1/2012 4:52,4/20/2019 2:56
+2697363100,Home_Citzn,5,88609 Loftsgordon Drive,7 Macpherson Crossing,Lane,Severnoe Butovo,Maykop,Dagestan,963000,RU,1/22/2012 18:21,4/3/2018 16:38
+98237832107,Other_Non-Nat,6,24964 Merrick Terrace,7 Charing Cross Park,Point,Arbat,Slobodskoy,Dagestan,194000,RU,7/24/2004 13:48,2/15/2019 13:36
+82283038301,Gaurdian_Non-Nat,29,591 Pankratz Court,9 8th Way,Road,Chertanovo Juzhnoe,Mikhaylovsk,Dagestan,761000,RU,10/9/2008 17:31,12/28/2018 5:20
+31202693001,Home_Citzn,3541,185 Tennessee Plaza,1368 Fieldstone Terrace,Center,Bibirevo,Severobaykalsk,Dagestan,334000,RU,2/11/2003 2:23,5/10/2018 13:44
+32272023807,Home_Citzn,26300,9 Buena Vista Center,4036 Riverside Park,Trail,Chertanovo Central'noe,Revda,Komi,101000,RU,4/29/2020 14:31,9/29/2019 7:13
+19582450003,Home_Citzn,4261,0 Muir Park,634 Calypso Center,Court,Chertanovo Central'noe,Kizlyar,Karachay-Cherkess,852000,RU,6/18/2000 16:26,1/31/2017 14:21
+88747867403,Work_Nat,65085,6 Meadow Valley Junction,42017 Dawn Circle,Court,Novokosino,Semënov,Buryat,338000,RU,3/7/2007 19:15,3/3/2017 16:28
+37177432100,Other_Non-Nat,37,626 Schurz Trail,68 Monica Street,Circle,Juzhnoe Butovo,Mineral’nyye Vody,Komi,496000,RU,1/12/2007 7:51,5/2/2020 7:30
+94904809705,Work_Non-Nat,872,4614 Lakewood Gardens Court,81967 Susan Street,Parkway,Rjazanskij,Oktyabr’skiy,Mari EL,297000,RU,10/21/2001 2:08,12/11/2018 9:28
+93558706800,Other_Non-Nat,3,2 Thompson Center,23 Walton Pass,Circle,Altuf'evskoe,Chaykovskiy,Adygey,741000,RU,7/28/2012 9:50,7/3/2019 2:33
+35844571900,Gaurdian_Non-Nat,8414,0 Bartelt Hill,083 Hoepker Hill,Road,Savelovskoe,Ulyanovsk,Altai,815000,RU,8/8/2002 6:54,1/16/2019 1:26
+35138736200,Gaurdian_Non-Nat,6196,89 Lukken Street,56085 7th Junction,Hill,Severnoe Izmajlovo,Kresty,Chuvash,895000,RU,6/21/2013 0:53,5/22/2019 6:20
+27559502108,Work_Nat,6,0 Steensland Crossing,74533 Gale Terrace,Way,Jakimanka,Segezha,North-Ossetia-Alania,669000,RU,8/4/2007 11:27,1/8/2020 16:11
+30481088007,Other_Non-Nat,299,1 Rowland Trail,9346 Dryden Junction,Way,Poselenie Shherbinka,Dyurtyuli,Sakha,978000,RU,3/16/2010 2:15,7/16/2020 10:01
+3795325900,Other_Non-Nat,96,1 Roxbury Point,13671 Corry Lane,Trail,Novogireevo,Birsk,Buryat,166750,RU,10/18/2018 4:16,2/26/2019 23:33
+41738934609,Other_Non-Nat,4737,4689 Cordelia Way,1 Ramsey Pass,Way,Zapadnoe Degunino,Sokol,Kalmykia,634000,RU,8/27/2001 4:21,8/1/2020 3:22
+98743241800,Home_Res,96508,098 Transport Lane,17710 Arkansas Point,Parkway,Pechatniki,Neman,Adygey,359000,RU,10/12/2008 16:05,12/30/2020 23:40
+24906250309,Other_Non-Nat,5,290 Ludington Avenue,814 Pond Park,Place,Juzhnoportovoe,Novopokrovskaya,Bashkortostan,411000,RU,1/15/2015 1:55,9/2/2020 11:03
+64746118102,Other_Non-Nat,0,52 Corben Trail,4 Village Plaza,Center,Poselenie Desjonovskoe,Bogoroditsk,Dagestan,264000,RU,5/21/2016 11:41,1/27/2019 13:54
+37709758200,Gaurdian_Nat,84442,209 Anderson Crossing,2979 Mcbride Way,Hill,Juzhnoe Butovo,Tara,Khakass,176000,RU,8/29/2006 10:44,1/6/2020 16:11
+11584020400,Home_Res,59,4 Cardinal Crossing,39367 Schiller Way,Avenue,Rostokino,Ipatovo,Buryat,246000,RU,12/5/2013 14:49,11/17/2019 18:24
+20888288707,Gaurdian_Non-Nat,6,874 Almo Center,5162 Ilene Center,Drive,Vojkovskoe,Dagestanskiye Ogni,Sakha,160000,RU,4/12/2012 12:36,2/1/2020 8:17
+56461352801,Home_Res,8,67393 Melby Avenue,08 Dayton Point,Avenue,Solncevo,Kansk,Mari EL,153000,RU,6/23/2013 4:07,6/14/2020 22:50
+30992588300,Work_Non-Nat,657,153 Lighthouse Bay Crossing,894 Mitchell Avenue,Hill,Akademicheskoe,Tyumen,Mari EL,268000,RU,6/26/2009 9:38,8/14/2018 3:00
+91283334406,Gaurdian_Non-Nat,234,50 Northwestern Avenue,9782 Melby Place,Circle,Poselenie Marushkinskoe,Borisoglebsk,Tuva,978000,RU,2/2/2017 19:19,5/1/2017 2:13
+26280385404,Work_Nat,7,0 Susan Way,035 Dapin Plaza,Point,Kapotnja,Roven’ki,Buryat,268000,RU,9/12/2016 15:37,6/2/2019 14:15
+75080976100,Gaurdian_Nat,1898,6038 Ruskin Way,914 Delladonna Alley,Circle,Jakimanka,Penza,Tuva,297000,RU,9/30/2000 14:17,5/1/2017 15:56
+37072806204,Home_Res,36,00 Hudson Way,05 Kingsford Park,Lane,Basmannoe,Dubna,Kabardino-Balkar,166000,RU,10/15/2019 22:14,11/23/2017 1:44
+3472807801,Home_Citzn,6354,984 Daystar Pass,7 Annamark Center,Crossing,Kuz'minki,Koryazhma,Sakha,264000,RU,7/5/2013 6:36,4/30/2018 20:19
+72318667305,Work_Non-Nat,7553,5 Meadow Ridge Terrace,7 Anhalt Parkway,Terrace,Novogireevo,Slavgorod,Khakass,284000,RU,3/30/2018 12:42,8/24/2017 7:18
+15627686101,Home_Citzn,814,83911 Mandrake Place,56 Sage Court,Avenue,Metrogorodok,Klin,Altai,634000,RU,6/5/2000 8:57,7/3/2019 4:53
+2433621700,Gaurdian_Non-Nat,49,91 Oxford Crossing,8 International Center,Way,Poselenie Kievskij,Kaluga,Adygey,101000,RU,7/20/2012 22:42,12/20/2017 23:09
+37911675906,Work_Nat,3952,9 Toban Terrace,8738 Bunker Hill Trail,Drive,Tverskoe,Blagodarnyy,Dagestan,211000,RU,10/21/2012 4:48,3/22/2017 3:57
+70642845100,Home_Citzn,785,35 Marcy Plaza,4 Blaine Center,Junction,Juzhnoportovoe,Varygino,Udmurt,941000,RU,8/2/2005 10:00,9/5/2019 21:36
+61199595604,Home_Res,91,8 Kropf Point,1821 Twin Pines Avenue,Way,Poselenie Sosenskoe,Izberbash,Ingushetia,225000,RU,8/30/2019 19:52,3/19/2020 21:07
+26633716100,Home_Citzn,9876,4558 Superior Center,56 Grayhawk Trail,Drive,Orehovo-Borisovo Severnoe,Sorochinsk,Tatarstan,815000,RU,4/9/2012 21:18,1/4/2021 12:14
+29318900202,Home_Res,12,602 Scofield Junction,443 Vidon Lane,Drive,Poselenie Klenovskoe,Orekhovo-Zuyevo,Altai,246000,RU,6/30/2020 6:31,4/7/2018 14:23
+85938353401,Work_Non-Nat,27,9 Southridge Parkway,9429 Forster Hill,Parkway,Basmannoe,Volzhskiy,Altai,338000,RU,9/14/2014 9:54,1/24/2020 12:02
+82091640105,Other_Non-Nat,4949,5039 Myrtle Parkway,09 Ramsey Park,Place,Hovrino,Ust’-Dzheguta,Tatarstan,369000,RU,7/22/2015 5:07,3/16/2020 18:47
+28439891607,Work_Nat,95,2552 Derek Lane,3257 Prairieview Alley,Street,Juzhnoe Butovo,Il’inskoye,Mari EL,888000,RU,2/28/2020 13:45,4/8/2019 23:50
+34831246705,Other_Non-Nat,91774,2 Saint Paul Lane,8129 1st Street,Court,Savelki,Reutov,Kabardino-Balkar,711000,RU,3/30/2009 7:58,11/15/2017 22:00
+26086292700,Work_Nat,913,49781 Buena Vista Parkway,8 Tony Parkway,Drive,Tverskoe,Shuya,Kalmykia,258000,RU,9/12/2016 16:35,5/10/2018 22:53
+62828213603,Other_Non-Nat,85,91708 Roxbury Street,1721 Harper Plaza,Alley,Zapadnoe Degunino,Novopokrovskaya,Mari EL,248000,RU,5/10/2013 8:45,2/15/2020 22:39
+16520619106,Other_Non-Nat,1331,9 Gateway Junction,21 Green Ridge Plaza,Court,Kapotnja,Sebezhskiy Rayon,Mordovia,761000,RU,7/16/2004 0:56,4/30/2018 15:33
+17915518802,Other_Non-Nat,3,9910 Bluejay Park,33035 Melrose Center,Court,Poselenie Mosrentgen,Kirov,Altai,815000,RU,10/29/2007 10:07,1/21/2019 3:02
+34987809300,Gaurdian_Non-Nat,9,5 Londonderry Court,054 Washington Junction,Pass,Mozhajskoe,Nyagan,Mari EL,158000,RU,10/25/2006 14:45,9/16/2020 23:05
+69881211002,Gaurdian_Nat,78,51915 Burning Wood Street,8 Eastwood Street,Road,Basmannoe,Neftekumsk,Kabardino-Balkar,589000,RU,5/9/2001 4:13,4/23/2017 4:50
+32358654809,Other_Non-Nat,79,984 Coleman Court,2575 Mifflin Park,Point,Levoberezhnoe,Karasuk,North-Ossetia-Alania,187000,RU,8/2/2008 3:03,12/9/2019 16:06
+35761118803,Home_Citzn,5,15 Linden Pass,18060 Carberry Terrace,Parkway,Savelovskoe,Kireyevsk,Buryat,118000,RU,1/24/2001 5:46,1/18/2018 9:03
+53112979300,Home_Res,1,4 Roxbury Circle,32806 Beilfuss Street,Road,Timirjazevskoe,Nar’yan-Mar,Karelia,815000,RU,6/23/2004 4:12,4/23/2020 0:29
+15793183004,Work_Non-Nat,47751,343 Lakewood Street,2210 Fair Oaks Road,Crossing,Hamovniki,Bagrationovsk,Adygey,338000,RU,10/14/2020 20:56,5/28/2019 13:24
+19571635707,Home_Citzn,8285,6 Pond Street,602 Rowland Trail,Center,Jakimanka,Zavetnoye,Tuva,168000,RU,12/12/2001 7:44,3/10/2019 22:26
+14370726704,Home_Citzn,9,7 Dahle Place,06735 Schlimgen Alley,Junction,Sviblovo,Tynda,Bashkortostan,978000,RU,6/1/2002 10:20,4/7/2019 0:32
+68823447807,Home_Citzn,4,25 Elmside Alley,05 Waubesa Junction,Terrace,Kapotnja,Desnogorsk,Kabardino-Balkar,166750,RU,10/2/2005 14:39,8/13/2017 11:58
+10761540500,Home_Citzn,35229,4 Daystar Court,668 Bluestem Way,Point,Brateevo,Sukhoy Log,Mordovia,777000,RU,10/21/2019 11:48,5/4/2017 7:28
+69790685701,Home_Res,7,83107 Barby Way,0 Merrick Park,Hill,Vojkovskoe,Barabinsk,Mordovia,985000,RU,9/10/2017 18:08,2/2/2017 10:46
+18506009906,Work_Non-Nat,66,40 Jay Crossing,971 Loeprich Street,Avenue,Rjazanskij,Birsk,Tatarstan,160000,RU,5/15/2016 6:21,10/12/2017 7:28
+9657957702,Work_Nat,26,5 Brickson Park Park,630 Morning Plaza,Crossing,Silino,Ramenskoye,Chechnya,166750,RU,6/28/2017 21:43,12/31/2018 5:36
+28973225806,Gaurdian_Non-Nat,577,9 Hermina Place,041 Continental Pass,Parkway,Poselenie Mosrentgen,Konakovo,Karachay-Cherkess,385000,RU,8/9/2014 6:58,10/25/2018 16:35
+72263576606,Gaurdian_Non-Nat,4,3 Arrowood Circle,51 Charing Cross Alley,Way,Losinoostrovskoe,Snezhinsk,Chechnya,374000,RU,11/10/2015 13:39,1/17/2018 10:36
+28764020205,Other_Non-Nat,25,04216 Maple Wood Court,8 Swallow Plaza,Terrace,Tverskoe,Bratsk,North-Ossetia-Alania,374000,RU,1/22/2005 19:11,3/14/2017 3:24
+21360107806,Home_Res,5,84271 Mallory Street,79434 Golf Lane,Drive,Molzhaninovskoe,Frolovo,Tatarstan,176000,RU,6/13/2003 0:15,11/18/2019 21:28
+92032797009,Home_Res,7,2288 Lerdahl Avenue,390 New Castle Hill,Way,Vnukovo,Severskaya,Buryat,888000,RU,11/10/2018 9:32,5/20/2020 23:43
+70427654904,Other_Nat,60,979 Buhler Center,3356 Bluestem Plaza,Parkway,Beskudnikovskoe,Tikhoretsk,Kabardino-Balkar,369000,RU,6/7/2013 14:34,2/13/2017 18:47
+97863993105,Other_Non-Nat,450,434 Kings Plaza,15356 Raven Pass,Terrace,Mozhajskoe,Severskaya,Tatarstan,999000,RU,5/10/2008 3:57,10/26/2019 9:41
+13862813100,Gaurdian_Nat,1,76379 Talisman Place,022 Fremont Way,Avenue,Juzhnoe Tushino,Fokino,Chuvash,374000,RU,11/3/2001 1:39,11/20/2019 3:55
+17892524301,Work_Non-Nat,3512,80940 Walton Parkway,67441 Ryan Street,Junction,Marfino,Mirnyy,North-Ossetia-Alania,118000,RU,10/7/2000 23:52,7/24/2019 1:10
+79650982209,Gaurdian_Non-Nat,1244,7 Blackbird Pass,680 3rd Place,Terrace,Savelovskoe,Tyumen,Kabardino-Balkar,168000,RU,4/14/2016 5:36,3/20/2019 18:09
+82704813207,Gaurdian_Non-Nat,2,7088 Harbort Park,6 Thierer Lane,Hill,Birjulevo Zapadnoe,Myski,Khakass,118000,RU,5/18/2017 18:54,3/28/2017 15:16
+5817240504,Gaurdian_Nat,21,2980 Heath Trail,68994 Del Mar Point,Lane,Severnoe Tushino,Rasskazovo,North-Ossetia-Alania,841000,RU,4/18/2006 9:46,9/21/2018 9:03
+56933948106,Home_Res,94,7362 Derek Plaza,46901 Sachtjen Street,Point,Nagatinskij Zaton,Kandalaksha,Tatarstan,167000,RU,7/14/2013 23:41,8/19/2019 2:56
+91423182700,Other_Non-Nat,6,40 Merchant Park,24 6th Point,Park,Troparevo-Nikulino,Petrovsk,Mari EL,978000,RU,2/6/2009 10:24,11/11/2018 12:15
+24302559100,Other_Nat,2,44529 Golf View Plaza,12 Jenna Center,Road,Losinoostrovskoe,Kandalaksha,Adygey,351000,RU,12/7/2001 9:12,2/13/2019 11:08
+5488678100,Gaurdian_Non-Nat,89,03 Lakewood Gardens Pass,5 Gulseth Circle,Way,Novokosino,Kuvandyk,Kabardino-Balkar,777000,RU,6/21/2014 15:18,10/14/2019 7:37
+71335359407,Gaurdian_Nat,8,1 Blaine Avenue,7 Basil Center,Terrace,Alekseevskoe,Buzuluk,Tatarstan,374000,RU,3/13/2003 22:58,7/9/2018 3:22
+1813915406,Other_Nat,54479,058 West Pass,316 Hazelcrest Trail,Road,Matushkino,Semiluki,Adygey,777000,RU,1/3/2016 13:32,12/13/2019 18:10
+27077942001,Gaurdian_Nat,414,49 Superior Alley,54528 Thackeray Trail,Alley,Izmajlovo,Magas,Karachay-Cherkess,166000,RU,1/27/2004 21:16,8/19/2017 14:30
+80427118607,Gaurdian_Nat,168,58 Continental Crossing,42459 Bashford Plaza,Pass,Novogireevo,Mozdok,Tuva,634000,RU,10/5/2009 15:37,3/22/2017 8:59
+7379855609,Home_Res,866,26813 Fuller Avenue,9 Arapahoe Street,Center,Rostokino,Pushkino,Komi,228000,RU,7/16/2013 6:22,9/16/2019 23:45
+77137197205,Home_Res,143,74284 Grim Circle,5 Mccormick Drive,Lane,Novokosino,Yelizovo,Buryat,946000,RU,7/8/2018 0:13,4/5/2020 4:15
+28301615702,Work_Nat,2,0170 Golf View Court,02 Thackeray Court,Lane,Danilovskoe,Roslavl,Kalmykia,248000,RU,3/25/2012 14:55,5/28/2020 11:59
+55034641804,Gaurdian_Non-Nat,9,304 Bowman Junction,39892 Kensington Terrace,Street,Tverskoe,Vichuga,Buryat,248000,RU,10/27/2019 15:28,3/6/2020 17:02
+99063720905,Other_Non-Nat,14,1301 Stephen Alley,91002 Granby Road,Center,Severnoe Izmajlovo,Kandalaksha,Komi,187000,RU,3/24/2004 19:48,12/21/2017 0:24
+8087965805,Home_Res,6650,0 Orin Drive,5034 Sunnyside Park,Drive,Molzhaninovskoe,Zhigulevsk,Khakass,166000,RU,8/14/2020 23:51,11/17/2017 1:32
+36164877703,Work_Nat,745,699 Myrtle Junction,83 Warner Alley,Circle,Vostochnoe Izmajlovo,Topki,Kalmykia,153000,RU,9/18/2016 12:30,7/17/2019 9:24
+55896450402,Gaurdian_Non-Nat,71,35 Moulton Alley,91712 Dennis Junction,Crossing,Babushkinskoe,Novokubansk,Mari EL,257000,RU,3/20/2013 17:11,8/27/2017 18:09
+53125414109,Other_Nat,434,91176 Fallview Court,3695 Shasta Lane,Plaza,Tekstil'shhiki,Gulkevichi,Chechnya,978000,RU,3/7/2001 15:27,3/27/2017 2:41
+36761594200,Work_Non-Nat,8,21 Jana Drive,1 Anthes Center,Circle,Severnoe,Yelizovo,Sakha,875000,RU,12/29/2000 11:57,7/3/2019 17:31
+98300091202,Other_Non-Nat,21094,59096 3rd Lane,31062 Melby Drive,Terrace,Tekstil'shhiki,Kaspiysk,Sakha,857000,RU,11/17/2007 14:03,12/28/2020 19:19
+27373717803,Home_Res,9273,8964 Merchant Center,15634 Daystar Point,Court,Savelki,Cheremkhovo,Karelia,158000,RU,3/23/2005 2:50,9/2/2018 5:15
+77261970800,Work_Non-Nat,97299,6156 Gateway Crossing,4652 Eagle Crest Avenue,Trail,Orehovo-Borisovo Juzhnoe,Serpukhov,Buryat,258000,RU,10/6/2006 3:55,3/16/2019 16:51
+49576027000,Home_Res,320,448 Kenwood Park,40 2nd Alley,Park,Zjablikovo,Ob,Mordovia,857000,RU,1/24/2019 4:49,2/17/2019 16:10
+27358745705,Gaurdian_Non-Nat,907,6 Gerald Drive,53861 Cherokee Alley,Hill,Vostochnoe,Ozëry,Karelia,257000,RU,5/17/2005 2:17,10/1/2020 4:26
+4007688709,Work_Non-Nat,66,343 Mesta Drive,4 Lindbergh Crossing,Plaza,Severnoe Butovo,Tbilisskaya,Karelia,666000,RU,4/28/2019 8:21,6/21/2018 8:37
+26924634701,Work_Non-Nat,87540,23 Kenwood Parkway,0 Summer Ridge Way,Junction,Sviblovo,Tula,Chuvash,558000,RU,12/25/2016 13:00,3/26/2017 0:28
+7098817200,Work_Nat,805,560 Amoth Trail,929 Green Ridge Lane,Drive,Izmajlovo,Kotovsk,Adygey,246000,RU,12/26/2009 1:27,9/2/2020 1:27
+45098786005,Gaurdian_Nat,0,4 Canary Junction,530 Paget Park,Terrace,Jakimanka,Zheleznogorsk-Ilimskiy,Karelia,147000,RU,7/22/2003 14:17,7/3/2018 15:48
+19689616105,Gaurdian_Nat,783,38 Northland Trail,595 Kenwood Lane,Hill,Perovo,Sredneuralsk,Mordovia,555000,RU,11/25/2002 4:06,12/21/2018 23:21
+72253666601,Home_Citzn,24796,29 Manufacturers Way,9 Rowland Junction,Crossing,Begovoe,Novopokrovskaya,Karelia,176000,RU,1/13/2019 20:53,9/11/2017 20:45
+27107183302,Work_Non-Nat,99,4855 Corscot Drive,3 Mockingbird Center,Crossing,Solncevo,Zlatoust,Kabardino-Balkar,180000,RU,9/27/2005 0:35,6/9/2019 15:41
+22660904906,Home_Res,1599,2 Sugar Street,72380 Warrior Crossing,Plaza,Butyrskoe,Murmansk,Mari EL,333000,RU,10/6/2009 17:51,6/26/2019 20:31
+7343457908,Gaurdian_Non-Nat,54,30 Meadow Vale Center,53317 Lakewood Junction,Park,Levoberezhnoe,Anapa,Tuva,158000,RU,7/11/2007 17:15,8/26/2017 10:50
+7163970408,Work_Non-Nat,23942,351 Anderson Avenue,1 Sunnyside Court,Park,Poselenie Marushkinskoe,Spassk-Dal’niy,Komi,101000,RU,6/2/2005 21:48,8/26/2020 19:35
+35005568706,Gaurdian_Non-Nat,184,8259 Armistice Road,97193 Aberg Hill,Trail,Danilovskoe,Otradnyy,Udmurt,347000,RU,4/2/2018 1:39,5/8/2019 15:43
+79345107800,Home_Res,0,3892 Nelson Avenue,257 Hayes Court,Road,Basmannoe,Kostroma,Karachay-Cherkess,374000,RU,8/17/2012 5:33,6/16/2018 12:21
+8989059900,Gaurdian_Nat,5157,807 Annamark Center,2 Bayside Street,Terrace,Butyrskoe,Mozhga,Buryat,667000,RU,7/9/2020 10:58,9/21/2019 1:03
+75056173308,Gaurdian_Nat,22987,7540 Little Fleur Hill,8135 Cody Place,Point,Zapadnoe Degunino,Tuapse,Karelia,225000,RU,9/30/2007 20:13,9/16/2018 0:14
+69522990902,Work_Non-Nat,5,32709 Dunning Trail,88157 Warrior Road,Pass,Novo-Peredelkino,Kandalaksha,Tatarstan,158000,RU,1/13/2007 23:42,11/21/2017 3:03
+10877532001,Work_Nat,3,350 Pierstorff Junction,58901 Calypso Crossing,Place,Caricyno,Petrovskoye,Sakha,194000,RU,11/28/2007 23:48,3/4/2017 11:14
+27531395505,Other_Nat,36,97 Thompson Crossing,94 Loomis Drive,Street,Vojkovskoe,Petrovsk,Kalmykia,411000,RU,4/12/2005 16:08,5/23/2018 9:01
+12023097908,Other_Nat,3485,35 Caliangt Crossing,8 Shoshone Way,Avenue,Dmitrovskoe,Kamensk-Ural’skiy,Udmurt,666000,RU,4/6/2004 10:28,3/28/2019 13:50
+95772594103,Work_Nat,871,37331 Bluestem Circle,2 Hansons Trail,Center,Ljublino,Chelyabinsk,Sakha,473000,RU,10/13/2004 2:36,6/5/2017 23:18
+54895632703,Gaurdian_Non-Nat,6807,6169 Mccormick Alley,657 Lakeland Way,Circle,Jaroslavskoe,Shali,Udmurt,279000,RU,12/1/2011 9:38,5/6/2019 22:47
+11779882607,Gaurdian_Nat,32,16064 Paget Park,86745 Hudson Alley,Hill,Beskudnikovskoe,Krymsk,Mordovia,999000,RU,5/24/2006 4:11,7/21/2020 5:35
+26584199002,Gaurdian_Non-Nat,4436,522 Prairieview Center,8 Kingsford Avenue,Junction,Shhukino,Vichuga,Chuvash,334000,RU,10/5/2019 23:42,2/21/2020 9:25
+61237581502,Gaurdian_Non-Nat,577,695 Monument Plaza,68 Pleasure Court,Place,Ochakovo-Matveevskoe,Berëzovskiy,Karelia,649000,RU,3/7/2019 8:20,3/17/2020 0:01
+47257944104,Home_Res,177,640 Westport Place,82853 Hanson Way,Pass,Beskudnikovskoe,Bol’shoy Kamen’,Chuvash,160000,RU,5/8/2020 11:22,2/28/2018 23:16
+42910684205,Home_Res,3924,1706 Bunting Place,84 Basil Place,Road,Severnoe,Dyurtyuli,Ingushetia,941000,RU,1/24/2005 19:57,7/15/2017 10:00
+54358913100,Home_Res,62,72483 Bultman Pass,82 Cordelia Alley,Drive,Jaroslavskoe,Novoshakhtinsk,Khakass,999000,RU,10/4/2001 23:54,6/29/2017 16:52
+21569839608,Home_Res,382,99911 Colorado Court,9375 Waxwing Avenue,Park,Bogorodskoe,Kireyevsk,Kabardino-Balkar,888000,RU,11/18/2015 5:30,6/2/2018 3:41
+85841224109,Work_Nat,52,0 Bashford Park,29915 Killdeer Pass,Place,Zapadnoe Degunino,Bagayevskaya,Altai,777000,RU,12/11/2017 18:28,11/14/2020 16:31
+50243569108,Other_Non-Nat,88122,811 Twin Pines Way,1 Moland Junction,Avenue,Orehovo-Borisovo Juzhnoe,Khabarovsk,Kabardino-Balkar,187000,RU,5/12/2003 23:31,12/5/2019 11:29
+4426926401,Home_Res,129,71098 Lien Road,1 Tomscot Trail,Place,Presnenskoe,Nefteyugansk,Mari EL,741000,RU,1/24/2011 11:33,7/11/2017 13:17
+58891207109,Home_Citzn,98,623 Bunker Hill Street,4 Pond Court,Park,Izmajlovo,Yefremov,Karachay-Cherkess,248000,RU,12/25/2018 5:09,12/12/2019 1:48
+4527442002,Work_Non-Nat,3277,6 Portage Circle,18 Warrior Parkway,Plaza,Koptevo,Sukhoy Log,Chuvash,445000,RU,11/18/2019 5:06,10/7/2019 9:02
+86873863406,Gaurdian_Non-Nat,7,39 North Avenue,2 Vahlen Place,Junction,Filevskij Park,Kachkanar,Bashkortostan,667000,RU,7/30/2005 6:50,4/11/2020 22:37
+98316976402,Other_Nat,1091,01 Forest Run Street,3355 Talisman Parkway,Park,Poselenie Filimonkovskoe,Shelekhov,Ingushetia,118000,RU,6/25/2005 16:50,3/5/2017 21:04
+27773767806,Work_Nat,9029,5 Brentwood Road,5 Hauk Lane,Terrace,Butyrskoe,Nazran,Kalmykia,496000,RU,9/1/2003 14:23,6/19/2020 15:48
+98592390601,Other_Nat,35,870 Boyd Center,7 Packers Court,Alley,Poselenie Shherbinka,Rzhev,Kabardino-Balkar,999000,RU,9/23/2008 19:19,9/27/2020 4:01
+45924879007,Other_Nat,5,52 Garrison Avenue,87085 Boyd Lane,Point,Brateevo,Chertkovo,Adygey,311000,RU,2/2/2006 15:25,9/8/2018 11:27
+64444249303,Gaurdian_Nat,3621,0837 Meadow Valley Point,5 Beilfuss Street,Terrace,Nagatinskij Zaton,Rodionovo-Nesvetayskaya,Komi,228000,RU,4/26/2016 0:49,10/17/2020 7:59
+6241122804,Work_Nat,34795,9 Bonner Road,37276 Hazelcrest Court,Avenue,Hamovniki,Komsomol’sk-na-Amure,Karachay-Cherkess,279000,RU,12/13/2007 18:26,12/7/2020 14:21
+3291426007,Home_Citzn,217,361 Merchant Parkway,0 Russell Terrace,Lane,Kapotnja,Labytnangi,Komi,248000,RU,7/5/2006 8:52,3/1/2017 20:21
+89801905605,Home_Citzn,40,8148 Roxbury Junction,72030 Dixon Alley,Drive,Nizhegorodskoe,Losino-Petrovskiy,Dagestan,669000,RU,10/31/2016 5:06,5/21/2019 20:18
+7895033709,Home_Citzn,11,777 Crest Line Parkway,7 Service Place,Center,Horoshevo-Mnevniki,Vidnoye,Kabardino-Balkar,999000,RU,5/10/2012 4:00,11/29/2020 17:08
+35182298402,Other_Non-Nat,79543,595 Heffernan Terrace,37646 Towne Circle,Trail,Nagatinskij Zaton,Solikamsk,Karelia,166000,RU,6/11/2002 5:23,6/24/2020 11:24
+11181708507,Other_Nat,51,2469 Loomis Court,64535 Dorton Terrace,Crossing,Kosino-Uhtomskoe,Kuvandyk,Ingushetia,895000,RU,6/15/2017 11:41,6/17/2020 18:24
+8242096408,Gaurdian_Nat,19941,4 Oakridge Crossing,5791 Monterey Pass,Point,Krasnosel'skoe,Gvardeysk,Khakass,385000,RU,10/22/2003 10:09,4/20/2020 1:53
+59477763607,Work_Non-Nat,7,5 Jana Trail,6939 Schiller Pass,Road,Kurkino,Mtsensk,Adygey,711000,RU,3/25/2009 4:28,8/15/2017 2:15
+29408510805,Gaurdian_Non-Nat,775,747 Hagan Terrace,8611 Weeping Birch Pass,Alley,Timirjazevskoe,Novokuznetsk,Karachay-Cherkess,333000,RU,6/11/2009 6:09,7/19/2020 12:51
+91746927701,Home_Res,9,69536 Canary Point,32 Comanche Crossing,Park,Nagornoe,Tomsk,Udmurt,669000,RU,6/26/2010 8:19,8/23/2019 11:04
+8507473401,Home_Citzn,89,06034 Carberry Pass,1638 Menomonie Street,Park,Pokrovskoe Streshnevo,Kineshma,Ingushetia,369000,RU,4/26/2013 15:08,2/14/2018 15:28
+54299114906,Gaurdian_Non-Nat,6,67103 Waywood Road,9 Messerschmidt Center,Street,Poselenie Shherbinka,Topki,Chechnya,166750,RU,8/30/2015 17:02,9/13/2019 16:04
+46858466702,Work_Non-Nat,9,53 Pierstorff Pass,77 Calypso Way,Park,Novo-Peredelkino,Georgiyevsk,Mari EL,496000,RU,1/1/2015 13:43,5/3/2020 22:11
+85276713807,Home_Res,36419,772 Shoshone Road,02087 Ramsey Center,Circle,Poselenie Mosrentgen,Krylovskaya,Ingushetia,347000,RU,8/4/2012 23:29,6/26/2020 7:57
+62330223309,Gaurdian_Nat,6,2106 Brickson Park Center,733 Arizona Avenue,Point,Otradnoe,Derbent,Dagestan,338000,RU,2/7/2005 5:08,7/23/2019 2:28
+48647204905,Other_Nat,480,80643 Green Ridge Place,82 Clove Trail,Hill,Troickij okrug,Biysk,Kalmykia,163000,RU,11/3/2008 12:37,12/14/2018 5:54
+29224271700,Other_Nat,3261,91 Homewood Lane,40114 Northfield Lane,Park,Shhukino,Spassk-Dal’niy,Sakha,777000,RU,12/23/2009 13:18,11/24/2018 5:45
+111852208,Gaurdian_Non-Nat,91004,0 Wayridge Circle,92390 Melby Lane,Pass,Juzhnoe Butovo,Belgorod,Sakha,611000,RU,10/17/2020 20:57,2/24/2018 20:32
+60949309400,Other_Non-Nat,2,571 Sauthoff Point,0 Fallview Place,Parkway,Mitino,Malgobek,Mari EL,484000,RU,2/20/2011 16:53,10/16/2017 11:54
+69569308809,Gaurdian_Nat,3788,326 Anniversary Drive,7168 Melrose Drive,Circle,Sokolinaja Gora,Kasimov,Udmurt,610000,RU,11/6/2018 21:32,6/28/2020 18:41
+98283942904,Gaurdian_Nat,0,61885 Cottonwood Parkway,29372 Oneill Trail,Center,Golovinskoe,Kirov,Adygey,351000,RU,4/17/2014 16:41,4/1/2020 1:05
+96830193900,Other_Nat,83555,14 Darwin Center,8535 Anderson Trail,Parkway,Bogorodskoe,Belorechensk,Tuva,521000,RU,6/16/2010 7:41,4/6/2017 9:10
+74168301401,Home_Citzn,66013,91 Laurel Drive,934 Saint Paul Court,Street,Dmitrovskoe,Cherkessk,Karelia,259000,RU,11/12/2015 11:09,5/16/2018 12:13
+21023343009,Gaurdian_Nat,18216,9 Prairie Rose Crossing,64 Northfield Plaza,Road,Nekrasovka,Ozërsk,Khakass,666000,RU,4/1/2012 17:18,11/11/2018 9:40
+92137966401,Other_Non-Nat,7711,7 Eagle Crest Drive,634 Sachs Pass,Way,Nagornoe,Neftekumsk,Udmurt,777000,RU,5/3/2012 17:07,8/20/2018 11:02
+48582573309,Gaurdian_Non-Nat,711,03926 Del Sol Way,531 Vernon Court,Parkway,Hamovniki,Nalchik,Mordovia,879000,RU,2/24/2010 20:34,7/14/2019 19:17
+27076236001,Gaurdian_Non-Nat,93,051 La Follette Lane,434 Sycamore Hill,Junction,Chertanovo Juzhnoe,Asbest,Tuva,338000,RU,4/27/2020 5:10,4/21/2018 13:37
+72914165900,Gaurdian_Non-Nat,85,9 Maple Wood Pass,78 Gulseth Alley,Crossing,Staroe Krjukovo,Matveyev Kurgan,Tuva,667000,RU,5/2/2009 16:55,5/21/2018 19:26
+16957852900,Gaurdian_Non-Nat,4,4246 Jana Trail,0 Anzinger Circle,Park,Ajeroport,Takhtamukay,Tatarstan,159000,RU,4/10/2000 5:51,7/2/2019 12:01
+89259057807,Gaurdian_Nat,9154,28 Bonner Hill,7454 Namekagon Place,Plaza,Lianozovo,Mezhdurechensk,Chuvash,448000,RU,12/4/2019 23:48,1/12/2018 19:25
+88164437105,Other_Nat,54940,143 Milwaukee Parkway,45 Homewood Avenue,Center,Poselenie Shherbinka,Krasnoarmeysk,Adygey,248000,RU,4/29/2004 8:32,5/25/2018 17:01
+61790776801,Home_Citzn,93958,8741 Killdeer Junction,8960 Nobel Crossing,Circle,Troparevo-Nikulino,Zernograd,Mari EL,257000,RU,3/30/2004 5:00,3/31/2017 2:41
+80472669108,Other_Nat,224,82403 Nancy Plaza,4 Randy Place,Trail,Losinoostrovskoe,Yugorsk,Mordovia,558000,RU,5/28/2016 3:32,5/27/2018 18:59
+91730965102,Gaurdian_Nat,7294,395 Lillian Crossing,63800 Spohn Hill,Point,Sokol'niki,Kashary,Buryat,667000,RU,7/31/2017 1:10,7/27/2019 11:29
+4887722507,Home_Citzn,865,88 Crownhardt Road,41 Forest Run Parkway,Plaza,Mar'ino,Karabulak,Karachay-Cherkess,669000,RU,8/15/2004 19:08,3/12/2019 9:43
+34555676605,Work_Nat,72,03646 Tomscot Alley,03586 Steensland Road,Place,Kuncevo,Sosnovyy Bor,Mari EL,946000,RU,2/17/2001 15:00,11/17/2020 1:30
+59987755003,Gaurdian_Nat,5648,25 Claremont Parkway,6 Gale Park,Lane,Staroe Krjukovo,Voskresensk,Mari EL,823000,RU,8/5/2003 23:41,4/2/2019 18:19
+792818609,Work_Nat,4799,525 Old Shore Road,99 Muir Park,Court,Sokol,Severouralsk,Bashkortostan,511000,RU,3/4/2010 17:03,2/21/2017 14:33
+5178449400,Work_Nat,9029,61 Prairie Rose Drive,44 Starling Way,Lane,Veshnjaki,Kimry,Bashkortostan,166750,RU,6/29/2019 13:06,7/1/2018 11:21
+31667780603,Other_Nat,82,442 Ridgeview Center,6989 Kings Lane,Court,Nagornoe,Otradnoye,Karachay-Cherkess,374000,RU,7/5/2016 15:41,4/16/2017 3:06
+13286023003,Other_Non-Nat,2431,530 Dwight Center,1 Heffernan Lane,Lane,Vostochnoe Izmajlovo,Vladikavkaz,Mordovia,159000,RU,6/18/2001 15:35,12/4/2017 2:05
+2037407805,Gaurdian_Non-Nat,940,5 Arapahoe Point,5293 Dryden Way,Trail,Troparevo-Nikulino,Tynda,Adygey,445000,RU,11/20/2019 19:26,12/6/2019 10:50
+78469779700,Home_Res,848,594 Dwight Center,30 Stuart Way,Hill,Babushkinskoe,Vidnoye,Tatarstan,857000,RU,4/13/2005 2:16,4/5/2018 7:52
+32950851209,Other_Nat,69017,66251 Rowland Court,01 Butternut Court,Court,Poselenie Rogovskoe,Gusev,Bashkortostan,264000,RU,10/25/2004 14:02,8/5/2017 1:33
+81937426604,Work_Nat,6,44 Mockingbird Trail,6576 South Alley,Point,Horoshevo-Mnevniki,Norilsk,Chechnya,521000,RU,3/1/2019 10:58,2/9/2017 14:31
+86410584600,Gaurdian_Nat,8150,0 Schmedeman Plaza,28 Village Green Point,Junction,Vostochnoe Degunino,Tikhvin,Mordovia,225000,RU,10/29/2015 0:57,9/2/2020 9:36
+92314621005,Gaurdian_Non-Nat,63,89 Armistice Parkway,30 Bobwhite Park,Way,Shhukino,Vladimir,Udmurt,194000,RU,3/22/2015 8:51,5/9/2019 7:13
+79189380101,Home_Citzn,9,6 1st Hill,7516 Lakewood Junction,Way,Molzhaninovskoe,Bol’shaya Martynovka,Bashkortostan,611000,RU,12/29/2002 16:48,8/19/2019 16:55
+10350288106,Gaurdian_Nat,9,9917 Clove Road,7908 Ludington Center,Road,Poselenie Krasnopahorskoe,Volgograd,North-Ossetia-Alania,147000,RU,6/8/2020 5:12,1/18/2020 6:57
+37149009609,Work_Non-Nat,4,4134 Maryland Lane,0567 Porter Avenue,Trail,Kosino-Uhtomskoe,Neftekamsk,Komi,888000,RU,4/3/2019 23:16,11/21/2018 3:24
+92180582606,Work_Nat,3,7 Oakridge Place,07338 Merchant Lane,Court,Filevskij Park,Tomsk,Buryat,385000,RU,5/18/2001 0:26,3/21/2017 15:45
+97274431706,Home_Citzn,37,2 Arizona Avenue,1 Talisman Avenue,Trail,Kurkino,Gubkin,Buryat,411000,RU,1/22/2016 9:41,1/8/2020 13:05
+34768028804,Work_Nat,8993,32992 Kings Pass,6 Dayton Road,Point,Meshhanskoe,Kirovsk,Khakass,374000,RU,8/12/2000 7:30,1/31/2017 6:38
+63783910608,Other_Non-Nat,127,7567 Mallory Circle,6943 Duke Road,Hill,Lianozovo,Gulkevichi,Kalmykia,667000,RU,6/28/2005 6:16,12/20/2017 5:43
+5084376600,Home_Citzn,0,0 Oakridge Crossing,8585 Lakeland Park,Plaza,Butyrskoe,Obninsk,Mordovia,258000,RU,5/2/2015 8:57,9/13/2018 8:22
+61680468404,Work_Nat,300,59823 Crescent Oaks Road,7 Lawn Circle,Place,Rostokino,Dmitrov,Komi,176000,RU,11/5/2009 19:43,3/4/2017 10:33
+78627163503,Home_Citzn,7,216 Bowman Circle,296 Nancy Center,Place,Kotlovka,Naberezhnyye Chelny,Komi,257000,RU,1/8/2014 0:35,7/27/2018 11:43
+97769800203,Work_Nat,36260,11 Derek Lane,8445 Stone Corner Avenue,Drive,Severnoe Izmajlovo,Kagal’nitskaya,Tatarstan,411000,RU,3/14/2015 20:25,10/22/2018 16:55
+8037402200,Work_Non-Nat,36,715 Monument Center,8783 1st Park,Crossing,Vojkovskoe,Nurlat,Karelia,777000,RU,11/10/2016 5:37,1/10/2020 8:42
+11565578404,Home_Res,44620,41 Oriole Way,35812 1st Circle,Drive,Lomonosovskoe,Slavyansk-na-Kubani,Udmurt,194000,RU,7/16/2012 12:04,4/5/2020 19:18
+52176043306,Home_Citzn,688,56 Prentice Lane,7759 Pennsylvania Trail,Terrace,Krylatskoe,Krasnoarmeyskaya,Altai,484000,RU,1/8/2020 15:21,5/22/2017 9:16
+31940971300,Gaurdian_Non-Nat,4,0 Pleasure Trail,848 Brickson Park Park,Place,Lomonosovskoe,Kovrov,Dagestan,160000,RU,3/29/2020 11:33,1/26/2018 19:52
+58730962208,Other_Non-Nat,9,2091 Hallows Circle,46855 Alpine Park,Road,Dmitrovskoe,Budënnovsk,Mordovia,258000,RU,10/2/2005 6:31,9/6/2018 9:11
+57209845402,Gaurdian_Nat,888,9 Browning Terrace,9 Mesta Parkway,Trail,Severnoe Butovo,Rostov,Bashkortostan,248000,RU,8/7/2009 9:35,9/29/2020 2:01
+96838885609,Work_Non-Nat,8,6808 Hovde Crossing,84143 Rieder Hill,Pass,Teplyj Stan,Uspenskoye,Ingushetia,257000,RU,1/4/2020 9:41,10/16/2019 19:14
+74707450401,Work_Nat,74,938 Alpine Alley,7 Ruskin Place,Pass,Vyhino-Zhulebino,Desnogorsk,Dagestan,158000,RU,9/28/2003 7:38,5/31/2018 16:15
+17897168307,Home_Citzn,8435,25 Lighthouse Bay Center,9 5th Street,Crossing,Caricyno,Chapayevsk,Karachay-Cherkess,111000,RU,1/30/2017 0:49,7/19/2018 3:26
+62688486106,Work_Nat,48979,95550 Lukken Parkway,935 Dunning Park,Court,Vyhino-Zhulebino,Makhachkala,Bashkortostan,674000,RU,6/11/2004 9:56,12/23/2019 16:31
+78824770306,Work_Nat,8,7 Sherman Avenue,5 Marquette Center,Street,Obruchevskoe,Morshansk,Sakha,166000,RU,7/7/2020 10:58,2/11/2017 7:56
+20693677602,Other_Non-Nat,107,0 Monument Circle,070 Hazelcrest Pass,Court,Molzhaninovskoe,Mirnyy,Mari EL,711000,RU,3/7/2004 4:55,5/16/2018 15:28
+24379377202,Gaurdian_Nat,515,48295 Waywood Trail,4541 Mayfield Park,Circle,Kapotnja,Bolkhov,Adygey,211000,RU,9/13/2003 22:06,9/14/2019 6:11
+77356701107,Other_Nat,60,9 Schiller Alley,7 Judy Point,Court,Poselenie Shherbinka,Nar’yan-Mar,Buryat,473000,RU,12/18/2001 19:03,11/11/2017 8:47
+94412499407,Work_Non-Nat,6783,8 Loeprich Road,6582 Rigney Court,Court,Poselenie Sosenskoe,Yanaul,Altai,445000,RU,7/19/2007 8:05,6/9/2018 22:22
+62572920609,Other_Nat,3369,33147 Melby Point,1442 Thompson Way,Lane,Gol'janovo,Sovetsk,Altai,311000,RU,7/3/2002 15:43,8/3/2020 17:46
+25170530006,Home_Res,69304,052 Hermina Place,98 Southridge Drive,Terrace,Hovrino,Abakan,Tatarstan,369000,RU,7/26/2003 15:59,8/13/2019 12:22
+38334186103,Work_Nat,618,12449 Lake View Lane,5891 Dennis Lane,Circle,Teplyj Stan,Nakhodka,Mordovia,667000,RU,11/11/2017 15:21,10/27/2019 15:42
+76705921205,Work_Nat,26,8156 Killdeer Way,36 Lunder Hill,Crossing,Poselenie Mihajlovo-Jarcevskoe,Mirnyy,Udmurt,963000,RU,11/14/2015 0:12,9/26/2020 6:36
+53870135804,Other_Nat,7,5589 Superior Way,6792 Kenwood Trail,Court,Severnoe Izmajlovo,Abinsk,Bashkortostan,946000,RU,12/19/2010 0:57,2/15/2019 20:05
+88084221708,Gaurdian_Nat,53,86178 Commercial Trail,0 Moulton Drive,Circle,Levoberezhnoe,Izhevsk,Karachay-Cherkess,311000,RU,10/4/2007 19:15,2/11/2020 21:23
+39428006400,Work_Non-Nat,98331,5501 Towne Point,7381 Loeprich Drive,Street,Poselenie Desjonovskoe,Kolpino,Chuvash,248000,RU,10/17/2018 12:59,8/29/2019 19:58
+47852986609,Gaurdian_Non-Nat,75,10856 Stone Corner Trail,61 Hazelcrest Park,Crossing,Sokolinaja Gora,Tavda,Tuva,180000,RU,3/8/2006 7:00,7/18/2019 14:18
+21014131509,Home_Res,3,0 Trailsway Place,8 Thackeray Court,Drive,Jakimanka,Gvardeysk,Chechnya,160000,RU,5/8/2015 22:59,6/8/2018 9:56
+3390987400,Other_Non-Nat,84,6 Nancy Drive,1 Village Junction,Center,Filevskij Park,Parma,Mari EL,333000,RU,12/13/2003 20:58,3/28/2017 1:24
+23132882304,Work_Nat,2,3 Corry Place,56038 Columbus Terrace,Way,Strogino,Belorechensk,Khakass,279000,RU,11/11/2007 19:21,6/27/2019 18:56
+57003005400,Gaurdian_Non-Nat,493,80314 Gina Street,7928 2nd Avenue,Junction,Brateevo,Otradnyy,Dagestan,852000,RU,1/1/2021 2:05,1/23/2020 20:29
+84709245509,Home_Citzn,653,924 Hovde Plaza,38 Kinsman Alley,Way,Kon'kovo,Sayansk,Adygey,118000,RU,12/12/2005 19:43,1/16/2019 8:52
+12632764704,Work_Non-Nat,9,1 Colorado Alley,65943 Badeau Junction,Trail,Caricyno,Sortavala,Karachay-Cherkess,180000,RU,1/24/2020 9:02,9/4/2020 17:35
+31100214407,Other_Nat,9,549 Tennessee Center,28805 Declaration Street,Lane,Marfino,Belovo,Udmurt,334000,RU,7/2/2005 21:27,7/21/2020 5:51
+29181317009,Gaurdian_Nat,4979,6119 Beilfuss Plaza,4 Melvin Trail,Lane,Savelovskoe,Otradnoye,Khakass,101000,RU,3/11/2012 18:47,4/30/2019 13:58
+49591122004,Home_Res,80,50 Summerview Street,14609 Dovetail Hill,Avenue,Rjazanskij,Chernyakhovsk,Udmurt,194000,RU,4/23/2000 5:02,5/17/2017 1:46
+36376144408,Home_Res,486,84697 Thierer Center,7 Lerdahl Court,Alley,Marfino,Volzhskiy,Sakha,741000,RU,6/27/2000 17:55,1/1/2020 11:59
+20389076804,Other_Non-Nat,1855,82125 Mccormick Trail,9839 Artisan Way,Point,Filevskij Park,Novokuybyshevsk,Ingushetia,511000,RU,10/8/2017 9:43,2/21/2019 21:14
+87173673502,Gaurdian_Nat,12430,40393 Commercial Pass,3 Kings Plaza,Way,Kon'kovo,Sovetsk,Khakass,711000,RU,8/28/2009 4:37,9/15/2017 17:50
+3146756800,Work_Non-Nat,6864,53327 Vera Pass,65 Esker Lane,Drive,Butyrskoe,Sterlitamak,Ingushetia,511000,RU,6/11/2011 16:47,10/9/2020 14:29
+17073573400,Home_Res,8249,41 Hazelcrest Trail,6 Harbort Point,Place,Zjablikovo,Saransk,Mordovia,160000,RU,1/7/2015 6:12,12/9/2020 4:00
+88515337902,Work_Non-Nat,938,9 Thierer Street,70821 Northwestern Alley,Crossing,Matushkino,Ulyanovsk,Dagestan,634000,RU,4/19/2012 11:16,2/25/2018 21:38
+55954515909,Gaurdian_Non-Nat,70,7 Division Park,4 Sullivan Park,Drive,Vyhino-Zhulebino,Nytva,Mordovia,611000,RU,10/13/2015 21:42,5/16/2020 17:20
+17338172102,Work_Nat,78701,9809 High Crossing Alley,077 Delladonna Junction,Alley,Vyhino-Zhulebino,Chapayevsk,Kalmykia,711000,RU,4/21/2014 3:55,8/28/2020 15:26
+87535309402,Other_Nat,97,6 John Wall Terrace,867 Ohio Parkway,Road,Nizhegorodskoe,Grayvoron,Altai,667000,RU,5/12/2001 18:42,7/12/2019 12:11
+27717725508,Work_Non-Nat,7,167 Trailsway Circle,55402 Duke Junction,Center,Krjukovo,Monchegorsk,Karelia,978000,RU,1/18/2018 22:03,9/29/2020 12:44
+33417792909,Gaurdian_Nat,63,3 Basil Road,125 Grim Point,Point,Pokrovskoe Streshnevo,Obninsk,Karachay-Cherkess,333000,RU,4/26/2011 13:32,8/12/2020 14:47
+96525497101,Work_Nat,6700,1629 Vernon Avenue,99 Gina Junction,Drive,Lianozovo,Yoshkar-Ola,Udmurt,347000,RU,9/12/2010 11:55,9/4/2020 21:18
+17156968901,Other_Non-Nat,18,46205 Katie Trail,04 Roxbury Terrace,Pass,Bibirevo,Troitsk,Adygey,357000,RU,1/24/2005 16:54,9/7/2018 1:49
+99111649805,Work_Non-Nat,30378,2 Forest Run Parkway,79 Anzinger Place,Hill,Marfino,Rossosh,Buryat,338000,RU,11/26/2003 20:59,12/1/2020 17:31
+27504939403,Other_Non-Nat,7,4641 Sunfield Avenue,181 Becker Road,Court,Preobrazhenskoe,Krasnogorsk,North-Ossetia-Alania,857000,RU,4/14/2015 23:50,4/26/2019 2:44
+62386547901,Gaurdian_Non-Nat,8,1915 Anderson Street,0255 Division Circle,Parkway,Vostochnoe,Kirzhach,Khakass,589000,RU,5/14/2001 6:41,7/14/2017 8:21
+47859816502,Home_Res,3710,5747 Claremont Trail,63743 Heffernan Hill,Hill,Brateevo,Korsakov,Karachay-Cherkess,147000,RU,7/22/2015 1:09,9/20/2017 10:19
+15395480802,Home_Citzn,335,74 Mallard Crossing,5487 Emmet Crossing,Way,Vojkovskoe,Bogotol,Adygey,176000,RU,8/24/2000 12:42,5/3/2020 0:36
+11087956608,Work_Non-Nat,50,3000 7th Terrace,655 Shopko Junction,Point,Brateevo,Nar’yan-Mar,Udmurt,448000,RU,3/27/2006 0:02,4/13/2019 15:19
+34987023000,Gaurdian_Nat,6425,424 Dryden Trail,1 Lyons Point,Road,Chertanovo Juzhnoe,Murom,Chuvash,521000,RU,2/16/2020 7:10,6/16/2020 23:27
+50128468805,Gaurdian_Non-Nat,68,13630 David Circle,4 Huxley Crossing,Crossing,Tekstil'shhiki,Belovo,Karachay-Cherkess,978000,RU,3/16/2011 21:47,5/2/2019 21:03
+4172257107,Home_Citzn,287,08904 Quincy Place,85615 Kennedy Center,Park,Izmajlovo,Giaginskaya,North-Ossetia-Alania,999000,RU,7/29/2004 16:34,10/26/2018 18:50
+57255922600,Home_Res,41,78 Melody Court,39862 Russell Hill,Court,Juzhnoe Butovo,Kimry,Khakass,946000,RU,1/3/2004 18:51,2/16/2017 15:11
+38931114205,Work_Non-Nat,3,2746 Logan Alley,96724 Forster Center,Way,Jaroslavskoe,Zavolzhye,Khakass,338000,RU,6/19/2013 6:26,1/25/2020 12:00
+88011140306,Home_Citzn,69007,30 Anzinger Plaza,9 Stone Corner Court,Place,Chertanovo Juzhnoe,Gvardeysk,Mordovia,674000,RU,7/9/2013 17:39,10/8/2017 1:50
+96680123300,Other_Non-Nat,32,1 Sugar Street,3800 Lunder Hill,Crossing,Kurkino,Grayvoron,Chuvash,978000,RU,3/6/2007 9:08,9/19/2018 3:10
+20140237403,Gaurdian_Nat,121,31 Fieldstone Court,038 Stang Crossing,Hill,Poselenie Mihajlovo-Jarcevskoe,Furmanov,Kalmykia,225000,RU,7/24/2004 10:50,12/11/2020 5:59
+74095075403,Gaurdian_Non-Nat,3765,3 Fieldstone Avenue,948 Haas Way,Point,Severnoe Butovo,Kizilyurt,Sakha,194000,RU,5/11/2000 4:33,4/30/2020 23:44
+74502997908,Gaurdian_Nat,369,2 Talmadge Point,23215 Valley Edge Street,Alley,Taganskoe,Chertkovo,Chuvash,158000,RU,8/30/2015 0:56,4/1/2020 16:10
+85653262902,Work_Nat,7,9235 Northport Court,80 Stang Terrace,Street,Poselenie Filimonkovskoe,Novoaleksandrovsk,Buryat,888000,RU,4/7/2013 1:48,6/15/2017 7:15
+56495264109,Work_Nat,4,2219 Reindahl Park,33 Dorton Court,Plaza,Vojkovskoe,Kashira,Tuva,484000,RU,11/5/2019 5:03,9/18/2017 19:59
+30961259209,Gaurdian_Non-Nat,8,388 Forest Place,14 Washington Trail,Pass,Caricyno,Topki,Chechnya,176000,RU,4/14/2014 22:28,1/14/2020 21:29
+94729836805,Gaurdian_Non-Nat,17019,48026 Florence Pass,7 Nevada Way,Alley,Nagatino-Sadovniki,Michurinsk,Chuvash,359000,RU,5/5/2007 23:20,10/21/2019 12:57
+40063960400,Other_Non-Nat,9048,4 Almo Park,29334 Stoughton Trail,Lane,Juzhnoe Tushino,Mikhaylovsk,Chechnya,284000,RU,7/11/2018 23:22,10/4/2017 13:17
+16871419106,Home_Citzn,2,26 Shoshone Lane,76987 Merchant Place,Alley,Juzhnoe Butovo,Ramenskoye,Ingushetia,985000,RU,3/25/2020 8:53,5/13/2019 17:21
+34216035503,Other_Non-Nat,10,893 Stone Corner Alley,28502 Mccormick Pass,Trail,Alekseevskoe,Kamenolomni,Dagestan,634000,RU,3/9/2006 22:19,2/28/2017 6:54
+53538708509,Other_Non-Nat,3,3339 Reinke Avenue,87 Golf View Hill,Alley,Levoberezhnoe,Kotovsk,Mordovia,589000,RU,5/6/2011 11:15,6/13/2017 23:37
+66270387300,Other_Non-Nat,3955,1 Golf Course Circle,9102 Donald Park,Park,Losinoostrovskoe,Otradnaya,Tatarstan,167000,RU,12/18/2009 21:54,3/16/2019 10:32
+42032571508,Gaurdian_Non-Nat,2,24177 Waubesa Way,54762 Schiller Plaza,Center,Poselenie Marushkinskoe,Rostov,Kabardino-Balkar,369000,RU,11/8/2004 8:57,7/4/2017 16:22
+41594194601,Other_Nat,804,62882 Darwin Road,98 Springview Place,Terrace,Poselenie Moskovskij,Mozdok,Karelia,521000,RU,5/27/2000 16:28,10/1/2020 19:36
+36645258500,Gaurdian_Nat,46,2 Anderson Lane,85 Hallows Lane,Court,Poselenie Rogovskoe,Tolyatti,Chuvash,941000,RU,6/1/2014 18:14,2/7/2020 16:15
+46223599709,Gaurdian_Non-Nat,109,5 Superior Point,6 Roth Junction,Road,Ajeroport,Tsimlyansk,Buryat,258000,RU,7/9/2018 3:50,12/3/2019 3:00
+8168451400,Home_Citzn,26323,2538 Loomis Point,4254 Declaration Terrace,Drive,Poselenie Voskresenskoe,Petrovskoye,Chuvash,158000,RU,3/6/2007 6:22,6/4/2018 19:02
+38777083007,Other_Nat,4077,070 Warbler Junction,017 Heath Pass,Terrace,Kosino-Uhtomskoe,Gus’-Khrustal’nyy,Buryat,823000,RU,4/16/2018 17:46,5/5/2017 3:42
+551159500,Home_Res,99126,67753 Garrison Street,1690 Independence Terrace,Point,Arbat,Vyazniki,Kabardino-Balkar,334000,RU,8/21/2011 19:44,1/17/2018 3:41
+57131221007,Other_Non-Nat,638,76965 Garrison Circle,616 Bowman Hill,Plaza,Poselenie Shherbinka,Chernyakhovsk,Tuva,118000,RU,4/2/2018 6:50,3/23/2017 12:05
+9025426005,Work_Non-Nat,2,1770 Dexter Pass,9609 Prairieview Way,Place,Poselenie Mosrentgen,Fryazino,Sakha,166000,RU,2/20/2002 7:42,7/19/2017 6:53
+55442513908,Other_Non-Nat,9,623 Declaration Circle,880 Hudson Trail,Trail,Taganskoe,Makushino,Mordovia,187000,RU,9/10/2006 1:30,2/28/2018 11:08
+58116185605,Home_Citzn,55871,22318 Kropf Pass,45 Kingsford Road,Alley,Beskudnikovskoe,Dolgoprudnyy,Buryat,946000,RU,5/9/2000 21:04,10/14/2019 22:06
+70912029700,Work_Non-Nat,39972,253 Starling Junction,96 2nd Parkway,Trail,Poselenie Moskovskij,Zavetnoye,Udmurt,369000,RU,12/4/2008 4:49,5/4/2018 19:24
+7487256100,Other_Nat,7,0538 Cambridge Lane,551 Troy Drive,Avenue,Marfino,Angarsk,Karachay-Cherkess,521000,RU,11/1/2010 20:03,8/19/2019 7:10
+22467721500,Other_Nat,4793,287 Hayes Street,91 Declaration Plaza,Alley,Poselenie Marushkinskoe,Derbent,Karachay-Cherkess,228000,RU,6/1/2002 22:18,11/7/2020 0:55
+24446914007,Home_Citzn,51,74 Vermont Hill,60925 7th Hill,Hill,Preobrazhenskoe,Krasnogorodsk,North-Ossetia-Alania,895000,RU,8/19/2017 11:22,12/24/2017 22:50
+50720382406,Work_Non-Nat,54285,39954 Shasta Point,03 Marquette Point,Junction,Beskudnikovskoe,Trëkhgornyy,Udmurt,711000,RU,9/22/2018 10:38,7/1/2017 16:44
+12616280908,Work_Non-Nat,8,77899 Hazelcrest Lane,6 Fieldstone Junction,Point,Lomonosovskoe,Chikola,Bashkortostan,875000,RU,6/18/2008 13:46,5/21/2019 17:42
+98586637202,Home_Citzn,42410,8060 Prairieview Alley,4 Dryden Center,Court,Golovinskoe,Uspenskoye,Udmurt,978000,RU,11/8/2014 12:37,12/20/2019 3:03
+69314778101,Work_Non-Nat,6674,5 Birchwood Road,70622 Arapahoe Lane,Junction,Sokol,Sertolovo,Udmurt,667000,RU,2/2/2019 1:59,10/1/2018 4:14
+85839902102,Work_Non-Nat,3,1283 Atwood Terrace,99 Northridge Circle,Lane,Poselenie Rjazanovskoe,Rasskazovo,Komi,895000,RU,10/1/2001 20:33,5/21/2017 11:22
+93001629609,Gaurdian_Nat,860,769 Merrick Parkway,34 Mesta Center,Lane,Vojkovskoe,Irkutsk,North-Ossetia-Alania,857000,RU,4/12/2018 13:21,4/15/2017 1:15
+33799693308,Work_Nat,311,99 Delladonna Lane,69422 East Parkway,Drive,Sokolinaja Gora,Berëzovskiy,Tatarstan,284000,RU,9/9/2012 8:21,3/5/2018 21:22
+84977552207,Gaurdian_Nat,14,16 Petterle Lane,9735 Dayton Drive,Place,Horoshevo-Mnevniki,Bugulma,Komi,359000,RU,12/17/2016 5:00,7/31/2019 5:01
+26580380602,Home_Citzn,66,43 Maryland Terrace,6871 Upham Hill,Crossing,Juzhnoportovoe,Pervouralsk,Adygey,160000,RU,6/25/2014 5:28,9/10/2017 15:11
+78685530409,Gaurdian_Non-Nat,138,4 Mayfield Street,54434 Weeping Birch Hill,Parkway,Tverskoe,Miass,Karachay-Cherkess,385000,RU,8/5/2012 5:24,5/9/2019 3:01
+46901199601,Work_Non-Nat,752,5 Myrtle Lane,0 Thompson Way,Circle,Savelovskoe,Chistopol,Karachay-Cherkess,118000,RU,11/29/2017 3:22,5/6/2017 9:55
+71535005601,Home_Citzn,82,835 Londonderry Point,539 Walton Circle,Alley,Novogireevo,Kanevskaya,Tatarstan,351000,RU,2/10/2020 15:46,6/21/2017 3:17
+568438709,Gaurdian_Non-Nat,373,6 Dapin Center,628 Messerschmidt Lane,Alley,Sokol'niki,Karata,Altai,448000,RU,3/25/2004 20:18,4/12/2019 7:17
+56052769300,Gaurdian_Nat,7976,6445 Green Pass,67 Waywood Hill,Drive,Jakimanka,Leninsk-Kuznetskiy,Dagestan,337000,RU,3/11/2007 6:43,6/11/2019 19:43
+36678608200,Gaurdian_Nat,0,7169 Aberg Circle,37 Shelley Court,Crossing,Orehovo-Borisovo Severnoe,Severomorsk,Kabardino-Balkar,284000,RU,5/2/2020 13:11,1/8/2018 15:23
+19124831202,Work_Non-Nat,5480,6455 Green Pass,021 Butternut Terrace,Park,Silino,Naro-Fominsk,Mordovia,473000,RU,4/3/2019 10:14,5/24/2018 9:40
+64787081001,Home_Citzn,5985,2 Warner Street,3 Manufacturers Street,Circle,Savelki,Krylovskaya,Sakha,168000,RU,8/24/2010 23:23,6/25/2017 13:58
+48152363300,Other_Non-Nat,8480,3 Cottonwood Plaza,31 Messerschmidt Drive,Crossing,Silino,Nazarovo,Khakass,337000,RU,11/9/2015 21:52,10/10/2018 12:07
+1788641002,Gaurdian_Nat,5704,89398 Truax Plaza,71660 3rd Trail,Circle,Jaroslavskoe,Rezh,Chuvash,649000,RU,4/27/2006 5:10,1/13/2020 11:05
+22744156902,Home_Citzn,8,84 Clarendon Trail,6459 Burning Wood Center,Lane,Moskvorech'e-Saburovo,Makushino,Khakass,761000,RU,8/10/2015 10:48,4/21/2019 4:42
+51419649801,Gaurdian_Nat,9809,20 Graceland Place,342 Merry Avenue,Alley,Kuncevo,Novouralsk,Karelia,359000,RU,12/4/2012 14:45,9/7/2018 2:19
+47608135403,Gaurdian_Non-Nat,8,29370 Barnett Drive,5323 Bultman Street,Park,Severnoe,Osinniki,Ingushetia,558000,RU,9/16/2008 21:59,6/17/2019 5:51
+54967228002,Gaurdian_Non-Nat,70,04 Johnson Park,60 Bunker Hill Lane,Center,Vnukovo,Pavlovskiy Posad,Bashkortostan,852000,RU,7/23/2012 5:50,3/13/2019 23:26
+74169702601,Gaurdian_Nat,43,42196 Forster Court,6610 Sundown Court,Lane,Lomonosovskoe,Belogorsk,Tatarstan,666000,RU,11/2/2019 15:14,3/2/2018 10:12
+8969684702,Other_Non-Nat,51404,33 Fairfield Place,3 Melrose Court,Point,Golovinskoe,Murmansk,Karelia,589000,RU,7/23/2002 22:53,6/14/2018 8:39
+12906991904,Gaurdian_Non-Nat,10,303 Oxford Street,15858 Lakeland Trail,Junction,Kuz'minki,Birobidzhan,Altai,978000,RU,2/6/2020 5:09,2/21/2020 0:10
+99502101109,Gaurdian_Non-Nat,60020,4 Blue Bill Park Way,573 Atwood Park,Place,Zapadnoe Degunino,Bryansk,Mordovia,711000,RU,12/8/2008 10:29,1/31/2019 1:04
+67329274402,Other_Non-Nat,495,280 Duke Street,1357 Mcguire Parkway,Street,Kurkino,Khasavyurt,Khakass,248000,RU,6/26/2007 3:44,6/13/2020 6:27
+28544594301,Home_Res,711,11319 Lerdahl Trail,69 Sachs Way,Drive,Poselenie Vnukovskoe,Angarsk,Komi,999000,RU,1/20/2016 4:45,11/10/2017 16:43
+16294801304,Gaurdian_Non-Nat,683,64 Moose Terrace,7 Hermina Circle,Point,Meshhanskoe,Shelekhov,Chechnya,521000,RU,11/2/2003 11:53,11/11/2020 1:57
+13026327100,Other_Nat,6,53204 Pepper Wood Junction,69250 Clarendon Hill,Trail,Donskoe,Pravdinsk,Chechnya,985000,RU,7/15/2006 18:06,5/12/2017 21:47
+17942978603,Gaurdian_Nat,461,85761 Calypso Trail,8 Dexter Lane,Park,Teplyj Stan,Goryachiy Klyuch,Chuvash,985000,RU,5/5/2005 5:30,11/26/2019 13:28
+79616536501,Other_Non-Nat,75848,188 Mendota Terrace,907 Merrick Junction,Drive,Losinoostrovskoe,Kasimov,Bashkortostan,228000,RU,1/22/2011 0:36,11/1/2018 17:53
+69953391500,Other_Nat,9231,60 American Center,7697 Delladonna Parkway,Terrace,Savelki,Nevinnomyssk,Karachay-Cherkess,118000,RU,2/14/2003 3:22,11/28/2018 18:58
+98481344500,Other_Non-Nat,36658,660 Pawling Way,9300 Helena Alley,Park,Poselenie Klenovskoe,Serpukhov,Komi,357000,RU,9/27/2008 3:31,10/28/2017 14:53
+11562129709,Work_Nat,7,331 Goodland Circle,92789 Dunning Crossing,Terrace,Sokolinaja Gora,Sosnovyy Bor,Mordovia,248000,RU,7/12/2009 12:02,1/11/2018 6:08
+56062515105,Work_Non-Nat,657,50 Acker Street,442 Superior Plaza,Crossing,Nagatino-Sadovniki,Nar’yan-Mar,Karachay-Cherkess,118000,RU,9/15/2004 15:00,10/20/2020 16:45
+14614383801,Gaurdian_Nat,48,93 Stephen Court,272 Green Ridge Crossing,Trail,Matushkino,Murom,Mari EL,359000,RU,6/19/2004 11:36,9/26/2017 12:51
+92637826100,Home_Res,8,17 Anhalt Lane,96 Carey Plaza,Terrace,Zjablikovo,Dinskaya,Sakha,963000,RU,10/31/2020 14:26,5/19/2017 17:54
+1265865109,Gaurdian_Nat,348,930 Union Terrace,74 Kropf Circle,Terrace,Shhukino,Otradnyy,Karachay-Cherkess,111000,RU,6/22/2019 23:39,2/27/2020 16:39
+40919932006,Work_Nat,807,9 Southridge Lane,4541 Drewry Junction,Avenue,Nagornoe,Igra,Buryat,511000,RU,1/12/2021 0:24,5/6/2017 8:52
+52183349306,Other_Non-Nat,2482,0494 Meadow Vale Junction,532 Ridge Oak Hill,Terrace,Nizhegorodskoe,Sukhoy Log,Komi,674000,RU,9/20/2015 18:48,8/9/2019 11:55
+76009131000,Work_Nat,2,8 Farwell Road,671 Badeau Avenue,Avenue,Zamoskvorech'e,Stupino,Tuva,888000,RU,5/24/2019 5:22,7/30/2017 19:47
+6997953907,Home_Citzn,88814,9 Kingsford Trail,67189 Chive Park,Center,Savelovskoe,Volkhov,Karelia,159000,RU,2/19/2004 18:25,5/2/2018 17:41
+87623186803,Other_Non-Nat,1285,209 Buell Street,372 Waubesa Avenue,Plaza,Ivanovskoe,Salsk,Karelia,334000,RU,4/13/2013 0:01,6/1/2019 23:48
+94158008502,Work_Nat,5,734 Corry Road,768 Shelley Parkway,Alley,Donskoe,Kushva,Karelia,211000,RU,7/27/2009 12:26,7/6/2017 13:28
+60962656206,Other_Non-Nat,74532,669 Hayes Park,3 Di Loreto Point,Hill,Horoshevskoe,Yugorsk,Tatarstan,555000,RU,6/29/2002 14:29,11/2/2018 10:09
+57532854409,Gaurdian_Non-Nat,4491,7 Lunder Parkway,03421 Red Cloud Crossing,Pass,Solncevo,Nadym,Kabardino-Balkar,411000,RU,11/18/2002 8:55,4/3/2017 23:00
+55361297803,Home_Res,1071,3893 Mitchell Park,308 Northport Crossing,Drive,Jasenevo,Otradnaya,Adygey,985000,RU,5/7/2000 9:14,9/24/2020 7:28
+2151302305,Other_Non-Nat,74,858 Northridge Court,14 Kensington Place,Pass,Ramenki,Kansk,Chuvash,411000,RU,4/18/2001 2:11,7/5/2020 7:29
+54473860800,Gaurdian_Nat,42925,2820 Kinsman Hill,7694 Shasta Lane,Plaza,Savelovskoe,Korenovsk,Komi,963000,RU,5/6/2006 9:00,11/3/2020 5:16
+93394978103,Home_Citzn,5,78137 South Center,74 Cherokee Street,Point,Lomonosovskoe,Zima,Bashkortostan,978000,RU,6/10/2009 22:38,12/17/2019 21:38
+84973395500,Gaurdian_Non-Nat,4,8 Jenna Circle,0 Anthes Terrace,Trail,Tekstil'shhiki,Norkino,Buryat,875000,RU,4/30/2013 13:17,5/31/2020 0:29
+32177537603,Gaurdian_Non-Nat,12,7215 Moulton Street,6190 Bellgrove Plaza,Trail,Novogireevo,Zelenogradsk,Tuva,228000,RU,10/22/2019 13:11,7/3/2020 8:42
+40596862102,Home_Citzn,43,6596 Pepper Wood Place,200 Florence Court,Center,Caricyno,Pavlovsk,Khakass,634000,RU,1/5/2020 10:35,3/26/2017 7:37
+54963631404,Home_Res,91842,9 Hagan Circle,0088 Sugar Road,Avenue,Severnoe Tushino,Uspenskoye,Buryat,357000,RU,3/9/2019 15:06,8/17/2020 18:28
+90553296507,Work_Non-Nat,36,14 Marquette Trail,66917 Graceland Hill,Drive,Bibirevo,Tambov,Tuva,985000,RU,4/10/2017 11:05,4/9/2017 3:40
+54352886104,Work_Nat,15,26888 Lakeland Way,19855 Cottonwood Center,Street,Tekstil'shhiki,Tarasovskiy,Udmurt,857000,RU,11/7/2008 6:12,5/10/2017 2:16
+79382447400,Home_Citzn,5110,8102 Hooker Center,89868 Armistice Street,Hill,Jasenevo,Velikiy Novgorod,Dagestan,180000,RU,7/28/2012 21:13,1/22/2018 1:46
+5304398607,Gaurdian_Nat,7,41 Maryland Court,7182 Donald Avenue,Drive,Silino,Bogdanovich,Buryat,333000,RU,7/5/2015 18:08,4/28/2019 22:32
+55362635306,Home_Res,9,8 Vernon Point,6878 Butterfield Center,Terrace,Beskudnikovskoe,Tayga,Khakass,448000,RU,2/23/2011 8:20,2/25/2019 0:47
+88984321904,Home_Citzn,42,26 Lyons Alley,0 Bultman Alley,Park,Zjuzino,Sovetskaya Gavan’,Mari EL,484000,RU,2/2/2009 15:51,8/10/2019 1:03
+31348640808,Home_Res,69810,92306 Golf View Way,7708 Warbler Avenue,Terrace,Kapotnja,Tutayev,Karelia,187000,RU,8/20/2000 13:45,12/2/2018 20:59
+34415695701,Home_Res,68358,6 Stone Corner Road,79446 Bayside Trail,Drive,Alekseevskoe,Chernogorsk,Mordovia,359000,RU,12/8/2002 0:05,12/27/2019 9:18
+17176903708,Gaurdian_Nat,75,3471 Veith Place,368 Bonner Pass,Park,Poselenie Desjonovskoe,Zavolzhye,Mari EL,158000,RU,5/22/2001 23:51,8/11/2019 1:20
+11828453603,Home_Citzn,16160,02 Corben Place,9807 Southridge Lane,Hill,Juzhnoportovoe,Tomsino,Kalmykia,558000,RU,4/9/2005 14:34,10/28/2020 20:09
+59355569001,Gaurdian_Nat,208,1237 Lotheville Terrace,02938 Hoard Way,Road,Severnoe,Birobidzhan,Khakass,589000,RU,12/14/2020 2:57,1/15/2018 19:50
+42600207006,Gaurdian_Nat,3,573 Bowman Pass,4 Lyons Terrace,Road,Krasnosel'skoe,Blagodarnyy,North-Ossetia-Alania,160000,RU,10/9/2002 11:35,5/13/2019 6:22
+76279955400,Work_Non-Nat,7,265 Everett Junction,357 Aberg Place,Lane,Lefortovo,Ukhta,Mordovia,448000,RU,1/2/2016 0:23,6/17/2020 2:56
+46873088604,Other_Non-Nat,2,30616 Anniversary Terrace,51 Ronald Regan Lane,Place,Sokol'niki,Zainsk,Ingushetia,187000,RU,7/8/2009 19:42,4/2/2017 14:42
+39164617002,Other_Non-Nat,81264,6747 Anzinger Hill,48902 Mosinee Lane,Trail,Kotlovka,Remontnoye,Karelia,823000,RU,11/2/2019 14:34,4/9/2017 14:53
+93277585600,Other_Non-Nat,9163,1839 Oriole Lane,87 Anzinger Trail,Center,Basmannoe,Goryachiy Klyuch,Ingushetia,111000,RU,3/5/2001 10:15,10/3/2020 8:07
+95662773206,Other_Nat,2822,31042 Pepper Wood Circle,5342 Talisman Avenue,Junction,Bibirevo,Revda,Buryat,473000,RU,1/18/2013 10:40,6/5/2020 18:18
+84681040403,Gaurdian_Nat,1,372 Vera Parkway,7 Wayridge Drive,Point,Poselenie Pervomajskoe,Asino,Buryat,228000,RU,1/4/2006 20:51,11/7/2019 6:36
+4955831308,Gaurdian_Nat,51816,47842 Bashford Trail,75 Lakewood Junction,Trail,Shhukino,Shakhty,North-Ossetia-Alania,284000,RU,10/6/2017 4:23,2/27/2018 15:11
+5188373305,Gaurdian_Non-Nat,5,15 Farmco Trail,0 Stone Corner Alley,Place,Gol'janovo,Polyane,Buryat,841000,RU,4/28/2002 14:20,7/28/2019 4:39
+6174921400,Home_Res,76627,547 Hoepker Avenue,665 Marcy Plaza,Avenue,Vostochnoe,Oktyabrsk,Kalmykia,259000,RU,4/7/2000 19:07,1/20/2020 2:00
+81846486108,Gaurdian_Non-Nat,0,33939 Commercial Way,135 Arizona Junction,Point,Tverskoe,Izberbash,Ingushetia,511000,RU,1/29/2005 20:16,1/9/2021 5:17
+2080968401,Gaurdian_Non-Nat,31842,696 Springview Drive,49180 Monica Alley,Street,Pechatniki,Valuyki,Karachay-Cherkess,895000,RU,7/27/2011 12:34,6/29/2018 4:22
+97068472600,Work_Nat,60740,4774 Bluestem Street,10 East Point,Park,Beskudnikovskoe,Chaykovskiy,Bashkortostan,511000,RU,5/1/2020 7:55,9/23/2020 11:20
+19684414804,Home_Citzn,4125,2672 Ryan Way,62734 East Plaza,Junction,Ramenki,Shelekhov,Mari EL,153000,RU,3/27/2018 21:02,6/25/2019 2:01
+1658341700,Gaurdian_Nat,4038,55 Tony Junction,97665 Farwell Parkway,Point,Lianozovo,Sharypovo,North-Ossetia-Alania,999000,RU,8/28/2015 3:50,7/3/2018 12:48
+83994711904,Gaurdian_Non-Nat,289,0573 Onsgard Alley,00 Acker Center,Alley,Horoshevo-Mnevniki,Revda,Chuvash,337000,RU,4/12/2004 18:23,10/10/2020 6:49
+60452424509,Work_Non-Nat,6295,475 Merchant Pass,5 Transport Alley,Point,Otradnoe,Tolyatti,Kalmykia,669000,RU,5/10/2014 2:00,8/27/2018 4:59
+10251327609,Other_Nat,8907,387 Amoth Point,19 Carpenter Pass,Drive,Danilovskoe,Ivanteyevka,Bashkortostan,857000,RU,12/21/2019 17:16,2/13/2020 5:02
+59266022700,Home_Res,236,6 Shoshone Hill,1 Graedel Street,Pass,Vostochnoe,Yeysk,Altai,589000,RU,5/13/2005 18:15,12/24/2019 22:19
+65303610006,Home_Res,6969,96280 Eagan Way,2 Meadow Ridge Terrace,Parkway,Teplyj Stan,Kopeysk,Karachay-Cherkess,777000,RU,2/3/2012 14:51,6/9/2019 16:19
+34891962306,Work_Nat,6530,85 Toban Circle,9345 Kensington Drive,Point,Horoshevo-Mnevniki,Novocheboksarsk,Karelia,369000,RU,2/27/2015 2:22,4/27/2017 2:48
+67270216109,Other_Non-Nat,80744,819 Shoshone Crossing,9 Rowland Way,Parkway,Chertanovo Juzhnoe,Giaginskaya,Mordovia,279000,RU,5/10/2015 2:21,3/21/2019 13:17
+79867467609,Other_Nat,8,2 Holy Cross Center,0 Dayton Pass,Road,Jakimanka,Krymsk,Mari EL,895000,RU,4/4/2007 16:52,6/23/2017 10:48
+6756396809,Home_Citzn,25,96 Portage Pass,68711 Moulton Junction,Center,Zamoskvorech'e,Yefremov,Tatarstan,159000,RU,2/9/2003 19:58,1/13/2019 22:41
+7344739007,Home_Citzn,412,79 Victoria Road,31349 Autumn Leaf Street,Avenue,Savelki,Volkhov,Bashkortostan,555000,RU,11/28/2019 23:47,5/13/2017 12:38
+40540938500,Home_Res,5,06694 Ryan Plaza,97 Pine View Drive,Parkway,Chertanovo Severnoe,Lensk,Altai,496000,RU,8/17/2020 20:54,6/29/2018 21:36
+98973185805,Other_Non-Nat,9,0 Prentice Place,1 Rieder Alley,Street,Sokol'niki,Petrovskoye,Mari EL,888000,RU,1/1/2003 13:44,8/3/2020 13:40
+38755299502,Home_Citzn,90,30 Fieldstone Junction,17325 Graceland Court,Terrace,Ajeroport,Zainsk,Altai,649000,RU,5/2/2005 9:58,11/22/2020 21:53
+51242314302,Gaurdian_Nat,4578,2024 Lindbergh Crossing,3279 Moose Lane,Terrace,Severnoe,Aleysk,North-Ossetia-Alania,634000,RU,10/31/2005 6:44,1/25/2017 6:13
+42714828200,Home_Res,9421,188 Longview Terrace,929 Lakewood Alley,Trail,Shhukino,Kachkanar,Altai,946000,RU,9/26/2003 5:08,10/1/2017 8:24
+73488761906,Home_Citzn,9,008 Golden Leaf Trail,2 Park Meadow Terrace,Street,Savelovskoe,Iskitim,Khakass,194000,RU,3/4/2009 8:13,3/25/2019 17:53
+34601195207,Gaurdian_Nat,92466,89730 Roxbury Trail,4 Crownhardt Place,Trail,Strogino,Grayvoron,Buryat,147000,RU,6/26/2000 23:17,6/7/2020 6:12
+90836774806,Other_Non-Nat,7,7 Lerdahl Way,7 Katie Park,Park,Severnoe Izmajlovo,Kaliningrad,Udmurt,761000,RU,4/21/2000 3:44,3/29/2017 14:29
+43235086907,Other_Non-Nat,2397,9571 Novick Trail,480 Erie Road,Pass,Moskvorech'e-Saburovo,Pokhvistnevo,Chuvash,610000,RU,8/16/2011 17:00,6/2/2017 19:34
+50269526900,Gaurdian_Nat,4321,6 Golf View Court,10 Nelson Point,Street,Poselenie Sosenskoe,Parma,Altai,337000,RU,4/6/2004 18:42,12/17/2018 9:50
+82970365601,Home_Citzn,37,1633 Truax Drive,1 Hallows Circle,Street,Novokosino,Khimki,Tuva,180000,RU,5/22/2000 22:11,7/12/2017 14:09
+13344427809,Work_Nat,99126,16724 Norway Maple Center,3251 La Follette Lane,Junction,Kurkino,Sayanogorsk,North-Ossetia-Alania,610000,RU,3/22/2014 0:28,7/31/2019 21:32
+53091681303,Other_Non-Nat,5131,467 Milwaukee Hill,31 Arrowood Center,Court,Veshnjaki,Kolchugino,Mari EL,264000,RU,5/19/2013 18:40,12/3/2018 15:56
+61162706504,Work_Non-Nat,3848,7 Shelley Point,963 Briar Crest Pass,Street,Kotlovka,Murom,Ingushetia,176000,RU,8/28/2011 22:14,8/8/2020 19:52
+46601038200,Home_Res,14128,1 Macpherson Avenue,79 Bobwhite Circle,Road,Marfino,Yegorlykskaya,Tatarstan,248000,RU,10/13/2008 7:08,5/9/2019 16:53
+75814547200,Home_Res,8,087 Farmco Trail,364 Evergreen Trail,Trail,Losinoostrovskoe,Svobodnyy,Adygey,347000,RU,2/5/2008 6:16,11/12/2018 8:09
+3121702101,Home_Res,49413,3 Laurel Place,175 Tony Circle,Circle,Levoberezhnoe,Yegorlykskaya,North-Ossetia-Alania,511000,RU,4/1/2016 11:12,4/4/2018 4:21
+46581229905,Gaurdian_Nat,96,2378 Dahle Avenue,5402 Algoma Court,Junction,Meshhanskoe,Yelets,Chuvash,875000,RU,5/2/2010 18:25,10/23/2020 4:21
+16112003903,Other_Non-Nat,25,32 Holy Cross Parkway,15 Buhler Place,Place,Filevskij Park,Petrovskoye,Tuva,445000,RU,9/28/2001 5:10,8/31/2020 10:55
+7647519103,Work_Nat,11849,291 Knutson Alley,430 La Follette Court,Junction,Danilovskoe,Severomorsk,Kabardino-Balkar,111000,RU,8/10/2018 19:26,7/22/2020 21:15
+35254246200,Other_Non-Nat,8,7 Tony Pass,477 Alpine Avenue,Circle,Teplyj Stan,Pereslavl’-Zalesskiy,Altai,777000,RU,12/18/2019 6:55,4/30/2018 22:06
+47685173508,Other_Nat,4,7356 Rusk Plaza,5563 Stang Drive,Street,Perovo,Kotovsk,Sakha,347000,RU,3/16/2001 19:38,8/14/2020 18:23
+57339390502,Home_Citzn,5566,3 Karstens Drive,9 Dakota Avenue,Plaza,Birjulevo Vostochnoe,Zheleznovodsk,Tuva,666000,RU,3/7/2005 16:55,6/23/2019 9:40
+6843624801,Other_Nat,7,15824 Loftsgordon Alley,79 Lien Circle,Court,Jasenevo,Korkino,Kabardino-Balkar,985000,RU,5/19/2017 3:44,9/12/2018 14:55
+56319563507,Home_Res,16,09 Oak Valley Park,5780 Talisman Terrace,Lane,Shhukino,Polevskoy,Chechnya,284000,RU,1/6/2006 7:02,12/8/2019 21:59
+88463224600,Home_Citzn,1,4 Lakeland Point,47 Mockingbird Plaza,Plaza,Vostochnoe Izmajlovo,Aznakayevo,Altai,167000,RU,11/22/2017 23:12,5/17/2018 10:09
+19406646901,Home_Citzn,41,4 Hintze Road,8 Clove Circle,Road,Mitino,Bolgatovo,Ingushetia,246000,RU,1/24/2003 19:00,10/10/2018 10:16
+43954417402,Home_Citzn,80509,52352 Hovde Center,292 Saint Paul Alley,Drive,Poselenie Voronovskoe,Nyagan,North-Ossetia-Alania,246000,RU,1/14/2019 22:57,10/9/2020 17:00
+89423162309,Gaurdian_Nat,76,9 Graceland Court,7655 Loomis Drive,Center,Zjablikovo,Chusovoy,Dagestan,351000,RU,12/24/2015 19:06,1/10/2021 14:04
+13365163300,Work_Nat,72,19 Arizona Plaza,1 Sherman Park,Street,Poselenie Klenovskoe,Novorossiysk,Karelia,176000,RU,4/26/2004 19:45,5/3/2020 5:52
+44771583806,Home_Res,958,53 Northridge Road,0797 Heath Avenue,Crossing,Severnoe Tushino,Baksan,Karachay-Cherkess,248000,RU,7/16/2012 3:34,1/8/2021 2:10
+47324055107,Home_Res,2,232 Blue Bill Park Place,73918 Judy Lane,Circle,Begovoe,Krasnyy Sulin,Kalmykia,118000,RU,2/14/2011 7:41,3/14/2018 6:05
+71438920500,Gaurdian_Non-Nat,22,9 Golden Leaf Trail,4 Garrison Circle,Lane,Mitino,Dalnerechensk,Tatarstan,946000,RU,6/15/2009 1:10,10/3/2017 1:14
+62142518302,Gaurdian_Nat,4,01 Mayer Drive,15817 Upham Road,Junction,Ivanovskoe,Irkutsk,Khakass,999000,RU,10/23/2006 15:34,7/2/2020 21:35
+3612307906,Home_Res,351,35931 Farmco Place,75547 Norway Maple Court,Pass,Poselenie Voskresenskoe,Topki,Khakass,211000,RU,6/14/2020 5:20,9/6/2017 1:42
+62729192908,Home_Res,43,92 Helena Point,634 Warbler Plaza,Point,Silino,Kulebaki,Tatarstan,111000,RU,6/8/2014 18:05,5/24/2020 14:17
+55057272200,Home_Citzn,6,73594 Village Place,3 Dennis Hill,Trail,Mar'ino,Kavkazskaya,Karachay-Cherkess,496000,RU,10/30/2006 2:20,2/18/2017 2:33
+35276093206,Other_Non-Nat,3025,2432 Mockingbird Road,4351 Bunting Park,Circle,Zjuzino,Proletarsk,North-Ossetia-Alania,879000,RU,4/1/2018 1:34,3/13/2017 11:35
+29427216206,Gaurdian_Non-Nat,5260,0851 Bartelt Pass,9469 Schiller Court,Alley,Poselenie Klenovskoe,Vyazniki,North-Ossetia-Alania,268000,RU,1/31/2017 19:02,1/16/2019 15:11
+87776535408,Work_Non-Nat,9,0 Pine View Terrace,327 Westport Terrace,Crossing,Danilovskoe,Tarasovskiy,Chuvash,158000,RU,12/27/2019 23:47,2/21/2019 19:55
+31283115404,Work_Non-Nat,51,152 Columbus Place,73 Birchwood Alley,Hill,Golovinskoe,Chikola,Kalmykia,777000,RU,6/1/2009 19:21,1/9/2018 23:49
+58850921009,Other_Nat,5831,1 Crescent Oaks Crossing,5885 Knutson Junction,Park,Savelovskoe,Nalchik,Karelia,279000,RU,3/7/2016 3:04,11/9/2017 6:09
+86047811503,Work_Non-Nat,34046,1725 Loftsgordon Plaza,6 Pennsylvania Court,Junction,Juzhnoe Medvedkovo,Shuya,Mordovia,359000,RU,7/8/2016 21:55,10/29/2020 8:52
+45823302508,Other_Non-Nat,73471,1 Carioca Drive,00 Schmedeman Crossing,Parkway,Hamovniki,Surgut,Kalmykia,895000,RU,4/18/2000 13:12,3/12/2020 14:07
+74645419001,Gaurdian_Nat,562,60869 Dorton Court,86 Pepper Wood Point,Trail,Arbat,Nurlat,Mari EL,180000,RU,10/22/2019 17:34,7/10/2018 2:30
+50406994706,Other_Nat,74456,8140 Stuart Avenue,7579 Esch Park,Hill,Troickij okrug,Serdobsk,Bashkortostan,258000,RU,11/22/2003 23:11,8/25/2019 11:30
+54323673305,Home_Citzn,84587,6745 Hallows Drive,46266 Scott Plaza,Terrace,Severnoe Medvedkovo,Uray,Buryat,311000,RU,3/16/2002 3:27,9/25/2019 20:09
+56033925706,Other_Non-Nat,2,7 Hovde Pass,0851 Macpherson Parkway,Junction,Tekstil'shhiki,Osyno,Kabardino-Balkar,357000,RU,1/4/2002 12:04,4/6/2019 20:14
+604644808,Other_Non-Nat,958,3906 Talmadge Center,9907 Banding Terrace,Alley,Hamovniki,Ryazan,Khakass,823000,RU,8/18/2012 14:27,1/7/2021 18:04
+11491477706,Gaurdian_Nat,623,1192 Carpenter Road,68615 Anthes Park,Park,Matushkino,Mirnyy,Komi,666000,RU,12/18/2012 12:55,9/7/2019 10:29
+59072646607,Gaurdian_Nat,65383,725 Forest Run Plaza,2 Division Crossing,Junction,Poselenie Shherbinka,Lytkarino,Tuva,338000,RU,10/16/2006 19:20,5/20/2020 5:43
+10972277105,Other_Non-Nat,886,53101 Jana Circle,772 Evergreen Street,Terrace,Novogireevo,Labinsk,Chechnya,225000,RU,11/28/2010 3:15,6/28/2017 4:48
+520959607,Gaurdian_Non-Nat,63,022 American Hill,2912 Summerview Alley,Way,Bogorodskoe,Novouralsk,Kabardino-Balkar,257000,RU,11/28/2012 1:08,3/29/2019 13:16
+55066564607,Home_Citzn,7272,97 Sheridan Center,510 Victoria Park,Terrace,Krasnosel'skoe,Severomorsk,Karelia,111000,RU,5/31/2016 9:42,3/12/2018 17:54
+80499896704,Other_Nat,959,8069 Basil Alley,4644 Randy Terrace,Junction,Novo-Peredelkino,Gelendzhik,Adygey,424000,RU,4/11/2013 21:05,10/2/2017 16:55
+220111700,Gaurdian_Nat,2,897 Mifflin Crossing,75246 Bluejay Junction,Center,Vostochnoe Izmajlovo,Roslavl,Mordovia,211000,RU,2/14/2006 21:27,12/19/2018 13:06
+16560221804,Home_Res,70178,82491 Sheridan Center,61046 Lukken Avenue,Road,Kuncevo,Valuyki,Kabardino-Balkar,555000,RU,1/7/2006 3:34,6/26/2017 0:02
+48933831106,Other_Non-Nat,255,9978 Ohio Place,9217 Messerschmidt Circle,Avenue,Lianozovo,Khanty-Mansiysk,Karachay-Cherkess,357000,RU,4/4/2008 9:39,12/21/2018 22:47
+42420763004,Other_Non-Nat,37728,31 Grasskamp Trail,9 Morningstar Point,Plaza,Chertanovo Severnoe,Trëkhgornyy,Adygey,279000,RU,6/29/2006 1:31,1/4/2019 6:18
+93666534408,Gaurdian_Non-Nat,946,3 Straubel Court,13 School Court,Pass,Perovo,Slavyansk-na-Kubani,Chechnya,257000,RU,8/5/2018 20:48,7/4/2020 14:52
+95773873900,Gaurdian_Nat,50738,10 Green Ridge Alley,418 Redwing Center,Crossing,Poselenie Rogovskoe,Kokhma,Komi,180000,RU,11/19/2001 10:21,12/15/2018 15:57
+77766703204,Work_Nat,2016,6373 Continental Street,49 Debs Terrace,Lane,Sviblovo,Bagayevskaya,Adygey,333000,RU,12/12/2003 19:51,12/29/2018 5:26
+47189206800,Work_Non-Nat,328,925 Tomscot Parkway,617 Dunning Lane,Pass,Arbat,Zheleznogorsk,North-Ossetia-Alania,445000,RU,7/11/2019 2:10,12/11/2019 16:54
+86989229209,Other_Non-Nat,400,66367 2nd Drive,0581 Butterfield Court,Lane,Sokol,Kolomna,Khakass,337000,RU,7/28/2013 2:13,10/17/2017 3:11
+16581922300,Work_Nat,12657,82 Union Terrace,64089 Coolidge Street,Circle,Ostankinskoe,Vyazma,Mari EL,163000,RU,11/19/2002 19:03,3/22/2020 7:50
+51912085306,Home_Citzn,8,3 Schiller Lane,89 Glendale Crossing,Junction,Horoshevskoe,Mytishchi,Adygey,666000,RU,10/4/2000 17:03,7/4/2018 14:57
+37279344205,Work_Nat,68183,3 Maple Crossing,32 Manley Way,Park,Vostochnoe Degunino,Labytnangi,Chuvash,496000,RU,3/10/2008 22:35,9/5/2019 6:46
+19296379609,Other_Nat,2,1764 Schiller Hill,3 Havey Terrace,Pass,Ochakovo-Matveevskoe,Domodedovo,Altai,815000,RU,4/9/2012 1:08,7/12/2019 7:41
+83109597002,Work_Nat,1,855 Canary Hill,16 Westridge Place,Point,Dorogomilovo,Buy,Sakha,351000,RU,2/2/2009 4:28,12/16/2020 2:02
+72281827007,Home_Res,806,8 Almo Plaza,81 Sauthoff Avenue,Alley,Vostochnoe Izmajlovo,Kamenolomni,Dagestan,257000,RU,1/17/2015 18:01,12/26/2018 17:27
+28655840406,Home_Res,7226,3 Chinook Court,73 Commercial Street,Junction,Vostochnoe,Gudermes,Tuva,761000,RU,2/26/2014 7:59,12/17/2018 7:07
+74804437409,Other_Nat,0,80994 Sugar Crossing,97223 Maple Wood Trail,Plaza,Solncevo,Nizhnevartovsk,Mari EL,610000,RU,4/19/2015 1:57,7/27/2017 4:12
+56514537009,Home_Res,6439,2953 Petterle Park,18 Clyde Gallagher Avenue,Point,Kuncevo,Kirov,Bashkortostan,101000,RU,5/5/2006 20:09,12/24/2017 21:25
+83244405000,Gaurdian_Non-Nat,1,9 Memorial Center,7856 Southridge Point,Plaza,Poselenie Sosenskoe,Kulebaki,Kabardino-Balkar,895000,RU,8/6/2011 7:54,6/15/2020 8:23
+98306837209,Work_Non-Nat,776,80993 Truax Park,64 Bay Pass,Plaza,Bogorodskoe,Slantsy,Tuva,496000,RU,6/24/2019 15:26,4/13/2020 2:07
+20605290206,Work_Non-Nat,847,86058 Morrow Terrace,34 Washington Junction,Plaza,Meshhanskoe,Tatarsk,Adygey,158000,RU,12/11/2015 23:52,11/23/2018 7:27
+4349377308,Gaurdian_Nat,6,610 Columbus Trail,502 Green Ridge Way,Street,Arbat,Bryansk,Dagestan,268000,RU,11/18/2011 13:31,10/15/2017 6:25
+16733897901,Home_Res,258,88 Florence Junction,14 Bayside Parkway,Court,Begovoe,Achkhoy-Martan,Dagestan,815000,RU,4/21/2017 13:09,8/8/2020 11:52
+4524320900,Home_Res,445,8261 Stephen Drive,5 Lawn Circle,Drive,Brateevo,Alekseyevka,Kalmykia,211000,RU,2/20/2012 5:51,4/28/2018 6:59
+84067913801,Gaurdian_Non-Nat,424,2 Golden Leaf Avenue,1 Manitowish Park,Hill,Lianozovo,Shchëkino,Komi,841000,RU,2/6/2000 18:41,10/17/2018 4:45
+25995141402,Other_Non-Nat,9127,581 Weeping Birch Street,56 Roxbury Plaza,Court,Juzhnoe Tushino,Timashevsk,North-Ossetia-Alania,823000,RU,9/30/2017 1:40,7/5/2018 1:36
+73080710300,Other_Non-Nat,97,59 Eagan Avenue,034 Hudson Trail,Way,Poselenie Desjonovskoe,Kartaly,Ingushetia,711000,RU,12/27/2002 9:01,6/19/2017 12:56
+23645199805,Other_Nat,9,09 Nevada Hill,51 Morning Hill,Place,Gol'janovo,Argun,Karachay-Cherkess,589000,RU,12/8/2020 2:18,7/6/2017 23:09
+9307544107,Home_Res,7638,39 Pine View Court,15 Judy Road,Point,Vostochnoe,Gay,Karachay-Cherkess,761000,RU,7/26/2020 9:48,4/10/2020 17:50
+37288400500,Work_Non-Nat,1167,0 Banding Alley,95443 Buena Vista Street,Drive,Orehovo-Borisovo Severnoe,Krasnyy Sulin,Chuvash,268000,RU,9/10/2017 2:12,2/22/2017 1:01
+77473579900,Home_Res,74,440 Eagle Crest Hill,5298 Barnett Center,Hill,Alekseevskoe,Topki,Udmurt,841000,RU,6/10/2017 9:38,8/28/2019 7:43
+41108000800,Gaurdian_Non-Nat,77651,6843 Longview Junction,780 Cody Lane,Pass,Lomonosovskoe,Mostishche,Karachay-Cherkess,101000,RU,3/19/2009 18:17,1/15/2020 19:07
+71376636103,Gaurdian_Nat,7824,613 Glacier Hill Court,7024 Monterey Center,Lane,Altuf'evskoe,Anapa,Tatarstan,634000,RU,4/25/2018 7:33,5/21/2020 21:09
+21343713301,Other_Non-Nat,340,3 Judy Center,06 Stephen Crossing,Pass,Bibirevo,Novouralsk,Mordovia,337000,RU,9/26/2009 2:10,3/9/2020 9:11
+20517809109,Home_Citzn,6,32464 Independence Parkway,22 Bunting Parkway,Lane,Dorogomilovo,Volsk,Karachay-Cherkess,852000,RU,1/24/2016 15:01,7/17/2019 3:06
+86442945200,Home_Res,2,344 5th Lane,2 Springs Plaza,Pass,Vojkovskoe,Dalnerechensk,Chechnya,284000,RU,11/21/2020 21:27,6/26/2018 9:10
+51499291301,Gaurdian_Non-Nat,72760,1646 High Crossing Lane,777 Troy Hill,Trail,Horoshevskoe,Velikiye Luki,Buryat,484000,RU,1/14/2012 9:44,3/16/2020 12:17
+96232564500,Home_Citzn,988,00 Northridge Drive,52106 Northwestern Crossing,Pass,Basmannoe,Remontnoye,Adygey,674000,RU,10/24/2011 16:38,9/3/2017 5:24
+25923338305,Home_Citzn,41380,363 Ryan Center,2661 Ridge Oak Trail,Center,Golovinskoe,Stavropol,Chuvash,258000,RU,7/11/2003 14:40,6/5/2020 2:16
+22929436003,Gaurdian_Nat,6833,38653 Hazelcrest Court,6 Grayhawk Lane,Circle,Ivanovskoe,Kurganinsk,Mordovia,999000,RU,5/21/2002 7:06,7/17/2018 12:37
+36342114400,Work_Non-Nat,40365,547 Marquette Center,313 Golden Leaf Parkway,Trail,Otradnoe,Salekhard,Ingushetia,555000,RU,8/10/2014 0:07,5/20/2018 0:26
+68057283908,Home_Citzn,79716,16802 Pine View Plaza,893 Briar Crest Court,Crossing,Taganskoe,Tulun,Mari EL,347000,RU,1/4/2021 7:20,5/11/2020 0:29
+86538306805,Gaurdian_Non-Nat,3353,4970 Stone Corner Road,746 Golden Leaf Avenue,Avenue,Kotlovka,Verkhnyaya Pyshma,Chechnya,359000,RU,7/6/2002 18:35,1/2/2021 16:18
+61019559007,Home_Citzn,88,7 Fieldstone Way,83847 American Avenue,Street,Severnoe Butovo,Nakhodka,Kalmykia,176000,RU,2/21/2001 13:49,8/24/2019 23:28
+14080039405,Work_Non-Nat,970,2442 Lien Point,31404 Logan Plaza,Circle,Ivanovskoe,Saratov,Buryat,473000,RU,4/26/2001 6:17,11/19/2019 17:15
+93300656207,Gaurdian_Non-Nat,95354,488 Memorial Point,27864 Scott Road,Alley,Vojkovskoe,Verkhnyaya Pyshma,Altai,857000,RU,11/25/2002 21:30,11/4/2018 8:23
+31178969601,Home_Res,146,493 Vidon Avenue,9 Claremont Trail,Place,Jakimanka,Vesëlyy,Tatarstan,338000,RU,2/25/2007 23:02,8/23/2017 23:56
+18549936704,Gaurdian_Non-Nat,40818,76 Rieder Pass,5 Schlimgen Plaza,Hill,Chertanovo Central'noe,Okhansk,Tuva,669000,RU,6/3/2018 17:27,4/2/2018 10:14
+71178641608,Other_Nat,6854,0 Bonner Avenue,624 Farwell Pass,Place,Veshnjaki,Osinniki,Chechnya,159000,RU,3/17/2019 1:39,10/30/2017 18:31
+54552179902,Gaurdian_Non-Nat,6,79825 Elmside Plaza,7 5th Park,Road,Poselenie Desjonovskoe,Tula,Kabardino-Balkar,385000,RU,11/12/2018 1:11,8/17/2019 4:11
+57000123106,Work_Non-Nat,3515,77084 Bunker Hill Street,168 Gale Junction,Point,Matushkino,Tuymazy,Karelia,823000,RU,10/26/2000 16:09,1/30/2019 15:18
+1457355607,Other_Nat,74,5689 Bay Trail,626 Lighthouse Bay Road,Drive,Nagornoe,Topki,Kabardino-Balkar,777000,RU,12/9/2000 18:23,12/22/2019 6:47
+92857980603,Work_Non-Nat,8427,3 Merry Hill,580 Sommers Plaza,Drive,Novo-Peredelkino,Bugulma,Tatarstan,611000,RU,9/24/2010 13:04,8/12/2020 20:40
+89447110308,Home_Res,70,62891 7th Hill,40568 Hovde Street,Parkway,Zamoskvorech'e,Segezha,Mari EL,259000,RU,7/30/2014 1:43,3/21/2019 13:44
+28623815806,Home_Res,6,59385 Jay Alley,3405 Delaware Crossing,Court,Levoberezhnoe,Lytkarino,Karelia,558000,RU,7/12/2007 1:33,12/20/2018 4:19
+41694692901,Other_Nat,5327,847 Blue Bill Park Trail,57026 Brown Pass,Drive,Poselenie Desjonovskoe,Yefremov,Buryat,484000,RU,3/3/2004 10:13,6/24/2019 1:25
+59465826203,Gaurdian_Nat,8,2933 Jenna Place,87 Ryan Avenue,Street,Metrogorodok,Balabanovo,Karelia,176000,RU,12/30/2009 17:32,11/7/2018 23:44
+29933214800,Home_Res,74668,6383 Upham Center,530 Merry Plaza,Lane,Teplyj Stan,Shali,Kabardino-Balkar,815000,RU,5/31/2004 13:17,4/14/2020 14:58
+21101849801,Work_Nat,62811,5899 Hoard Hill,30 Summerview Avenue,Crossing,Ivanovskoe,Kovrov,North-Ossetia-Alania,521000,RU,4/1/2009 0:55,9/10/2017 21:09
+11941495503,Other_Nat,5632,9 Calypso Pass,79 Truax Point,Lane,Kurkino,Desnogorsk,Karachay-Cherkess,511000,RU,5/24/2004 20:07,7/9/2018 15:48
+79987299100,Work_Nat,909,43702 Goodland Way,2 Meadow Vale Drive,Plaza,Severnoe,Birobidzhan,Dagestan,496000,RU,5/17/2020 18:08,1/11/2021 3:26
+66304262301,Gaurdian_Non-Nat,643,635 Esker Center,126 Iowa Circle,Junction,Meshhanskoe,Yeysk,Karelia,337000,RU,12/30/2018 18:49,12/26/2019 12:19
+24099214402,Home_Citzn,82,18 8th Circle,99783 Oriole Plaza,Terrace,Donskoe,Votkinsk,Kabardino-Balkar,424000,RU,10/25/2018 13:58,1/7/2018 15:43
+2169081204,Other_Nat,6,6938 Golden Leaf Terrace,118 Hooker Way,Parkway,Nagatino-Sadovniki,Zelenogorsk,Komi,166000,RU,6/30/2000 10:37,1/26/2020 3:52
+25374198102,Gaurdian_Nat,2219,14 Surrey Drive,639 Grover Terrace,Street,Poselenie Kievskij,Belogorsk,Ingushetia,187000,RU,1/8/2018 18:54,10/5/2019 6:08
+54090653404,Other_Non-Nat,9603,79 Nobel Way,13112 Thierer Lane,Lane,Strogino,Minusinsk,Bashkortostan,166750,RU,3/30/2004 10:38,10/20/2017 6:41
+4325150200,Gaurdian_Non-Nat,5420,47612 Straubel Trail,75103 Duke Street,Center,Preobrazhenskoe,Ruzayevka,Chuvash,985000,RU,9/20/2018 17:43,4/21/2018 1:49
+32729131202,Gaurdian_Nat,31,33652 Loomis Place,2 Oxford Street,Place,Severnoe,Chertkovo,Adygey,147000,RU,4/3/2016 5:32,10/23/2019 8:09
+16355965201,Home_Res,3,356 Carpenter Center,2 Eggendart Pass,Road,Fili Davydkovo,Mozhaysk,Buryat,879000,RU,6/7/2012 7:11,7/8/2019 17:02
+34976296000,Gaurdian_Nat,46,9450 Dovetail Hill,4485 Memorial Trail,Park,Moskvorech'e-Saburovo,Bogoroditsk,Khakass,194000,RU,9/10/2016 6:59,3/27/2019 12:49
+58734483405,Work_Nat,3,304 Comanche Point,9 Carberry Trail,Terrace,Severnoe Tushino,Segezha,Tuva,264000,RU,10/6/2010 22:46,3/28/2019 18:35
+34152618106,Home_Res,2724,5786 Farmco Road,22711 Manley Terrace,Place,Rjazanskij,Mostovskoy,Ingushetia,815000,RU,5/11/2015 4:51,9/26/2018 7:04
+65494789905,Other_Nat,8,6890 Arkansas Point,8 Aberg Plaza,Parkway,Severnoe Tushino,Kuznetsk,Tuva,111000,RU,2/26/2016 12:47,3/23/2018 21:53
+64466557308,Other_Non-Nat,805,7 Melrose Drive,4217 Hallows Point,Avenue,Vostochnoe,Svetlograd,Buryat,338000,RU,7/7/2001 10:41,6/4/2019 18:24
+4888470001,Gaurdian_Non-Nat,32,7011 Golf Circle,52 Brown Court,Parkway,Ivanovskoe,Kanevskaya,Tatarstan,385000,RU,11/17/2007 22:28,12/14/2020 11:38
+43048839303,Home_Res,2321,819 Farwell Place,9329 Green Terrace,Road,Nekrasovka,Roslavl,Karelia,160000,RU,11/21/2003 12:01,10/2/2017 23:52
+54079196201,Home_Citzn,738,419 Gateway Road,942 Rockefeller Drive,Plaza,Basmannoe,Ust’-Donetskiy,Khakass,176000,RU,11/24/2011 8:24,1/26/2019 12:30
+59100956500,Work_Nat,67660,5 Eagle Crest Plaza,8 Susan Avenue,Way,Fili Davydkovo,Vesëlyy,Sakha,158000,RU,4/10/2010 7:02,2/12/2017 8:26
+41885138002,Gaurdian_Non-Nat,71950,30 John Wall Crossing,50451 Dakota Park,Point,Timirjazevskoe,Kursk,Kalmykia,311000,RU,9/8/2017 8:57,8/7/2018 2:10
+4017141600,Other_Nat,86,52456 Schlimgen Road,3549 Butterfield Plaza,Alley,Ostankinskoe,Kachkanar,Tuva,297000,RU,7/14/2001 0:02,9/16/2020 12:57
+49506436104,Work_Nat,7,25 Stuart Alley,77350 Center Drive,Drive,Poselenie Shhapovskoe,Baksan,Udmurt,111000,RU,3/2/2004 23:06,1/29/2017 3:42
+57447702106,Work_Non-Nat,64,490 Melby Place,37 Moulton Terrace,Trail,Cheremushki,Tver,Mari EL,338000,RU,12/8/2000 15:07,7/29/2018 10:15
+49187198201,Work_Non-Nat,914,97611 Fair Oaks Street,95 Hermina Center,Plaza,Silino,Ufa,Khakass,160000,RU,9/26/2020 0:44,4/4/2020 22:10
+46160300605,Gaurdian_Nat,5423,78904 Northwestern Court,1321 Anniversary Junction,Trail,Perovo,Neftekamsk,Adygey,101000,RU,7/27/2008 1:49,2/25/2018 6:10
+57716526208,Work_Non-Nat,204,93 Union Alley,54108 Corben Terrace,Place,Poselenie Klenovskoe,Buguruslan,Komi,667000,RU,12/21/2009 6:43,10/21/2020 13:36
+13451572704,Work_Nat,7,34 Waxwing Lane,4146 Karstens Trail,Crossing,Preobrazhenskoe,Tosno,Dagestan,101000,RU,4/30/2010 1:23,8/24/2020 3:19
+21029531507,Other_Non-Nat,647,0314 Mccormick Court,69553 Larry Drive,Point,Vyhino-Zhulebino,Laptëvo,Kabardino-Balkar,985000,RU,2/10/2002 1:40,6/25/2017 7:07
+42480871308,Home_Citzn,2,495 Kipling Plaza,22 Twin Pines Drive,Circle,Babushkinskoe,Serpukhov,Ingushetia,411000,RU,12/9/2020 15:12,9/15/2018 7:21
+5923752805,Gaurdian_Nat,3,0 Prairie Rose Parkway,577 School Lane,Road,Poselenie Desjonovskoe,Gay,Adygey,160000,RU,6/1/2005 22:19,6/21/2017 10:54
+58141944201,Other_Nat,20,97267 Rusk Alley,9 Truax Circle,Point,Severnoe Butovo,Grayvoron,Sakha,111000,RU,2/18/2007 10:26,9/29/2020 11:26
+42986368100,Other_Nat,4,19 Mccormick Crossing,689 Forster Junction,Street,Poselenie Voskresenskoe,Seversk,Dagestan,558000,RU,7/17/2016 12:48,10/11/2018 6:07
+78626837104,Home_Citzn,17,378 Stoughton Pass,5 Wayridge Court,Parkway,Zjuzino,Ishimbay,Sakha,246000,RU,8/20/2010 7:58,5/17/2017 1:09
+73743005507,Work_Nat,90,9 Loeprich Pass,96 Harbort Terrace,Park,Izmajlovo,Klintsy,Chechnya,228000,RU,7/28/2007 18:33,10/2/2019 4:28
+55651616507,Work_Non-Nat,90563,88 Clyde Gallagher Street,8 Comanche Way,Circle,Chertanovo Juzhnoe,Nazarovo,Udmurt,741000,RU,1/12/2006 7:58,1/10/2020 8:28
+85110815000,Work_Nat,4,62963 Oxford Street,90175 Farmco Junction,Way,Zapadnoe Degunino,Lensk,Kabardino-Balkar,297000,RU,11/13/2020 15:43,11/20/2017 8:02
+86012695901,Other_Nat,1,4245 Myrtle Crossing,6 Blackbird Road,Center,Severnoe Izmajlovo,Otradnoye,Udmurt,741000,RU,1/20/2017 18:39,5/30/2019 7:47
+61075729906,Work_Non-Nat,9397,80637 Menomonie Place,98 Coolidge Lane,Terrace,Jakimanka,Maykop,Kabardino-Balkar,634000,RU,9/16/2008 11:45,4/29/2019 1:28
+30119212906,Other_Non-Nat,63039,9075 Nova Junction,221 Bultman Junction,Point,Gol'janovo,Cheboksary,Karachay-Cherkess,257000,RU,1/7/2006 18:47,12/7/2019 21:57
+47834737104,Other_Non-Nat,2776,6354 Blaine Alley,41238 Browning Park,Center,Orehovo-Borisovo Juzhnoe,Myski,Bashkortostan,758000,RU,11/19/2013 9:21,2/10/2019 5:09
+58632256503,Home_Res,64141,44 Knutson Street,61 Delaware Circle,Place,Teplyj Stan,Volkhov,Altai,167000,RU,6/11/2000 18:42,10/23/2017 18:03
+10397872105,Home_Res,31,06 South Court,79 Glendale Place,Alley,Vojkovskoe,Yefremov,Tatarstan,484000,RU,7/18/2020 2:42,12/3/2020 12:49
+58815068505,Gaurdian_Nat,2,6899 Algoma Court,76925 Mosinee Parkway,Junction,Marfino,Ostrogozhsk,Khakass,758000,RU,3/23/2017 20:52,8/5/2017 11:19
+67506317602,Gaurdian_Nat,2560,58 Steensland Alley,5 Forest Run Street,Place,Zamoskvorech'e,Kudymkar,Karachay-Cherkess,118000,RU,11/19/2012 9:24,12/24/2019 7:39
+68727158908,Home_Citzn,4209,6106 3rd Crossing,86822 Haas Park,Place,Vostochnoe,Pionerskiy,Sakha,875000,RU,3/9/2013 1:14,8/20/2019 19:14
+59094891708,Work_Nat,385,6539 Victoria Terrace,0902 Ruskin Pass,Drive,Sokolinaja Gora,Morshansk,Kalmykia,166750,RU,7/15/2007 3:02,3/31/2020 16:07
+41881553307,Gaurdian_Nat,9,19026 Anniversary Terrace,4 Cottonwood Circle,Trail,Begovoe,Gelendzhik,Chuvash,111000,RU,3/18/2019 19:43,5/15/2020 14:10
+981853605,Gaurdian_Nat,81,14 Hudson Center,8764 Jenifer Avenue,Pass,Severnoe Tushino,Krasnoarmeysk,Adygey,311000,RU,1/20/2002 16:49,12/9/2019 0:46
+13698025208,Home_Res,6414,2 Village Green Road,426 Goodland Alley,Lane,Krasnosel'skoe,Chita,Chuvash,225000,RU,11/20/2010 23:06,2/28/2018 6:45
+89554319209,Gaurdian_Non-Nat,4,75536 Steensland Center,8160 Shoshone Court,Avenue,Orehovo-Borisovo Severnoe,Novoaltaysk,Chuvash,194000,RU,9/22/2008 12:58,11/22/2019 22:06
+6313064309,Work_Nat,9,10 Clemons Junction,28 Delladonna Hill,Alley,Sviblovo,Sasovo,Karachay-Cherkess,985000,RU,5/25/2007 16:05,11/19/2019 14:06
+14209224106,Gaurdian_Non-Nat,6636,0968 Carioca Avenue,8905 Stoughton Way,Circle,Danilovskoe,Monchegorsk,North-Ossetia-Alania,815000,RU,8/8/2019 19:50,7/15/2019 4:25
+39277107902,Work_Nat,1,36 Hudson Point,8 Schurz Court,Parkway,Obruchevskoe,Unecha,Bashkortostan,496000,RU,2/3/2006 17:56,4/12/2019 23:10
+45235671400,Other_Nat,54,57524 Manley Court,876 Stone Corner Way,Crossing,Marfino,Karabulak,Buryat,741000,RU,8/23/2003 17:52,6/26/2019 3:35
+420661400,Gaurdian_Non-Nat,1,3 Mariners Cove Road,5729 Dorton Junction,Center,Novo-Peredelkino,Ulyanovsk,Mari EL,297000,RU,8/17/2019 3:49,9/13/2018 6:41
+24713565705,Gaurdian_Nat,346,4509 Springs Trail,27493 Randy Pass,Road,Gagarinskoe,Makushino,Chechnya,259000,RU,12/15/2003 8:47,2/10/2017 5:48
+15306602809,Work_Nat,1643,4 Texas Avenue,51 Bunting Drive,Road,Vojkovskoe,Mostovskoy,Buryat,484000,RU,5/1/2020 13:58,7/9/2019 19:04
+46418004604,Home_Res,2,90 John Wall Lane,52 Towne Road,Plaza,Kuncevo,Nazran,Bashkortostan,168000,RU,4/24/2016 9:59,2/6/2019 23:53
+16973081200,Other_Non-Nat,4153,010 Hintze Lane,32947 Di Loreto Lane,Way,Kosino-Uhtomskoe,Volzhsk,Adygey,841000,RU,7/22/2008 9:39,8/7/2019 12:15
+31046965403,Home_Res,49,6 Larry Road,30361 Valley Edge Place,Point,Poselenie Vnukovskoe,Borzya,Komi,555000,RU,1/25/2005 1:44,10/10/2018 14:14
+58948603304,Gaurdian_Nat,4920,4828 Laurel Hill,7 Tomscot Court,Alley,Orehovo-Borisovo Severnoe,Khimki,North-Ossetia-Alania,311000,RU,12/27/2005 13:04,8/6/2017 17:19
+9023381503,Home_Res,6114,6946 Carpenter Park,71066 Stephen Crossing,Alley,Vyhino-Zhulebino,Krasnoyarsk,Ingushetia,351000,RU,9/10/2000 5:27,6/25/2018 0:57
+77488765902,Gaurdian_Nat,55395,29686 Del Sol Way,3 5th Point,Place,Poselenie Rjazanovskoe,Sorochinsk,Altai,111000,RU,9/4/2012 23:32,3/27/2019 19:42
+16693896000,Gaurdian_Nat,44549,33 Barby Road,62 Prairieview Court,Court,Timirjazevskoe,Yemanzhelinsk,Buryat,521000,RU,8/6/2010 15:22,4/3/2017 23:35
+1259007509,Work_Nat,0,772 Park Meadow Parkway,49410 Leroy Parkway,Alley,Golovinskoe,Murmansk,Tatarstan,153000,RU,1/9/2009 16:47,12/29/2020 14:35
+90822767800,Home_Citzn,83260,5032 Delaware Hill,0044 Susan Alley,Hill,Kotlovka,Buynaksk,Chuvash,758000,RU,10/17/2014 2:29,9/3/2019 17:48
+20981090705,Other_Nat,99,18 Killdeer Point,8 Atwood Parkway,Plaza,Begovoe,Semënov,Kalmykia,338000,RU,3/3/2004 10:10,9/11/2020 10:38
+10990838108,Other_Nat,1,58684 Bunker Hill Pass,142 Maple Road,Terrace,Mitino,Sharypovo,Tuva,667000,RU,6/23/2000 6:55,5/4/2019 23:26
+91965216403,Gaurdian_Non-Nat,1782,3 Portage Street,45098 Namekagon Lane,Lane,Beskudnikovskoe,Nevyansk,North-Ossetia-Alania,555000,RU,6/24/2007 4:50,9/23/2019 5:41
+97440947405,Home_Citzn,78,8232 Tennyson Plaza,4761 Lerdahl Trail,Pass,Bibirevo,Severobaykalsk,Chechnya,484000,RU,5/8/2004 1:13,1/6/2018 14:38
+53481703800,Gaurdian_Nat,5444,08 Toban Street,1230 Pleasure Center,Way,Horoshevo-Mnevniki,Khanty-Mansiysk,Altai,297000,RU,10/24/2010 22:49,5/13/2018 16:16
+57937912506,Work_Non-Nat,441,2 Old Gate Way,2 Brickson Park Road,Court,Meshhanskoe,Arsenyev,Komi,666000,RU,1/18/2007 17:05,12/28/2019 6:14
+10957662001,Gaurdian_Non-Nat,81677,878 Moulton Place,48 Mitchell Terrace,Parkway,Chertanovo Central'noe,Chita,Altai,359000,RU,11/23/2006 3:51,4/28/2017 14:24
+46845141405,Home_Citzn,999,83 Esch Lane,66012 Ridgeway Lane,Lane,Novogireevo,Kazanskaya,Dagestan,334000,RU,9/10/2007 4:21,1/13/2019 17:55
+96765775002,Work_Non-Nat,26,2780 8th Park,34305 Bowman Center,Trail,Severnoe Butovo,Ivanteyevka,Chechnya,941000,RU,8/14/2012 4:01,3/18/2018 6:29
+10832058700,Work_Nat,738,00 Dawn Point,2249 Myrtle Drive,Lane,Alekseevskoe,Krasnoyarsk,Tuva,369000,RU,3/16/2005 18:36,11/29/2018 16:23
+42179313600,Work_Non-Nat,870,182 Scott Court,588 Blue Bill Park Trail,Drive,Basmannoe,Tosno,Dagestan,180000,RU,2/9/2000 22:37,7/31/2019 9:43
+87406423604,Other_Non-Nat,49,8 Colorado Center,9727 Debra Center,Way,Alekseevskoe,Krasnoyarsk,Komi,711000,RU,9/21/2011 15:58,10/27/2020 15:58
+97004164906,Work_Non-Nat,23,39 John Wall Center,544 Susan Hill,Street,Krasnosel'skoe,Kashary,Altai,946000,RU,6/2/2005 9:07,6/30/2020 18:46
+13806056905,Gaurdian_Non-Nat,3,9 Grasskamp Place,537 Main Park,Road,Otradnoe,Primorsko-Akhtarsk,Karelia,176000,RU,7/28/2013 8:54,1/9/2018 10:06
